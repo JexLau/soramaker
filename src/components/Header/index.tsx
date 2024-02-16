@@ -14,10 +14,11 @@ export function Header({ downloadText, href }: { downloadText?: string, href?: s
     title: t("Examples"),
     href: "/playground"
   },
-    //  {
-    //   title: t("Datafields"),
-    //   href: "/#datafields"
-    // }, {
+     {
+      title: "Latest News",
+      href: "/hacker-news"
+    }, 
+    // {
     //   title: t("Pricing"),
     //   href: "/#pricing"
     // }, {

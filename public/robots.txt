@@ -2,4 +2,4 @@
 User-agent: *
 
 # Sitemaps
-Sitemap: https://replaceanything.online/sitemap.xml
+Sitemap: https://soramaker.ai/sitemap.xml

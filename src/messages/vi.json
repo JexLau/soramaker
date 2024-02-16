@@ -8,7 +8,7 @@
     "Free to try": "Bắt đầu",
     "Contact": "Liên hệ",
     "Legal": "Pháp lý",
-    "Rights": "Bản quyền © 2023 ReplaceAnything. Tất cả quyền được bảo lưu."
+    "Rights": "Bản quyền © 2023 SoraMaker. Tất cả quyền được bảo lưu."
   },
   "LocaleSwitcher": {
     "label": "Thay đổi ngôn ngữ",
@@ -16,13 +16,13 @@
   },
   "Hero": {
     "Easy": "Thay thế nội dung chất lượng",
-    "text1": "Khung ReplaceAnything ở tuyến đầu của những tiến bộ mới nhất trong các kỹ thuật nội dung được tạo bởi AI (AIGC). Công nghệ sáng tạo này đang nhận được sự chú ý đáng kể với khả năng xuất sắc trong chỉnh sửa và tạo hình ảnh.",
-    "text2": "Một tính năng chính của ReplaceAnything là khả năng tạo ra nội dung mới trong khi giữ gìn cẩn thận bản sắc của các đối tượng do người dùng chỉ định. Chức năng này không chỉ được tìm kiếm nhiều mà còn đặt ra thách thức độc đáo. ReplaceAnything linh hoạt, với ứng dụng từ thay thế con người đến quần áo và thay thế nền, làm cho nó trở thành một cuộc chơi thay đổi trong nhiều tình huống."
+    "text1": "Khung SoraMaker ở tuyến đầu của những tiến bộ mới nhất trong các kỹ thuật nội dung được tạo bởi AI (AIGC). Công nghệ sáng tạo này đang nhận được sự chú ý đáng kể với khả năng xuất sắc trong chỉnh sửa và tạo hình ảnh.",
+    "text2": "Một tính năng chính của SoraMaker là khả năng tạo ra nội dung mới trong khi giữ gìn cẩn thận bản sắc của các đối tượng do người dùng chỉ định. Chức năng này không chỉ được tìm kiếm nhiều mà còn đặt ra thách thức độc đáo. SoraMaker linh hoạt, với ứng dụng từ thay thế con người đến quần áo và thay thế nền, làm cho nó trở thành một cuộc chơi thay đổi trong nhiều tình huống."
   },
   "Faqs": {
     "h2": "Perguntas Frequentes",
-    "desc1": "ReplaceAnything é um software de edição de imagem de ponta adaptado às necessidades específicas de uma ampla gama de usuários. Atendendo proprietários de negócios de comércio eletrônico, fotógrafos e designers gráficos, ReplaceAnything oferece um conjunto de recursos para enfrentar eficazmente seus desafios de edição de imagem.",
-    "desc3": "ReplaceAnything é mais do que um mero software; representa o futuro da criação de conteúdo de imagem, servindo como uma ferramenta formidável para profissionais em processamento de imagem e design visual.",
+    "desc1": "SoraMaker é um software de edição de imagem de ponta adaptado às necessidades específicas de uma ampla gama de usuários. Atendendo proprietários de negócios de comércio eletrônico, fotógrafos e designers gráficos, SoraMaker oferece um conjunto de recursos para enfrentar eficazmente seus desafios de edição de imagem.",
+    "desc3": "SoraMaker é mais do que um mero software; representa o futuro da criação de conteúdo de imagem, servindo como uma ferramenta formidável para profissionais em processamento de imagem e design visual.",
     "q0": "Framework Sora Maker: Pioneirismo na Edição de Imagem e Geração de Conteúdo",
     "a0": "Na era florescente da criação de conteúdo digital, as tecnologias AIGC estão transformando a paisagem da edição e geração de imagens. Sora Maker lidera esse avanço tecnológico, concentrando-se na criação de conteúdo fresco enquanto mantém as características distintas de objetos especificados pelo usuário - uma demanda ampla, mas desafiadora.",
     "q3": "Sora Maker: Mesclando Preservação de Identidade de Alta Fidelidade com Criação de Conteúdo Inovadora",

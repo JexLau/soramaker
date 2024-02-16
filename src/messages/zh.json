@@ -9,7 +9,7 @@
     "Contact": "联系方式",
     "Legal": "法律信息",
     "Examples": "广场",
-    "Rights": "版权所有 © 2023 ReplaceAnything。保留所有权利。"
+    "Rights": "版权所有 © 2023 SoraMaker。保留所有权利。"
   },
   "LocaleSwitcher": {
     "label": "更改语言",
@@ -39,7 +39,7 @@
   },
   "ContentSection": {
     "Authors": "智能计算研究院，阿里巴巴集团",
-    "title": "ReplaceAnything<br />超高质量内容替换",
+    "title": "SoraMaker<br />超高质量内容替换",
     "desc": "AIGC技术最近吸引了大量关注。它们在图像编辑、图像生成等领域展现出了强大的能力。<br />我们发现，在严格保持使用指定对象身份不变的同时生成新内容是非常有需求但又充满挑战的。<br />为此，我们提出了ReplaceAnything框架。它可以用于多种场景，如人物替换、服装替换、背景替换等。",
     "help": "如果您觉得这个项目有帮助，您可以点击",
     "help2": "上的星星🌟来获取项目的最新更新。",
@@ -59,7 +59,7 @@
     "s4": "此外，还支持更换背景。上传所需风格的背景，并在完成第3步后点击“运行”，以生成带有新背景的内容。"
   },
   "Playground": {
-    "title": "ReplaceAnything：服装替换、背景替换、人物替换的超高质量内容替换游乐场",
+    "title": "SoraMaker：服装替换、背景替换、人物替换的超高质量内容替换游乐场",
     "description": "ReplaceAnything框架可用于多种场景，如人物替换、服装替换、背景替换。",
     "t1": "服装替换",
     "t2": "身份证照片和家庭照片的背景替换",

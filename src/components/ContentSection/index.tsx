@@ -19,7 +19,10 @@ export function ContentSection({ src}: { src?: string}) {
             <div className="relative overflow-hidden rounded-3xl bg-gray-900  shadow-2xl lg:max-w-lg lg:pb-8 xl:pb-10">
               <figure className="relative isolate">
                 {/* <img src="/main.jpeg" alt="" className="w-full h-auto" /> */}
-                <video loop src="/tokyo-walk.mp4"></video>
+                <video loop width="750" controls className="aspect-video rounded-xl bg-gray-50 object-cover">
+            <source src="/tokyo-walk.mp4" type="video/mp4" />
+            Your browser does not support the video tag.
+          </video>
                 <blockquote className="mt-6 text-xl font-semibold leading-8 text-white px-8 ">
                   <p>
                   Sora can generate videos up to a minute long while maintaining visual quality and adherence to the user’s prompt.

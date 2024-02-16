@@ -39,7 +39,7 @@ export function SocialShare({ className = [] }: SocialShareProps) {
       </FacebookShareButton>
 
       {/* Twitter */}
-      <TwitterShareButton url={currentUrl} title={title} hashtags={['ReplaceAnything']}>
+      <TwitterShareButton url={currentUrl} title={title} hashtags={['SoraMaker']}>
         <TwitterIcon size={32} round />
       </TwitterShareButton>
 

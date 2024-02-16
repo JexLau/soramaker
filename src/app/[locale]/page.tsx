@@ -19,16 +19,12 @@ export default function Home({ params }: { params: Record<string, string> }) {
   const { locale = 'en' } = params;
   const t = useTranslations('Index')
   const ct = useTranslations('Common')
-  const source = locale === 'zh' ? 'https://www.modelscope.cn/inner/studio/gradio?backend_url=/api/v1/studio/damo/ReplaceAnything/gradio/&sdk_version=3.47.1' : 'https://modelscope-replaceanything.hf.space/?__theme=light'
   return (
     <>
       <Meta title={t('title')} description={t('description')} locale={locale} />
       <Header downloadText={ct("Free to try")} />
-      <ContentSection src={source} />
-      {/* <Hero /> */}
-      {/* <Replace src={source} className={locale === 'zh' ? ['lg:-top-64 max-sm:-top-80'] : []} /> */}
+      <ContentSection />
       <DescSection />
-      <Faqs />
       <Footer />
       <SocialShare className={['fixed top-[30%] left-2 flex-col gap-2 z-[2000] hidden lg:flex']} />
     </>

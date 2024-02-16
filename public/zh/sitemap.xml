@@ -6,13 +6,13 @@
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <url>
-        <loc>https://replaceanything.online/zh</loc>
-        <lastmod>2024-01-14T00:32:39.951Z</lastmod>
+        <loc>https://soramaker.ai/zh</loc>
+        <lastmod>2024-02-16T03:29:15.670Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://replaceanything.online/zh/playground</loc>
+        <loc>https://soramaker.ai/zh/playground</loc>
         <lastmod>2024-01-14T00:59:57.430Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>

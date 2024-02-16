@@ -1,7 +1,7 @@
 {
   "Index": {
-    "title": "ReplaceAnything as you want: Ultra-high quality content replacement",
-    "description": "ReplaceAnything framework can be used in many scenes, such as human replacement, clothing replacement, background replacement.",
+    "title": "SoraMaker as you want: Ultra-high quality content replacement",
+    "description": "SoraMaker framework can be used in many scenes, such as human replacement, clothing replacement, background replacement.",
     "keywords": "Online replacement tool, text editing, image editing, content management, web editor"
   },
   "Common": {
@@ -9,7 +9,7 @@
     "Contact": "Contact",
     "Legal": "Legal",
     "Examples": "PlayGround",
-    "Rights": "Copyright © 2023 ReplaceAnything. All rights reserved."
+    "Rights": "Copyright © 2023 SoraMaker. All rights reserved."
   },
   "LocaleSwitcher": {
     "label": "Change language",    
@@ -17,13 +17,13 @@
   },
   "Hero": {
     "Easy": "Quality content replacement",
-    "text1": "The ReplaceAnything framework is at the forefront of the latest advancements in AI-generated content (AIGC) techniques. This innovative technology is gaining significant attention for its remarkable abilities in image editing and generation.",
-    "text2": "A key feature of ReplaceAnything is its capacity to generate new content while meticulously preserving the identity of user-specified objects. This functionality is not only highly sought-after but also presents a unique challenge. ReplaceAnything is versatile, with applications ranging from human to clothing and background replacement, making it a game-changer in various scenarios."
+    "text1": "The SoraMaker framework is at the forefront of the latest advancements in AI-generated content (AIGC) techniques. This innovative technology is gaining significant attention for its remarkable abilities in image editing and generation.",
+    "text2": "A key feature of SoraMaker is its capacity to generate new content while meticulously preserving the identity of user-specified objects. This functionality is not only highly sought-after but also presents a unique challenge. SoraMaker is versatile, with applications ranging from human to clothing and background replacement, making it a game-changer in various scenarios."
   },
   "Faqs": {
     "h2": "Frequently Asked Questions",
-    "desc1": "ReplaceAnything is a cutting-edge image editing software tailored to the specific needs of a diverse range of users. Catering to e-commerce business owners, photographers, and graphic designers, ReplaceAnything delivers a suite of features to address their image editing challenges effectively.",
-    "desc3": "ReplaceAnything is more than mere software; it represents the future of image content creation, serving as a formidable tool for professionals in image processing and visual design.",
+    "desc1": "SoraMaker is a cutting-edge image editing software tailored to the specific needs of a diverse range of users. Catering to e-commerce business owners, photographers, and graphic designers, SoraMaker delivers a suite of features to address their image editing challenges effectively.",
+    "desc3": "SoraMaker is more than mere software; it represents the future of image content creation, serving as a formidable tool for professionals in image processing and visual design.",
     "q0": "Sora Maker Framework: Pioneering in Image Editing and Content Generation",
     "a0": "In the flourishing age of digital content creation, AIGC technologies are transforming the landscape of image editing and generation. Sora Maker leads this technological surge, focusing on creating fresh content while maintaining the distinctive features of user-specified objects—a widespread yet challenging demand.",
     "q3": "Sora Maker: Blending High-Fidelity Identity Preservation with Innovative Content Creation",
@@ -39,8 +39,8 @@
   },
   "ContentSection": {
     "Authors": "Institute for Intelligent Computing, Alibaba Group",
-    "title": "ReplaceAnything <br /> Ultra-high quality content replacement",
-    "desc": "AIGC techniques have attracted lots of attention recently. They have demonstrated strong capabilities in the areas of image editing, image generation and so on. We find that generating new contents while strictly keeping the identity of use-specified object unchanged is of great demand, yet challenging. To this end, we propose ReplaceAnything framework. It can be used in many scenes, such as human replacement, clothing replacement, background replacement, and so on.",
+    "title": "SoraMaker <br /> Ultra-high quality content replacement",
+    "desc": "AIGC techniques have attracted lots of attention recently. They have demonstrated strong capabilities in the areas of image editing, image generation and so on. We find that generating new contents while strictly keeping the identity of use-specified object unchanged is of great demand, yet challenging. To this end, we propose SoraMaker framework. It can be used in many scenes, such as human replacement, clothing replacement, background replacement, and so on.",
     "help": "If you found the project helpful, you can click a Star🌟 on ",
     "help2": " to get the latest updates on the project.",
     "Start to Try": "Start to Try"
@@ -59,8 +59,8 @@
     "s4": "Additionally, there's support for changing the background. Upload the desired style background and, after completing Step 3, click on \"Run\" to generate the content with the new background."
   },
   "Playground": {
-    "title": "ReplaceAnything: Ultra-high quality content replacement playground for clothing replacement, background replacement, human replacement",
-    "description": "ReplaceAnything framework can be used in many scenes, such as human replacement, clothing replacement, background replacement.",
+    "title": "SoraMaker: Ultra-high quality content replacement playground for clothing replacement, background replacement, human replacement",
+    "description": "SoraMaker framework can be used in many scenes, such as human replacement, clothing replacement, background replacement.",
     "t1": "Clothing Replacement",
     "t2": "Background Replacement for ID photo and family photo",
     "t3": "Human Replacement",

@@ -16,7 +16,7 @@ export function Header({ downloadText, href }: { downloadText?: string, href?: s
   },
      {
       title: "Latest News",
-      href: "/hacker-news"
+      href: "/lastest-news"
     }, 
     // {
     //   title: t("Pricing"),

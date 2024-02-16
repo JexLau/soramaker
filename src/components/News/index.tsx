@@ -33,7 +33,7 @@ export const CommentsContent = () => {
 
 
   if (loading) {
-    return <p>Loading comments...</p>;
+    return <div className='w-full h-full flex items-center justify-center'>Loading comments...</div>;
   }
   return (
     <div className='mt-24'>

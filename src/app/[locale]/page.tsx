@@ -5,7 +5,7 @@ import { DescSection } from '@/components/DescSection'
 import { Faqs } from '@/components/Faqs'
 import { Footer } from '@/components/Footer'
 import { Header } from '@/components/Header'
-import { Hero } from '@/components/Hero'
+// import { Hero } from '@/components/Hero'
 import { HowToWorkSection } from '@/components/HowToWorkSection'
 import { Meta } from '@/components/Meta'
 import { Pricing } from '@/components/Pricing'
@@ -26,7 +26,7 @@ export default function Home({ params }: { params: Record<string, string> }) {
       <Header downloadText={ct("Free to try")} />
       <ContentSection src={source} />
       {/* <Hero /> */}
-      <Replace src={source} className={locale === 'zh' ? ['lg:-top-64 max-sm:-top-80'] : []} />
+      {/* <Replace src={source} className={locale === 'zh' ? ['lg:-top-64 max-sm:-top-80'] : []} /> */}
       <DescSection />
       <Faqs />
       <Footer />

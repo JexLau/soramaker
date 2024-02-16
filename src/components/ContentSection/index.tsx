@@ -18,20 +18,16 @@ export function ContentSection({ src}: { src?: string}) {
           <div className="lg:pr-4">
             <div className="relative overflow-hidden rounded-3xl bg-gray-900  shadow-2xl lg:max-w-lg lg:pb-8 xl:pb-10">
               <figure className="relative isolate">
-                <img src="/main.jpeg" alt="" className="w-full h-auto" />
+                {/* <img src="/main.jpeg" alt="" className="w-full h-auto" /> */}
+                <video loop src="/tokyo-walk.mp4"></video>
                 <blockquote className="mt-6 text-xl font-semibold leading-8 text-white px-8 ">
                   <p>
-                    {t("Authors")}
+                  Sora can generate videos up to a minute long while maintaining visual quality and adherence to the user’s prompt.
                   </p>
                 </blockquote>
                 <figcaption className="mt-6 text-sm leading-6 text-gray-300 px-8 ">
-                  <strong className="font-semibold text-white">Author by: </strong>
-                  <a href="https://scholar.google.com.hk/citations?user=-2uIiz4AAAAJ&amp;hl=zh-CN">Binghui Chen</a>,
-                  <a href="https://github.com/AIGCDesignGroup/ReplaceAnythingZ">Chao Li</a>,
-                  <a href="https://scholar.google.com.hk/citations?user=ODTZZ4wAAAAJ&amp;hl=zh-CN">Chongyang Zhong</a>,
-                  <a href="https://scholar.google.com.hk/citations?user=LFNwNF4AAAAJ&amp;hl=en">Wangmeng Xiang</a>,
-                  <a href="https://github.com/AIGCDesignGroup/ReplaceAnythingZ">Yifeng Geng</a>,
-                  <a href="https://github.com/AIGCDesignGroup/ReplaceAnythingZ">Xuansong Xie</a>
+                  
+                Prompt: A stylish woman walks down a Tokyo street filled with warm glowing neon and animated city signage. She wears a black leather jacket, a long red dress, and black boots, and carries a black purse. She wears sunglasses and red lipstick. She walks confidently and casually. The street is damp and reflective, creating a mirror effect of the colorful lights. Many pedestrians walk about.
                 </figcaption>
               </figure>
             </div>
@@ -42,25 +38,30 @@ export function ContentSection({ src}: { src?: string}) {
           <div>
             <div className="text-base leading-7 text-gray-700 lg:max-w-lg">
               {/* <p className="text-base font-semibold leading-7 text-indigo-600">Company values</p> */}
-              <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl" dangerouslySetInnerHTML={{ __html: t("title")}}>
+              <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+              {`Meet Sora, OpenAI's Text-to-Video Generator`}
               </h1>
               <SocialShare className={['lg:hidden grid grid-cols-8 mt-4']} />
               <div className="max-w-xl">
-                <p className="mt-6" dangerouslySetInnerHTML={{__html: t("desc")}}>
+                <p className="mt-6" >
+                {`Sora, OpenAI's text-to-video generator, can generate complex scenes with multiple characters, specific types of motion, and accurate details of the subject and background. It can also animate still images.`}
                 </p>
                 <p className="mt-8">
-                  {t("help")} <a href="https://github.com/AIGCDesignGroup/ReplaceAnything" className=" underline text-blue-700">Github</a> {t("help2")}
+                We’re teaching AI to understand and simulate the physical world in motion, with the goal of training models that help people solve problems that require real-world interaction.
+                </p>
+                <p  className="mt-8">
+                {`In another breakthrough into generative artificial intelligence, the maker of ChatGPT has unveiled a new tool that can instantly make short videos in response to written commands. Microsoft-backed OpenAI's new text-to-video generator is called Sora. While big tech giants like Google and Meta have demonstrated similar technology in the past, OpenAI has gone way ahead in terms of quality.`}
                 </p>
               </div>
             </div>
-            <dl className="mt-10 grid grid-cols-2 gap-8 border-t border-gray-900/10 pt-10 sm:grid-cols-4">
+            {/* <dl className="mt-10 grid grid-cols-2 gap-8 border-t border-gray-900/10 pt-10 sm:grid-cols-4">
               {stats.map((stat, statIdx) => (
                 <div key={statIdx}>
                   <dt className="text-sm font-semibold leading-6 text-gray-600">{stat.label}</dt>
                   <dd className="mt-2 text-3xl font-bold leading-10 tracking-tight text-gray-900">{stat.value}</dd>
                 </div>
               ))}
-            </dl>
+            </dl> */}
           </div>
         </div>
       </div>

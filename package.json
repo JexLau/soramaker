@@ -14,6 +14,7 @@
     "@headlessui/react": "^1.7.17",
     "@headlessui/tailwindcss": "^0.2.0",
     "@heroicons/react": "^2.1.1",
+    "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/forms": "^0.5.3",
     "@types/dompurify": "^3.0.5",
     "@types/node": "20.4.6",
@@ -28,6 +29,7 @@
     "openai": "^4.24.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-player": "^2.14.1",
     "react-share": "^5.0.3",
     "tailwindcss": "^3.3.3",
     "typescript": "5.1.6"

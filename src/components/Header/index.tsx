@@ -14,10 +14,15 @@ export function Header({ downloadText, href }: { downloadText?: string, href?: s
     title: t("Examples"),
     href: "/playground"
   },
-     {
-      title: "Latest News",
-      href: "/lastest-news"
-    }, 
+  {
+    title: "Sora News",
+    href: "/sora-news"
+  },
+  {
+    title: "Sora Prompts",
+    href: "/sora-prompts"
+  },
+  
     // {
     //   title: t("Pricing"),
     //   href: "/#pricing"

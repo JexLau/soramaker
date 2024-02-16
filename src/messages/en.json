@@ -1,8 +1,8 @@
 {
   "Index": {
-    "title": "SoraMaker as you want: Ultra-high quality content replacement",
-    "description": "SoraMaker framework can be used in many scenes, such as human replacement, clothing replacement, background replacement.",
-    "keywords": "Online replacement tool, text editing, image editing, content management, web editor"
+    "title": "SoraMaker AI: Sora can generate videos up to a minute long while maintaining visual quality and adherence to the user’s prompt.",
+    "description": "Sora, OpenAI's text-to-video generator, can generate complex scenes with multiple characters, specific types of motion, and accurate details of the subject and background. It can also animate still images.",
+    "keywords": "OpenAI, text intelligence to image, text-to-video generator, quality video"
   },
   "Common": {
     "Free to try": "Go Started",
@@ -59,8 +59,8 @@
     "s4": "Additionally, there's support for changing the background. Upload the desired style background and, after completing Step 3, click on \"Run\" to generate the content with the new background."
   },
   "Playground": {
-    "title": "SoraMaker: Ultra-high quality content replacement playground for clothing replacement, background replacement, human replacement",
-    "description": "SoraMaker framework can be used in many scenes, such as human replacement, clothing replacement, background replacement.",
+    "title": "SoraMaker: Impressed by the high resolution of these examples.",
+    "description": "Impressed most of all by the quality of motion. Simply never seen convincing computer-generated motion before. Just look at the way the wooly mammoths connect with the ground, and their lumbering mass feels real.",
     "t1": "Clothing Replacement",
     "t2": "Background Replacement for ID photo and family photo",
     "t3": "Human Replacement",

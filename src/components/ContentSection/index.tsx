@@ -2,13 +2,6 @@ import { useTranslations } from "next-intl"
 import { FreeToTry } from "../DownloadBtn"
 import { SocialShare } from "../SocialShare"
 
-const stats = [
-  { label: '👀 VIEW', value: '9k+' },
-  { label: '❤️ LIKE', value: '200+' },
-  { label: '🌟 STAR', value: '600+' },
-  { label: '🤖 UPDATED', value: '01/12' },
-]
-
 export function ContentSection({ src}: { src?: string}) {
   const t = useTranslations('ContentSection')
   return (

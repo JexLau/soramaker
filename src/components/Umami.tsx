@@ -2,7 +2,8 @@ import Script from "next/script"
 
 // Umami 平台
 export const Umami = () => {
+  // <script async src="https://umami-six-phi.vercel.app/script.js" data-website-id="d98fac95-2bac-4685-bff8-48a66026ea46"></script>
   return <>
-    <Script async src="https://umami-six-phi.vercel.app/script.js" data-website-id="e4794398-9ca6-4912-9edf-f8bdfe84cf46"></Script>
+    <Script async src="https://umami-six-phi.vercel.app/script.js" data-website-id="d98fac95-2bac-4685-bff8-48a66026ea46"></Script>
   </>
 }

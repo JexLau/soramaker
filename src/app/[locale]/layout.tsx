@@ -3,6 +3,7 @@ import clsx from 'clsx'
 
 import '@/styles/tailwind.css'
 import { GTag } from '@/components/GTag'
+import { Umami } from '@/components/Umami'
 
 const inter = Inter({
   subsets: ['latin'],
@@ -34,6 +35,7 @@ export default function RootLayout({
       )}
     >
       <GTag />
+      <Umami />
       <body className="flex h-full flex-col overflow-x-hidden">{children}</body>
     </html>
   )

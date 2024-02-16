@@ -1,5 +1,4 @@
 "use client";
-
 import { VideoPlayer } from "../VideoPlayer";
 
 const files = [
@@ -81,7 +80,7 @@ const files = [
 
 export function GridList() {
   return (
-    <ul role="list" className="grid grid-cols-2 gap-x-4 gap-y-8 sm:grid-cols-3 sm:gap-x-6 lg:grid-cols-4 xl:gap-x-8">
+    <ul role="list" className="grid grid-cols-2 gap-x-4 gap-y-8 sm:grid-cols-3 sm:gap-x-6 xl:gap-x-8">
       {files.map((file) => (
         <li key={file.id} className="relative">
           <div className="group aspect-h-5 aspect-w-9 block w-full overflow-hidden rounded-lg bg-gray-100 focus-within:ring-2 focus-within:ring-[#E0552E] focus-within:ring-offset-2 focus-within:ring-offset-gray-100">

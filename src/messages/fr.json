@@ -1,0 +1,39 @@
+{
+  "Index": {
+    "title": "Remplacez Tout en Ligne - Outil gratuit tout-en-un de remplacement de texte et d'image",
+    "description": "Découvrez comment remplacer facilement du contenu en ligne. Remplacez Tout offre des fonctionnalités avancées d'édition de texte et d'image, adaptées à un usage personnel et professionnel gratuit.",
+    "keywords": "Outil de remplacement en ligne, édition de texte, édition d'image, gestion de contenu, éditeur web"
+  },
+  "Common": {
+    "Free to try": "Commencez",
+    "Contact": "Contact",
+    "Legal": "Légal",
+    "Rights": "Droit d'auteur © 2023 ReplaceAnything. Tous droits réservés."
+  },
+  "LocaleSwitcher": {
+    "label": "Changer de langue",
+    "locale": "{locale, select, ja {日本語} en {English} es {Español} ko {한국어} de {Deutsch} fr {Français} pt {Português} vi {Tiếng Việt} other {English}}"
+  },
+  "Hero": {
+    "Easy": "Remplacement de contenu de qualité",
+    "text1": "Le cadre ReplaceAnything est à la pointe des dernières avancées dans les techniques de contenu généré par l'IA (AIGC). Cette technologie innovante attire beaucoup l'attention pour ses remarquables capacités en édition et génération d'image.",
+    "text2": "Une caractéristique clé de ReplaceAnything est sa capacité à générer du nouveau contenu tout en préservant minutieusement l'identité des objets spécifiés par l'utilisateur. Cette fonctionnalité est non seulement très recherchée, mais présente également un défi unique. ReplaceAnything est polyvalent, avec des applications allant du remplacement humain au remplacement de vêtements et d'arrière-plan, le rendant révolutionnaire dans divers scénarios."
+  },
+  "Faqs": {
+    "h2": "Questions Fréquemment Posées",
+    "desc1": "ReplaceAnything est un logiciel de retouche d'image de pointe adapté aux besoins spécifiques d'une gamme variée d'utilisateurs. Destiné aux propriétaires d'entreprises de commerce électronique, photographes et graphistes, ReplaceAnything offre une suite de fonctionnalités pour relever efficacement leurs défis de retouche d'image.",
+    "desc3": "ReplaceAnything est plus qu'un simple logiciel; il représente l'avenir de la création de contenu d'image, servant d'outil redoutable pour les professionnels du traitement d'image et de la conception visuelle.",
+    "q0": "Cadre Replace Anything : Pionnier dans l'Édition d'Image et la Génération de Contenu",
+    "a0": "À l'ère florissante de la création de contenu numérique, les technologies AIGC transforment le paysage de l'édition et de la génération d'image. Replace Anything mène cette vague technologique, se concentrant sur la création de contenu frais tout en maintenant les caractéristiques distinctives des objets spécifiés par l'utilisateur - une demande répandue mais difficile.",
+    "q3": "Replace Anything : Fusion de la Préservation d'Identité de Haute Fidélité avec la Création de Contenu Innovante",
+    "a3": "Le cadre Replace Anything offre une approche nouvelle au défi de préserver l'intégrité de l'identité des objets dans l'édition d'image et la génération de contenu. Que ce soit pour remplacer des humains, des vêtements ou des arrière-plans, Replace Anything conserve habilement les caractéristiques essentielles de l'objet original tout en introduisant de nouveaux éléments ou modifications dans l'image. Cette approche fournit une expérience de création de contenu personnalisée pour les utilisateurs.",
+    "q2": "Présentation de Replace Anything",
+    "a2": "Replace Anything est plus qu'un simple logiciel; il représente l'avenir de la création de contenu d'image, servant d'outil redoutable pour les professionnels du traitement d'image et de la conception visuelle.",
+    "q1": "Qu'est-ce que Replace Anything?",
+    "a1": "Replace Anything est un logiciel de retouche d'image de pointe adapté aux besoins spécifiques d'une gamme variée d'utilisateurs. Destiné aux propriétaires d'entreprises de commerce électronique, photographes et graphistes, Replace Anything offre une suite de fonctionnalités pour relever efficacement leurs défis de retouche d'image.",
+    "q4": "Quelles sont les caractéristiques clés de Replace Anything?",
+    "a4": "Remplacement de Vêtements : Permet aux utilisateurs de modifier le style ou la couleur des vêtements dans les images, idéal pour créer des photos uniques pour les réseaux sociaux. Remplacement d'Arrière-Plan : Permet aux utilisateurs de changer facilement les arrière-plans des photos, idéal pour les photos d'identité ou les portraits de famille nécessitant des décors spécifiques.",
+    "q5": "Quels sont les avantages de l'utilisation de Replace Anything?",
+    "a5": "Replace Anything est un outil polyvalent qui peut être utilisé pour une large gamme d'applications. Il convient aux propriétaires d'entreprises de commerce électronique, photographes et graphistes. Replace Anything est également un outil puissant pour créer du contenu unique pour les réseaux sociaux. Replace Anything est plus qu'un simple logiciel; il représente l'avenir de la création de contenu d'image, servant d'outil redoutable pour les professionnels du traitement d'image et de la conception visuelle."
+  }
+}

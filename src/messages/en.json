@@ -1,0 +1,71 @@
+{
+  "Index": {
+    "title": "ReplaceAnything as you want: Ultra-high quality content replacement",
+    "description": "ReplaceAnything framework can be used in many scenes, such as human replacement, clothing replacement, background replacement.",
+    "keywords": "Online replacement tool, text editing, image editing, content management, web editor"
+  },
+  "Common": {
+    "Free to try": "Go Started",
+    "Contact": "Contact",
+    "Legal": "Legal",
+    "Examples": "PlayGround",
+    "Rights": "Copyright © 2023 ReplaceAnything. All rights reserved."
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",    
+    "locale": "{locale, select, zh {中文} en {English} other {English}}"
+  },
+  "Hero": {
+    "Easy": "Quality content replacement",
+    "text1": "The ReplaceAnything framework is at the forefront of the latest advancements in AI-generated content (AIGC) techniques. This innovative technology is gaining significant attention for its remarkable abilities in image editing and generation.",
+    "text2": "A key feature of ReplaceAnything is its capacity to generate new content while meticulously preserving the identity of user-specified objects. This functionality is not only highly sought-after but also presents a unique challenge. ReplaceAnything is versatile, with applications ranging from human to clothing and background replacement, making it a game-changer in various scenarios."
+  },
+  "Faqs": {
+    "h2": "Frequently Asked Questions",
+    "desc1": "ReplaceAnything is a cutting-edge image editing software tailored to the specific needs of a diverse range of users. Catering to e-commerce business owners, photographers, and graphic designers, ReplaceAnything delivers a suite of features to address their image editing challenges effectively.",
+    "desc3": "ReplaceAnything is more than mere software; it represents the future of image content creation, serving as a formidable tool for professionals in image processing and visual design.",
+    "q0": "Replace Anything Framework: Pioneering in Image Editing and Content Generation",
+    "a0": "In the flourishing age of digital content creation, AIGC technologies are transforming the landscape of image editing and generation. Replace Anything leads this technological surge, focusing on creating fresh content while maintaining the distinctive features of user-specified objects—a widespread yet challenging demand.",
+    "q3": "Replace Anything: Blending High-Fidelity Identity Preservation with Innovative Content Creation",
+    "a3": "The Replace Anything framework offers a novel approach to the challenge of preserving the integrity of object identity in image editing and content generation. Whether it involves replacing humans, clothes, or backgrounds, Replace Anything adeptly retains the essential characteristics of the original object while introducing new elements or modifications into the image. This approach provides a custom content creation experience for users.",
+    "q2": "Introducing Replace Anything",
+    "a2": "Replace Anything is more than mere software; it represents the future of image content creation, serving as a formidable tool for professionals in image processing and visual design.",
+    "q1": "What is Replace Anything?",
+    "a1": "Replace Anything is a cutting-edge image editing software tailored to the specific needs of a diverse range of users. Catering to e-commerce business owners, photographers, and graphic designers, Replace Anything delivers a suite of features to address their image editing challenges effectively.",
+    "q4": "What are the key features of Replace Anything?",
+    "a4": "Clothing Replacement: Allows users to modify the style or color of clothing in images, perfect for creating unique social media photos. Background Replacement: Enables users to effortlessly change photo backgrounds, ideal for ID photos or family portraits needing specific backdrops.",
+    "q5": "What are the benefits of using Replace Anything?",
+    "a5": "Replace Anything is a versatile tool that can be used for a wide range of applications. It is suitable for e-commerce business owners, photographers, and graphic designers. Replace Anything is also a powerful tool for creating unique social media content. Replace Anything is more than mere software; it represents the future of image content creation, serving as a formidable tool for professionals in image processing and visual design."
+  },
+  "ContentSection": {
+    "Authors": "Institute for Intelligent Computing, Alibaba Group",
+    "title": "ReplaceAnything <br /> Ultra-high quality content replacement",
+    "desc": "AIGC techniques have attracted lots of attention recently. They have demonstrated strong capabilities in the areas of image editing, image generation and so on. We find that generating new contents while strictly keeping the identity of use-specified object unchanged is of great demand, yet challenging. To this end, we propose ReplaceAnything framework. It can be used in many scenes, such as human replacement, clothing replacement, background replacement, and so on.",
+    "help": "If you found the project helpful, you can click a Star🌟 on ",
+    "help2": " to get the latest updates on the project.",
+    "Start to Try": "Start to Try"
+  },
+  "DescSection": {
+    "Introducing": "Introducing",
+    "t1": "What is Replaceanything Framework?",
+    "d1": "The Replaceanything Framework (V1.0.0) is a breakthrough in the field of artificial intelligence, particularly in the AIGC (Artificial Intelligence Generated Content) technology sector. This innovative framework specializes in high-quality content generation and replacement. Its main objective is to generate new content while preserving the identity of user-specified objects, a task that presents both high demand and significant challenges. The Replaceanything Framework stands out for its ability to efficiently and accurately handle various scenarios, such as human replacement, clothing alteration, and background transformation, catering to a broad spectrum of digital content creation needs.",
+    "t2": "What are its Uses?",
+    "d2": "The Replaceanything Framework finds its application in diverse areas of content creation and editing. It allows users to seamlessly replace or modify elements within an image without compromising the overall integrity of the original. This tool is particularly useful in scenarios like advertising, where branding elements need to be consistent, or in personal media, where users may wish to customize or enhance their visual content. Its ease of use and precision in maintaining the authenticity of key components makes it an invaluable asset for both professional designers and hobbyists alike, fostering creativity and innovation in digital media creation.",
+    "t3": "How to Use Modelscope Replaceanything",
+    "d3": "Using Modelscope Replaceanything is straightforward. Users start by uploading or selecting an  image from examples, then click on the \"Input Image\" to choose the object to retain. Next, they can input a prompt or reference image for generating new content. Finally, clicking the “Run” button completes the process. Additionally, there are more input parameters available for advanced users to achieve more detailed and personalized content generation.",
+    "s1": "Upload an image or select one from the Examples in the “Input Image” section.",
+    "s2": "Use the mouse to click and select the object in the image that you wish to retain.",
+    "s3": "Enter the corresponding parameters, such as a prompt, and then click on \"Run\" to generate the content.",
+    "s4": "Additionally, there's support for changing the background. Upload the desired style background and, after completing Step 3, click on \"Run\" to generate the content with the new background."
+  },
+  "Playground": {
+    "title": "ReplaceAnything: Ultra-high quality content replacement playground for clothing replacement, background replacement, human replacement",
+    "description": "ReplaceAnything framework can be used in many scenes, such as human replacement, clothing replacement, background replacement.",
+    "t1": "Clothing Replacement",
+    "t2": "Background Replacement for ID photo and family photo",
+    "t3": "Human Replacement",
+    "t4": "Background Replacement",
+    "desc": "masked region is strictly retained",
+    "PlayGround": "Input PlayGround"
+  }
+}

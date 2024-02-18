@@ -15,7 +15,7 @@ export function Hero() {
   const ct = useTranslations('Common')
   return (
     <Container className="pb-16 pt-10 text-center lg:pt-20 mt-24">
-      <h1 className="mx-auto max-w-4xl font-display text-4xl md:text-5xl font-medium tracking-tight text-slate-900 overflow-hidden">
+      <h1 className="mx-auto max-w-4xl font-display text-4xl md:text-5xl font-medium tracking-tight text-main-text overflow-hidden">
         {t('Easy')}
         <span className="relative whitespace-nowrap text-blue-600">
           <svg

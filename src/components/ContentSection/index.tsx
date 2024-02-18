@@ -1,18 +1,17 @@
 import { useTranslations } from "next-intl"
 import { FreeToTry } from "../DownloadBtn"
-import { SocialShare } from "../SocialShare"
 
 export function ContentSection({ src}: { src?: string}) {
   const t = useTranslations('ContentSection')
   return (
-    <div className="bg-white py-24 sm:py-32 relative z-10">
+    <div className="py-24 sm:py-32 relative ">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto grid max-w-2xl grid-cols-1 items-start  gap-y-16 sm:gap-y-24 lg:mx-0 lg:max-w-none lg:grid-cols-2">
           <div className="lg:pr-4">
             <div className="relative overflow-hidden rounded-3xl bg-gray-900  shadow-2xl lg:max-w-lg lg:pb-8 xl:pb-10">
               <figure className="relative isolate">
                 {/* <img src="/main.jpeg" alt="" className="w-full h-auto" /> */}
-                <video loop width="750" controls className="aspect-video rounded-xl bg-gray-50 object-cover">
+                <video loop width="750" controls className="aspect-video rounded-t-xl bg-gray-50 object-cover">
             <source src="/tokyo-walk.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
@@ -32,13 +31,12 @@ export function ContentSection({ src}: { src?: string}) {
             </div>
           </div>
           <div>
-            <div className="text-base leading-7 text-gray-700 lg:max-w-lg">
+            <div className="text-base leading-7 text-main-text lg:max-w-lg">
               {/* <p className="text-base font-semibold leading-7 text-indigo-600">Company values</p> */}
-              <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+              <h1 className="mt-2 text-3xl font-bold tracking-tight text-main-text sm:text-4xl">
               {`Meet Sora, OpenAI's Text-to-Video Generator`}
               </h1>
-              <SocialShare className={['lg:hidden grid grid-cols-8 mt-4']} />
-              <div className="max-w-xl">
+              <div className="max-w-xl  text-main-text">
                 <p className="mt-6" >
                 {`Sora, OpenAI's text-to-video generator, can generate complex scenes with multiple characters, specific types of motion, and accurate details of the subject and background. It can also animate still images.`}
                 </p>
@@ -53,8 +51,8 @@ export function ContentSection({ src}: { src?: string}) {
             {/* <dl className="mt-10 grid grid-cols-2 gap-8 border-t border-gray-900/10 pt-10 sm:grid-cols-4">
               {stats.map((stat, statIdx) => (
                 <div key={statIdx}>
-                  <dt className="text-sm font-semibold leading-6 text-gray-600">{stat.label}</dt>
-                  <dd className="mt-2 text-3xl font-bold leading-10 tracking-tight text-gray-900">{stat.value}</dd>
+                  <dt className="text-sm font-semibold leading-6 text-main-text">{stat.label}</dt>
+                  <dd className="mt-2 text-3xl font-bold leading-10 tracking-tight text-main-text">{stat.value}</dd>
                 </div>
               ))}
             </dl> */}

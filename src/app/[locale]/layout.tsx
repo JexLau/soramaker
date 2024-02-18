@@ -4,6 +4,8 @@ import clsx from 'clsx'
 import '@/styles/tailwind.css'
 import { GTag } from '@/components/GTag'
 import { Umami } from '@/components/Umami'
+import { Header } from '@/components/Header'
+import { Footer } from '@/components/Footer'
 
 const inter = Inter({
   subsets: ['latin'],
@@ -29,14 +31,18 @@ export default function RootLayout({
     <html
       lang={locale}
       className={clsx(
-        'h-full scroll-smooth bg-white antialiased',
+        'h-full scroll-smooth relative bg-[#0d0821] antialiased text-main-text bg',
         inter.variable,
         lexend.variable,
       )}
     >
       <GTag />
       <Umami />
-      <body className="flex h-full flex-col overflow-x-hidden">{children}</body>
+      <body className="flex h-full flex-col overflow-x-hidden">
+        <Header />
+        {children}
+        <Footer />
+      </body>
     </html>
   )
 }

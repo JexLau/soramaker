@@ -11,35 +11,35 @@ export const HowToWorkSection = () => {
     <section
       id="howtowork"
       aria-label={t("h2")}
-      className="bg-white py-20 sm:py-24 relative"
+      className="bg-[#0d0821] py-20 sm:py-24 relative"
     >
       <Container>
         <div className="mx-auto max-w-4xl">
-        <h2 className="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">
+        <h2 className="font-display text-3xl tracking-tight text-main-text sm:text-4xl">
             {t("h2")}
           </h2>
           <div className="mt-12">
             <div className="mb-10">
-              <h3 className="text-2xl font-semibold text-gray-900 flex items-center"><MapIcon className="h-8 w-8 mr-2 text-blue-600" />
+              <h3 className="text-2xl font-semibold text-main-text flex items-center"><MapIcon className="h-8 w-8 mr-2 text-blue-600" />
               {t("t1")}
               </h3>
-              <p className="mt-2 text-lg text-gray-600">
+              <p className="mt-2 text-lg text-main-text">
               {t("t11")}
               </p>
             </div>
 
             <div className="mb-10">
               
-              <h3 className="text-2xl font-semibold text-gray-900 flex items-center"><FolderOpenIcon className="h-8 w-8 mr-2 text-blue-600" />{t("t2")}</h3>
-              <p className="mt-2 text-lg text-gray-600">
+              <h3 className="text-2xl font-semibold text-main-text flex items-center"><FolderOpenIcon className="h-8 w-8 mr-2 text-blue-600" />{t("t2")}</h3>
+              <p className="mt-2 text-lg text-main-text">
               {t("t21")}
               </p>
             </div>
 
             <div>
               
-              <h3 className="text-2xl font-semibold text-gray-900 flex items-center"><ArrowDownIcon className="h-8 w-8 mr-2 text-blue-600" />{t("t3")}</h3>
-              <p className="mt-2 text-lg text-gray-600">
+              <h3 className="text-2xl font-semibold text-main-text flex items-center"><ArrowDownIcon className="h-8 w-8 mr-2 text-blue-600" />{t("t3")}</h3>
+              <p className="mt-2 text-lg text-main-text">
                 {t("t31")}
               </p>
             </div>

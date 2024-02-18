@@ -1,1 +1,65 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class=""><rect id="r4" width="512" height="512" x="0" y="0" rx="128" fill="url(#r5)" stroke="#FFFFFF" stroke-width="0" stroke-opacity="100%" paint-order="stroke"></rect><clipPath id="clip"><use xlink:href="#r4"></use></clipPath><defs><linearGradient id="r5" gradientUnits="userSpaceOnUse" gradientTransform="rotate(45)" style="transform-origin: center center;"><stop stop-color="#F5AF19"></stop><stop offset="1" stop-color="#F12711"></stop></linearGradient><radialGradient id="r6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(256) rotate(90) scale(512)"><stop stop-color="white"></stop><stop offset="1" stop-color="white" stop-opacity="0"></stop></radialGradient></defs><svg viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" width="352" height="352" x="80" y="80" alignment-baseline="middle" style="color: rgb(255, 255, 255);"><path fill-rule="evenodd" clip-rule="evenodd" d="m15 8-.73.73-2.77-2.77V4.5L15 8ZM8 1l-.73.73 2.77 2.769h1.46L8 1ZM6.433 2.57l-.73.73 1.201 1.203h1.46L6.434 2.57ZM11.5 7.636v1.461l1.202 1.202.73-.73L11.5 7.635Zm-.418 2.716.418-.418H6.068V4.5l-.418.418-.784-.784-.733.732.784.784-.418.418v.84L3.297 5.706l-.73.73L4.498 8.37v1.667L1.731 7.27 1 8l7 7 .73-.73-2.768-2.77h1.673l1.933 1.933.73-.73L9.098 11.5h.84l.418-.418.784.784.73-.73-.787-.784Z" fill="currentColor"></path></svg></svg>
+<svg data-v-0dd9719b="" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 70 70" preserveAspectRatio="xMidYMid meet" color-interpolation-filters="sRGB" style="margin: auto;">
+  <g data-v-0dd9719b="" fill="#667dea" class="icon-text-wrapper icon-svg-group iconsvg" transform="translate(5,5)">
+    <g class="iconsvg-imagesvg" transform="translate(0,0)" mask="url(#b455e1f9-74f1-4ef8-ac1a-cb301b2f847e)">
+      <g>
+        <rect fill="#667dea" fill-opacity="0" stroke-width="2" x="0" y="0" width="60" height="60" class="image-rect"/>
+        <svg x="0" y="0" width="60" height="60" filtersec="colorsb4216809106" class="image-svg-svg primary" style="overflow: visible;">
+          <svg version="1.1" id="cube" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="1.25 3.559999942779541 556.3699951171875 556.3699951171875" enable-background="new 0 0 559.58 563.5" xml:space="preserve">
+            <path fill="#ec7210" d="M279.43,3.56C125.8,3.56,1.25,128.1,1.25,281.74c0,153.63,124.55,278.19,278.18,278.19
+	c153.64,0,278.19-124.56,278.19-278.19C557.62,128.1,433.07,3.56,279.43,3.56z M183.51,120.6c44.48,0,80.53,36.06,80.53,80.52
+	c0,44.48-36.05,80.54-80.53,80.54s-80.53-36.06-80.53-80.54C102.98,156.67,139.03,120.6,183.51,120.6z M257.13,516.91
+	c-121.63,0-220.24-98.6-220.24-220.23c0-121.65,29.17,48.09,171,34.59c66.53-6.33,102.58-42.73,142.88-89.14
+	c51.93-59.79,126.61-19.73,126.61,54.55C477.38,418.3,378.77,516.91,257.13,516.91z"/>
+          </svg>
+        </svg>
+      </g>
+      <rect v-gra="id" width="72" height="72" transform="translate(-6, -6)" style="pointer-events:none;" fill="url(#gmjZ7YiOi2AEycUXTPsil)"/>
+    </g>
+    <g transform="translate(30,67)">
+      <g data-gra="path-name" fill-rule="" class="tp-name iconsvg-namesvg" fill="url(#9e13f1e3-bdf6-42d1-b960-a7ef8e08534e)">
+        <g transform="scale(1)">
+          <g>
+            <path d="" transform="translate(0, 0)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <defs v-gra="od">
+    <linearGradient x1="0" y1="1" x2="0" y2="0" id="9e13f1e3-bdf6-42d1-b960-a7ef8e08534e">
+      <stop offset="0%" stop-color="#667dea"/>
+      <stop offset="100%" stop-color="#764ba2"/>
+    </linearGradient>
+    <filter id="42443b3f1de60f6b6fd3b6a9844b4764" filterUnits="objectBoundingBox">
+      <feColorMatrix type="matrix" values="0 0 0 0 0.99609375  0 0 0 0 0.99609375  0 0 0 0 0.99609375  0 0 0 1 0"/>
+    </filter>
+  </defs>
+  <defs v-gra="id">
+    <filter id="7a814743-0215-47dc-82d7-614300bc8a28" filterUnits="userSpaceOnUse">
+      <feColorMatrix type="matrix" values="0 0 0 0 0.99609375  0 0 0 0 0.99609375  0 0 0 0 0.99609375  0 0 0 1 0"/>
+    </filter>
+    <linearGradient x1="0" y1="1" x2="0" y2="0" id="gmjZ7YiOi2AEycUXTPsil">
+      <stop offset="0%" stop-color="#667dea"/>
+      <stop offset="100%" stop-color="#764ba2"/>
+    </linearGradient>
+    <filter id="42443b3f1de60f6b6fd3b6a9844b4764" filterUnits="objectBoundingBox">
+      <feColorMatrix type="matrix" values="0 0 0 0 0.99609375  0 0 0 0 0.99609375  0 0 0 0 0.99609375  0 0 0 1 0"/>
+    </filter>
+  </defs>
+  <mask v-gra="im" id="b455e1f9-74f1-4ef8-ac1a-cb301b2f847e">
+    <g class="iconsvg-imagesvg" filter="url(#7a814743-0215-47dc-82d7-614300bc8a28)">
+      <g>
+        <rect fill="#667dea" fill-opacity="0" stroke-width="2" x="0" y="0" width="60" height="60" class="image-rect"/>
+        <svg x="0" y="0" width="60" height="60" filtersec="colorsb4216809106" class="image-svg-svg primary" style="overflow: visible;">
+          <svg version="1.1" id="cube" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="1.25 3.559999942779541 556.3699951171875 556.3699951171875" enable-background="new 0 0 559.58 563.5" xml:space="preserve">
+            <path fill="#ec7210" d="M279.43,3.56C125.8,3.56,1.25,128.1,1.25,281.74c0,153.63,124.55,278.19,278.18,278.19
+	c153.64,0,278.19-124.56,278.19-278.19C557.62,128.1,433.07,3.56,279.43,3.56z M183.51,120.6c44.48,0,80.53,36.06,80.53,80.52
+	c0,44.48-36.05,80.54-80.53,80.54s-80.53-36.06-80.53-80.54C102.98,156.67,139.03,120.6,183.51,120.6z M257.13,516.91
+	c-121.63,0-220.24-98.6-220.24-220.23c0-121.65,29.17,48.09,171,34.59c66.53-6.33,102.58-42.73,142.88-89.14
+	c51.93-59.79,126.61-19.73,126.61,54.55C477.38,418.3,378.77,516.91,257.13,516.91z"/>
+          </svg>
+        </svg>
+      </g>
+    </g>
+  </mask>
+</svg>

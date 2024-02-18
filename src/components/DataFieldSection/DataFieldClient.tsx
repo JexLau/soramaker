@@ -11,7 +11,7 @@ export const DataFieldClient = ({ dataFields }: { dataFields: Record<string, str
           className={`py-4 sm:py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6 ${index % 2 === 0 ? 'bg-gray-50' : ''} ${!showMore && index >= 5 ? 'absolute -left-[99999px]' : ''}`}
         >
           <dt className="text-sm font-medium text-gray-500">{key}</dt>
-          <dd className="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">{value}</dd>
+          <dd className="mt-1 text-sm text-main-text sm:mt-0 sm:col-span-2">{value}</dd>
         </div>
       ))}
     </dl>

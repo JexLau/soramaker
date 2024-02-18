@@ -16,9 +16,9 @@ export const Comment = (props: Comment) => {
   };
 
   return (
-    <div className="mx-20 p-4 my-4 bg-white rounded-lg shadow-md">
-      <p className="mb-2 text-sm font-semibold text-gray-900">Author: {props.by}</p>
-      <div className="text-gray-700 text-sm" dangerouslySetInnerHTML={createMarkup(props.text)} />
+    <div className="mx-20 p-4 my-4 bg-[#0d0821] rounded-lg shadow-md">
+      <p className="mb-2 text-sm font-semibold text-main-text">Author: {props.by}</p>
+      <div className="text-main-text text-sm" dangerouslySetInnerHTML={createMarkup(props.text)} />
     </div>
   );
 };

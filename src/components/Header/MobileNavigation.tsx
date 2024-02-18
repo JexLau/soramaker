@@ -81,7 +81,7 @@ export function MobileNavigation({ nav }: MobileNavigationProps) {
         >
           <Popover.Panel
             as="div"
-            className="absolute inset-x-0 top-full mt-4 flex origin-top flex-col rounded-2xl bg-white p-4 text-lg tracking-tight text-slate-900 shadow-xl ring-1 ring-slate-900/5"
+            className="absolute inset-x-0 top-full mt-4 flex origin-top flex-col rounded-2xl bg-[#0d0821] p-4 text-lg tracking-tight text-main-text shadow-xl ring-1 ring-slate-900/5"
           >
             {nav.map((item) => <MobileNavLink href={item.href} key={item.title}>{item.title}</MobileNavLink>)}
           </Popover.Panel>

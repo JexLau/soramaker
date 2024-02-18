@@ -32,20 +32,21 @@ export function Header({ downloadText, href }: { downloadText?: string, href?: s
     // }
   ]
   return (
-    <header className="py-6 fixed top-0 z-50 bg-white shadow-sm w-full">
+    <header className="py-6 fixed top-0 z-50 bg-[#0d0821f0] shadow-sm w-full">
       <Container>
         <nav className="relative z-50 flex justify-between">
           <div className="flex items-center md:gap-x-12">
             <Link href="/" aria-label="Home">
               <Logo className="h-10 w-auto" />
             </Link>
-            <div className="hidden md:flex md:gap-x-6">
+            
+          </div>
+          <div className="flex items-center gap-x-5 md:gap-x-8">
+          <div className="hidden md:flex md:gap-x-6">
               {nav.map((item, index) => (
                 <NavLink key={index} href={item.href}>{item.title}</NavLink>
               ))}
             </div>
-          </div>
-          <div className="flex items-center gap-x-5 md:gap-x-8">
             <LocaleSwitcher />
             {/* 移动端隐藏 */}
             {/* <div className="hidden md:flex">

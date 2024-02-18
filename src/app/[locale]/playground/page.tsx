@@ -1,8 +1,6 @@
-import { Example } from '@/components/Examples'
-import { Footer } from '@/components/Footer'
-import { Header } from '@/components/Header'
+import { Playground } from '@/components/Examples'
+import { MainContent } from '@/components/Main';
 import { Meta } from '@/components/Meta'
-import { SocialShare } from '@/components/SocialShare'
 import { useTranslations } from 'next-intl'
 
 export default function Home({ params }: { params: Record<string, string> }) {
@@ -12,10 +10,9 @@ export default function Home({ params }: { params: Record<string, string> }) {
   return (
     <>
       <Meta title={t('title')} description={t('description')} locale={locale} />
-      <Header downloadText={ct("Free to try")} />
-      <Example />
-      <Footer />
-      <SocialShare className={['fixed top-[30%] left-2 flex-col gap-2 z-[2000] hidden lg:flex']} />
+      <MainContent>
+        <Playground />
+      </MainContent>
     </>
   )
 }

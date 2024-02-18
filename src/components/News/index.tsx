@@ -36,7 +36,7 @@ export const CommentsContent = () => {
     return <div className='w-full h-full flex items-center justify-center'>Loading comments...</div>;
   }
   return (
-    <div className='mt-24'>
+    <div>
       {comments.map((comment) => (
         <div key={comment.id}>
           <Comment {...comment} />

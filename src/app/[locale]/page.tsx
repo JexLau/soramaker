@@ -7,6 +7,7 @@ import { Footer } from '@/components/Footer'
 import { Header } from '@/components/Header'
 // import { Hero } from '@/components/Hero'
 import { HowToWorkSection } from '@/components/HowToWorkSection'
+import { MainContent } from '@/components/Main'
 import { Meta } from '@/components/Meta'
 import { Pricing } from '@/components/Pricing'
 import { PrimaryFeatures } from '@/components/PrimaryFeatures'
@@ -22,11 +23,10 @@ export default function Home({ params }: { params: Record<string, string> }) {
   return (
     <>
       <Meta title={t('title')} description={t('description')} locale={locale} />
-      <Header downloadText={ct("Free to try")} />
-      <ContentSection />
-      <DescSection />
-      <Footer />
-      <SocialShare className={['fixed top-[30%] left-2 flex-col gap-2 z-[2000] hidden lg:flex']} />
+      <MainContent>
+        <ContentSection />
+        <DescSection />
+      </MainContent>
     </>
   )
 }

@@ -21,6 +21,12 @@ export default {
       '9xl': ['8rem', { lineHeight: '1' }],
     },
     extend: {
+      colors: {
+        'main-bg': '#0d0821',
+        'main-blue': '#667dea',
+        'main-purple': '#764ba2',
+        'main-text': '#FFFFFFDE',
+      },
       borderRadius: {
         '4xl': '2rem',
       },

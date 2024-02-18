@@ -17,3 +17,23 @@
     --shimmer-angle: 360deg;
   }
 }
+
+.bg {
+  z-index: 0;
+}
+
+.bg::after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  content: "";
+  z-index: -1;
+  opacity: .05;
+  pointer-events: none;
+  background-image: url(../images/noise.png);
+  background-repeat: repeat;
+  background-position: 0 0;
+  background-size: 200px auto;
+}

@@ -139,7 +139,7 @@ function Feature({
         {feature.name}
       </h3>
       </div>
-      <p className="mt-2 font-display text-xl text-slate-900">
+      <p className="mt-2 font-display text-xl text-main-text">
         {feature.summary}
       </p>
       {/* <p className="mt-4 text-sm text-slate-600">{feature.description}</p> */}
@@ -155,7 +155,7 @@ function FeaturesMobile() {
           <Feature feature={feature} className="mx-auto max-w-2xl" isActive />
           <div className="relative mt-10 pb-10">
             <div className="absolute -inset-x-4 bottom-0 top-8 bg-slate-200 sm:-inset-x-6" />
-            <div className="relative mx-auto w-[52.75rem] overflow-hidden rounded-xl bg-white shadow-lg shadow-slate-900/5 ring-1 ring-slate-500/10">
+            <div className="relative mx-auto w-[52.75rem] overflow-hidden rounded-xl bg-[#0d0821] shadow-lg shadow-slate-900/5 ring-1 ring-slate-500/10">
               <Image
                 className="w-full"
                 src={feature.image}
@@ -206,7 +206,7 @@ function FeaturesDesktop() {
                   style={{ transform: `translateX(-${selectedIndex * 100}%)` }}
                   aria-hidden={featureIndex !== selectedIndex}
                 >
-                  <div className="w-[52.75rem] overflow-hidden rounded-xl bg-white shadow-lg shadow-slate-900/5 ring-1 ring-slate-500/10">
+                  <div className="w-[52.75rem] overflow-hidden rounded-xl bg-[#0d0821] shadow-lg shadow-slate-900/5 ring-1 ring-slate-500/10">
                     <Image
                       className="w-full"
                       src={feature.image}
@@ -236,7 +236,7 @@ export function SecondaryFeatures() {
     >
       <Container>
         <div className="mx-auto max-w-2xl md:text-center">
-          <h2 className="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">
+          <h2 className="font-display text-3xl tracking-tight text-main-text sm:text-4xl">
           Simplify Your Map Data Scraping
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">

@@ -4,7 +4,10 @@ export function Logo(props: { className?: string }) {
   return (
     <div className='flex items-center max-w-[250px]'>
       <Image src={logo} alt={'AI Sora Maker'} unoptimized  {...props} />
-      <p className='text-[#E0552E] text-lg font-bold max-w-[200px] ml-4 lg:inline'>Sora Maker</p>
+      <p className='text-main-bg bg-gradient-to-l from-main-blue to-main-purple bg-clip-text text-transparent text-[14px] max-w-[200px] ml-2'>
+        <span>Sora</span>
+        <span>Maker</span>
+      </p>
     </div>
   )
 }

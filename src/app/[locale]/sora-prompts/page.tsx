@@ -1,8 +1,7 @@
 import { Meta } from '@/components/Meta';
-import { Header } from '@/components/Header';
-import { Footer } from '@/components/Footer';
-import { GridList } from '@/components/GridList';
 import { MainContent } from '@/components/Main';
+import { files } from './prompts';
+import { VideoMasonry } from '@/components/Waterfall';
 
 const PromptsPage = ({ params }: { params: Record<string, string> }) => {
   const { locale = 'en' } = params;
@@ -20,7 +19,7 @@ const PromptsPage = ({ params }: { params: Record<string, string> }) => {
           </p>
         </div>
         <div className='py-4 my-4 w-full px-20 overflow-auto'>
-          <GridList />
+          <VideoMasonry videos={files} />
         </div>
       </MainContent>
     </>

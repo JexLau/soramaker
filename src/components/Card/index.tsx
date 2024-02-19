@@ -9,8 +9,8 @@ export interface MediaCard extends PropsWithChildren {
 }
 
 export const MediaCard = ({ id, src, prompt, source }: MediaCard) => {
-  return <div className="relative overflow-hidden rounded-3xl bg-gray-900  shadow-2xl lg:max-w-lg lg:pb-8 xl:pb-10 mb-4">
-    <figure className="relative isolate">
+  return <div className="relative overflow-hidden rounded-3xl bg-gray-900  shadow-2xl lg:max-w-lg  mb-4">
+    <figure className="relative isolate lg:pb-8 xl:pb-10 pb-6">
       <div className="aspect-video rounded-t-xl  object-cover group-hover:opacity-75">
         <VideoPlayer src={src} alt={id} />
       </div>
@@ -18,7 +18,7 @@ export const MediaCard = ({ id, src, prompt, source }: MediaCard) => {
         Prompt: {prompt}
       </figcaption>
       <figcaption className="mt-6 text-sm leading-6 text-gray-300 px-8 ">
-      🤖 {source}
+        🤖 {source}
       </figcaption>
     </figure>
   </div>

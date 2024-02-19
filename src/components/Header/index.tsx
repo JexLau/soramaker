@@ -32,7 +32,9 @@ export function Header({ downloadText, href }: { downloadText?: string, href?: s
     // }
   ]
   return (
-    <header className="py-6 fixed top-0 z-50 bg-[#0d0821f0] shadow-sm w-full">
+    <header className="py-6 fixed top-0 z-50 bg-[#ffffff03] shadow-lg w-full
+     left-0  md:backdrop-blur mix-blend-difference
+    ">
       <Container>
         <nav className="relative z-50 flex justify-between">
           <div className="flex items-center md:gap-x-12">

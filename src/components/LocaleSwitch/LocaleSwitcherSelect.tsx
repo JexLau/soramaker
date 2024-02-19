@@ -26,12 +26,12 @@ export default function LocaleSwitcherSelect({
 
   return (
     <div>
-      <label htmlFor="location" className="block bg-[#0d0821] text-sm font-medium leading-6 text-white "></label>
+      <label htmlFor="location" className="block bg-[#ffffff03] text-sm font-medium leading-6 text-white "></label>
       <p className="sr-only text-white">{label}</p>
       <select
         id="location"
         name="location"
-        className="block bg-[#0d0821]  w-full border-0 py-1.5 pl-3 pr-10 text-white sm:text-sm sm:leading-6"
+        className="block bg-[#ffffff03]  w-full border-0 py-1.5 pl-3 pr-10 text-white sm:text-sm sm:leading-6 box-shadow-none focus:outline-none focus:ring-0 focus:border-0"
         disabled={isPending}
         defaultValue={defaultValue}
         onChange={onSelectChange}

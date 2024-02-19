@@ -37,3 +37,27 @@
   background-position: 0 0;
   background-size: 200px auto;
 }
+
+/* Total scrollbar width */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+/* Background of the scrollbar except the button or thumb */
+::-webkit-scrollbar-track {
+  background: #0d0821;
+  border-radius: 10px;
+}
+
+/* Scrollbar handle */
+::-webkit-scrollbar-thumb {
+  background: #66666660;
+  border-radius: 10px;
+}
+
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #888;
+}

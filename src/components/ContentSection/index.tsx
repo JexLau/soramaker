@@ -1,6 +1,6 @@
 import { useTranslations } from "next-intl"
-import {  EnvelopeIcon } from '@heroicons/react/20/solid'
-import { ButtonClient } from "./ButtonClient"
+import { EnvelopeIcon } from '@heroicons/react/20/solid'
+import { WaitlistClient } from "./WaitlistClient"
 import { PrimaryButton } from "../Button"
 
 export function ContentSection({ src }: { src?: string }) {
@@ -21,23 +21,7 @@ export function ContentSection({ src }: { src?: string }) {
             <div className=" border-b-gray-500 border-b mx-8 mt-2"></div>
             <figcaption className="mt-4 text-base leading-6 text-gray-300 px-8 ">
               {`Join our alert list for Sora's upcoming launch details!`}
-              <div>
-                <div className=" mt-4 rounded-md shadow-sm w-full flex items-center justify-between">
-                  <div className="relative flex-1 mr-4">
-                    <div className="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
-                      <EnvelopeIcon className="h-5 w-5 text-gray-400" aria-hidden="true" />
-                    </div>
-                    <input
-                      type="email"
-                      name="email"
-                      id="email"
-                      className="block bg-transparent w-full rounded-md border-0 py-1.5 pl-10 text-main-text ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"
-                      placeholder="you@example.com"
-                    />
-                  </div>
-                  <ButtonClient />
-                </div>
-              </div>
+              <WaitlistClient />
             </figcaption>
           </figure>
         </div>

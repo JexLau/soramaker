@@ -70,9 +70,7 @@
   animation: marquee-reverse 3.9375s infinite linear reverse;
 }
 
-
-
-
+/** 磨砂背景 */
 .bg {
   z-index: 0;
 }

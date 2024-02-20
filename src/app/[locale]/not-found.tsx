@@ -1,6 +1,6 @@
 import Link from 'next/link'
 
-import { Button } from '@/components/Button'
+import { NormalButton } from '@/components/Button'
 import { Logo } from '@/components/Logo'
 import { SlimLayout } from '@/components/SlimLayout'
 
@@ -19,9 +19,9 @@ export default function NotFound() {
       <p className="mt-3 text-sm text-main-text">
         Sorry, we couldn’t find the page you’re looking for.
       </p>
-      <Button href="/" className="mt-10">
+      <NormalButton href="/" className="mt-10">
         Go back home
-      </Button>
+      </NormalButton>
     </SlimLayout>
   )
 }

@@ -3,19 +3,21 @@ import { baseurl, getHrefLang } from "@/utils/constants"
 export interface MetaProps {
   title: string
   description: string
+  keywords?: string 
   locale?: string
   image?: string
   pageurl?: string
 }
 
 
-export const Meta = ({ title, description, locale = 'en', pageurl, image = `${baseurl}/howtouse.gif` }: MetaProps) => {
+export const Meta = ({ title, description, keywords, locale = 'en', pageurl, image = `${baseurl}/howtouse.gif` }: MetaProps) => {
   const getUrl = (lang: string) => pageurl ? `${getHrefLang(lang)}${pageurl}` : getHrefLang(lang)
   const url = getUrl(locale);
 
   return <>
     <title>{title}</title>
     <meta name="description" content={description} />
+    <meta name="keywords" content={keywords} />
     <link rel="canonical" href={url} />
     <link rel="alternate" hrefLang="x-default" href={getHrefLang('en')} />
     <link rel="alternate" hrefLang="en" href={getHrefLang('en')} />

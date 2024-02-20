@@ -5,7 +5,7 @@ export function Playground() {
   const t = useTranslations("Playground")
   return (
     <div className="mx-auto max-w-7xl px-6 lg:px-8">
-      <h1 className="mt-2 text-3xl tracking-tight text-main-text text-center">Sora AI PlayGround</h1>
+      <h1 className="mt-2 text-3xl font-bold tracking-tight text-main-text sm:text-4xl text-center">Sora AI PlayGround</h1>
       <div>
         {/* <h2 className="text-2xl tracking-tight text-main-text mt-10">
             {t("t1")}

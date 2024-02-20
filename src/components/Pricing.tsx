@@ -1,6 +1,6 @@
 import clsx from 'clsx'
 
-import { Button } from '@/components/Button'
+import { NormalButton } from '@/components/Button'
 import { Container } from '@/components/Container'
 import { useTranslations } from 'next-intl'
 
@@ -100,7 +100,7 @@ function Plan({
           </li>
         ))}
       </ul>
-      <Button
+      <NormalButton
         href={href}
         variant={featured ? 'solid' : 'outline'}
         color="white"
@@ -108,7 +108,7 @@ function Plan({
         aria-label={`Get started with the ${name} plan for ${price}`}
       >
         {t("Get started")}
-      </Button>
+      </NormalButton>
     </section>
   )
 }

@@ -9,8 +9,11 @@ const CommentsPage = ({ params }: { params: Record<string, string> }) => {
 
   return (
     <>
-      <Meta title={"Creating video from text (openai.com)"} description={"Hacker News For Sora, OpenAI's text-to-video generator, can generate complex scenes with multiple characters, specific types of motion, and accurate details of the subject and background. It can also animate still images."} locale={locale} />
+      <Meta title={"Sora AI News: Latest Updates & Breakthroughs in AI Technology"} description={"Discover the latest Sora AI news, including breakthroughs, updates, and insights in AI technology. Stay informed about the future of AI with Sora."} keywords={'Sora AI News, AI Technology Updates, AI Breakthroughs, AI Insights, Future of AI'} locale={locale} />
       <MainContent>
+      <h1 className="mt-2 text-3xl font-bold tracking-tight text-main-text sm:text-4xl text-center">
+        Latest Sora AI News & Insights
+        </h1>
         <CommentsContent />
       </MainContent>
     </>

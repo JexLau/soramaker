@@ -22,7 +22,7 @@ export default function Home({ params }: { params: Record<string, string> }) {
   const ct = useTranslations('Common')
   return (
     <>
-      <Meta title={t('title')} description={t('description')} locale={locale} />
+      <Meta title={'Sora by OpenAI: Revolutionizing Content Creation with AI Text-to-Video Technology - SoraMaker AI'} description={"Experience the future of content creation with Sora, OpenAI's pioneering AI text-to-video tool. Transform your stories into captivating videos effortlessly. Ideal for creators, marketers, and educators."} keywords='Sora OpenAI, AI Text-to-Video, Content Creation, AI Video Generation, Creative AI Tools, Multimedia Content' locale={locale} />
       <MainContent>
         <ContentSection />
         <DescSection />

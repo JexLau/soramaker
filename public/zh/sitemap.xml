@@ -7,25 +7,25 @@
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <url>
         <loc>https://soramaker.ai/zh</loc>
-        <lastmod>2024-02-16T03:29:15.670Z</lastmod>
+        <lastmod>2024-02-20T19:58:43.030Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://soramaker.ai/zh/sora-prompts</loc>
-        <lastmod>2024-02-16T20:33:28.018Z</lastmod>
+        <lastmod>2024-02-19T18:45:47.505Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://soramaker.ai/zh/sora-news</loc>
-        <lastmod>2024-02-16T05:33:41.730Z</lastmod>
+        <lastmod>2024-02-20T09:12:49.606Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://soramaker.ai/zh/playground</loc>
-        <lastmod>2024-01-14T00:59:57.430Z</lastmod>
+        <lastmod>2024-02-18T19:33:17.557Z</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>

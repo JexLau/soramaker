@@ -1,12 +1,12 @@
 'use client'
 import { PrimaryButton, PrimaryButtonProps } from "../Button"
+import { FreeToTry } from "../DownloadBtn"
 
 export const ButtonClient = (props: PrimaryButtonProps) => {
   return (
-    <div>
-      <PrimaryButton onClick={() => console.log('dddd')}>
-        {props.children}
-      </PrimaryButton>
-    </div>
+      <FreeToTry text="Join WaitList" onClick={() => console.log('dddd')} >
+
+
+      </FreeToTry>
   )
 }

@@ -27,8 +27,15 @@ export default {
         'main-purple': '#764ba2',
         'main-text': '#FFFFFFDE',
       },
+      keyframes: {
+        spin: {
+          '0%': { transform: 'rotate(0deg)' },
+          '100%': { transform: 'rotate(360deg)' },
+        }
+      },
       animation: {
         swing: 'swing 1s ease-in-out infinite',
+        spin: 'spin 1s linear infinite',
       },
       borderRadius: {
         '4xl': '2rem',

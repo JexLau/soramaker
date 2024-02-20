@@ -1,9 +1,27 @@
 'use client'
 import { EnvelopeIcon } from "@heroicons/react/16/solid"
-import { PrimaryButton, PrimaryButtonProps } from "../Button"
 import { FreeToTry } from "../DownloadBtn"
+import { postEmail } from "@/requests"
+import { useState } from "react"
 
-export const WaitlistClient = (props: PrimaryButtonProps) => {
+export const WaitlistClient = () => {
+  const [isLoading, setLoading] = useState(false);
+  const handleEmail = async () => {
+    setLoading(true)
+    // 获取email
+    const email = document.getElementById('email') as HTMLInputElement
+    // 发送请求
+    if (email.value) {
+      const res = await postEmail(email.value)
+      console.log(res)
+      if(res.status === 200) {
+        setLoading(false)
+        email.value = ''
+        // 提示成功
+        alert('Success! You have been added to the waitlist')
+      }
+    }
+  }
   return (
     <div className="mt-4 rounded-md shadow-sm w-full flex items-center justify-between">
       <div className="relative flex-1 mr-4">
@@ -18,7 +36,7 @@ export const WaitlistClient = (props: PrimaryButtonProps) => {
           placeholder="you@example.com"
         />
       </div>
-      <FreeToTry text="Join WaitList" onClick={() => console.log('dddd')} />
+      <FreeToTry text="Join WaitList" isLoading={isLoading} onClick={() => handleEmail()} />
       
     </div>
 

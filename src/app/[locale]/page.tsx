@@ -13,9 +13,12 @@ import { Meta } from '@/components/Meta'
 // import { SocialShare } from '@/components/SocialShare'
 // import { Testimonials } from '@/components/Testimonials'
 import { useTranslations } from 'next-intl'
+import { unstable_setRequestLocale } from 'next-intl/server'
 
 export default function Home({ params }: { params: Record<string, string> }) {
   const { locale = 'en' } = params;
+  unstable_setRequestLocale(locale);
+  
   const t = useTranslations('Index')
   const ct = useTranslations('Common')
   return (

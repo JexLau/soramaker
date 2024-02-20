@@ -5,6 +5,8 @@ import '@/styles/tailwind.css'
 import { GTag } from '@/components/GTag'
 import { Umami } from '@/components/Umami'
 import { Header } from '@/components/Header'
+import { unstable_setRequestLocale } from 'next-intl/server'
+import { Locales } from '@/components/LocaleSwitch/navigation'
 
 const inter = Inter({
   subsets: ['latin'],
@@ -18,6 +20,11 @@ const lexend = Lexend({
   variable: '--font-lexend',
 })
 
+// https://next-intl-docs.vercel.app/docs/getting-started/app-router#static-rendering
+export function generateStaticParams() {
+  return Locales.map((locale) => ({locale}));
+}
+
 export default function RootLayout({
   children,
   params,
@@ -26,6 +33,7 @@ export default function RootLayout({
   params: Record<string, string>
 }) {
   const { locale } = params
+  unstable_setRequestLocale(locale);
   return (
     <html
       lang={locale}

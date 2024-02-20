@@ -1,10 +1,12 @@
 'use client'
-import { PrimaryButton } from "../Button"
+import { PrimaryButton, PrimaryButtonProps } from "../Button"
 
-export const ButtonClient = () => {
+export const ButtonClient = (props: PrimaryButtonProps) => {
   return (
     <div>
-      <PrimaryButton onClick={() => console.log('dddd')}>Join WaitList</PrimaryButton>
+      <PrimaryButton onClick={() => console.log('dddd')}>
+        {props.children}
+      </PrimaryButton>
     </div>
   )
 }

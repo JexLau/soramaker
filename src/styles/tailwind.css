@@ -2,25 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer components {
-  .gradient-button {
-    @apply relative inline-block px-6 py-1 text-base font-bold rounded-[6px] overflow-hidden;
-  }
-  .gradient-button::before {
-    content: '';
-    @apply absolute inset-0 bg-gradient-to-r from-main-purple to-main-blue opacity-0 transition-opacity duration-300 ease-in-out;
-  }
-  .gradient-button:hover::before {
-    @apply opacity-100;
-  }
-  .gradient-button span {
-    @apply relative z-10 text-main-text;
-  }
-  .gradient-button:hover span {
-    @apply text-white;
-  }
-}
-
 @property --shimmer-angle {
   syntax: '<angle>';
   initial-value: 0deg;
@@ -37,11 +18,60 @@
   }
 }
 
+@keyframes swing {
+  0%, 100% {
+    transform: translateX(-6px);
+  }
+  50% {
+    transform: translateX(6px);
+  }
+}
+
 .shimmer-bg {
   --shimmer-angle: 0deg;
   background: conic-gradient(from var(--shimmer-angle), theme(colors.main-blue) 0%, theme(colors.main-purple) 10%, theme(colors.main-blue) 20%);
   animation: shimmer 2.5s linear infinite;
 }
+
+/* 流星平移动 */
+@keyframes marquee {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+.rfm-marquee {
+  animation: marquee 4.5s infinite linear reverse;
+}
+.rfm-marquee-second {
+  animation: marquee 5.25s infinite linear reverse;
+}
+.rfm-marquee-third {
+  animation: marquee 3.9375s infinite linear reverse;
+}
+
+@keyframes marquee-reverse {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+.rfm-marquee-reverse {
+  animation: marquee-reverse 4.5s infinite linear reverse;
+}
+.rfm-marquee-reverse-second {
+  animation: marquee-reverse 5.25s infinite linear reverse;
+}
+.rfm-marquee-reverse-third {
+  animation: marquee-reverse 3.9375s infinite linear reverse;
+}
+
+
+
 
 .bg {
   z-index: 0;

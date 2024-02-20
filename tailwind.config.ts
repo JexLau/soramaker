@@ -27,6 +27,9 @@ export default {
         'main-purple': '#764ba2',
         'main-text': '#FFFFFFDE',
       },
+      animation: {
+        swing: 'swing 1s ease-in-out infinite',
+      },
       borderRadius: {
         '4xl': '2rem',
       },

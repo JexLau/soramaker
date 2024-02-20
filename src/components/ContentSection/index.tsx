@@ -2,17 +2,18 @@ import { useTranslations } from "next-intl"
 import { FreeToTry } from "../DownloadBtn"
 import { BarsArrowUpIcon, EnvelopeIcon, ExclamationCircleIcon } from '@heroicons/react/20/solid'
 import { ButtonClient } from "./ButtonClient"
+import { PrimaryButton } from "../Button"
 
 export function ContentSection({ src }: { src?: string }) {
   const t = useTranslations('ContentSection')
   return (
-    <div className="mx-auto max-w-7xl px-6 lg:px-8">
+    <div className="mx-auto max-w-7xl px-6 lg:px-8 lg:mt-6 mt-4 relative">
       <div className="mx-auto grid max-w-2xl grid-cols-1 items-start  gap-y-16 sm:gap-y-24 lg:mx-0 lg:max-w-none lg:grid-cols-2">
         <div>
-          <div className=" overflow-hidden rounded-3xl bg-gray-900  shadow-2xl lg:max-w-lg lg:pb-8 xl:pb-10">
+          <div className=" overflow-hidden rounded-3xl bg-gray-900  shadow-2xl lg:max-w-lg lg:pb-8 xl:pb-10 pb-6">
             <figure className="isolate">
               {/* <img src="/main.jpeg" alt="" className="w-full h-auto" /> */}
-              <video loop width="750" controls className="aspect-video rounded-t-xl bg-gray-50 object-cover">
+              <video loop width="750" controls className="aspect-video rounded-t-xl object-cover">
                 <source src="/tokyo-walk.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
@@ -32,11 +33,13 @@ export function ContentSection({ src }: { src?: string }) {
                         type="email"
                         name="email"
                         id="email"
-                        className="block w-full rounded-md border-0 py-1.5 pl-10 text-gray-900 ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"
+                        className="block bg-transparent w-full rounded-md border-0 py-1.5 pl-10 text-main-text ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"
                         placeholder="you@example.com"
                       />
                     </div>
-                    <ButtonClient />
+                    {/* <ButtonClient /> */}
+                    <FreeToTry text={`${'Join WaitList'}`} />
+
                   </div>
                 </div>
               </figcaption>
@@ -61,7 +64,8 @@ export function ContentSection({ src }: { src?: string }) {
               </p>
             </div>
             <div className="mt-10 text-right lg:max-w-lg lg:pb-8 xl:pb-10" >
-              <FreeToTry text={`${'Go PlayGround'}`} href={src} />
+              {/* <FreeToTry text={`${'Go PlayGround'}`} href={src} /> */}
+              <PrimaryButton>{"PlayGround"}</PrimaryButton>
             </div>
           </div>
           {/* <dl className="mt-10 grid grid-cols-2 gap-8 border-t border-gray-900/10 pt-10 sm:grid-cols-4">

@@ -7,7 +7,7 @@ export const CommentsContent = () => {
   const [loading, setLoading] = useState(true);
 
   const fetchComment = async (commentId: number) => {
-    const res = await fetch(`/api/comment?commentId=${commentId}`); // 使用你的API路由
+    const res = await fetch(`/api/comment?commentId=${commentId}`);
     const { data: postData } = await res.json();
     return postData;
   }

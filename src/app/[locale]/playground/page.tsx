@@ -1,4 +1,4 @@
-import { Playground } from '@/components/Examples'
+import { Playground } from '@/components/Playground'
 import { MainContent } from '@/components/Main';
 import { Meta } from '@/components/Meta'
 import { useTranslations } from 'next-intl'

@@ -22,7 +22,7 @@ const lexend = Lexend({
 
 // https://next-intl-docs.vercel.app/docs/getting-started/app-router#static-rendering
 export function generateStaticParams() {
-  return Locales.map((locale) => ({locale}));
+  return Locales.map((locale) => ({ locale }));
 }
 
 export default function RootLayout({
@@ -43,12 +43,12 @@ export default function RootLayout({
         lexend.variable,
       )}
     >
-      <GTag />
-      <Umami />
       <body className="flex h-full flex-col overflow-x-hidden">
         <Header />
         {children}
       </body>
+      <GTag />
+      <Umami />
     </html>
   )
 }

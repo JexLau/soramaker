@@ -9,8 +9,9 @@ export default function Home({ params }: { params: Record<string, string> }) {
   const ct = useTranslations('Common')
   return (
     <>
-      <Meta title={t('title')} description={t('description')} locale={locale} />
+      <Meta title={"Sora Maker: Transforming AI Prompts into Photorealistic Videos | OpenAI Playground"} description={"Explore Sora Maker on OpenAI's Playground. Turn your AI prompts into stunning, photorealistic videos effortlessly. Start creating with Sora now and bring your ideas to life!"} keywords='Sora Playground, AI Creativity, Interactive AI, AI Tools, Innovation Platform, AI Experiments' locale={locale} />
       <MainContent>
+        <h1 className="mt-2 text-5xl font-bold tracking-tight text-main-text sm:text-4xl text-center">Welcome to Sora Maker Playground</h1>
         <Playground />
       </MainContent>
     </>

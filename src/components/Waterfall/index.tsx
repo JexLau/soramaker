@@ -3,15 +3,26 @@ import Masonry from 'react-masonry-css';
 import React from 'react';
 import { MediaCard } from '../Card';
 
-export const VideoMasonry = ({ videos }: { videos: MediaCard[] }) => {
-  // Responsive column count
+export interface VideoMasonryProps {
+  videos: MediaCard[];
+  breakpointObj?: Record<string, number>;
+}
+
+const defaultBreakPoint = {
+  default: 4, // Default to 4 columns
+  '1536': 3, // Tailwind's '2xl' breakpoint at 1536px
+  '1280': 3, // Tailwind's 'xl' breakpoint
+  '1024': 2, // Tailwind's 'lg' breakpoint
+  '768': 2,  // Tailwind's 'md' breakpoint
+  '640': 1,  // Tailwind's 'sm' breakpoint
+};
+
+
+export const VideoMasonry = ({ videos, breakpointObj }: VideoMasonryProps) => {
+  // 如果外部传入了 breakpointColumnsObj，则使用外部传入的，否则使用默认的
   const breakpointColumnsObj = {
-    default: 4, // Default to 4 columns
-    '1536': 3, // Tailwind's '2xl' breakpoint at 1536px
-    '1280': 3, // Tailwind's 'xl' breakpoint
-    '1024': 2, // Tailwind's 'lg' breakpoint
-    '768': 2,  // Tailwind's 'md' breakpoint
-    '640': 1,  // Tailwind's 'sm' breakpoint
+    ...defaultBreakPoint,
+    ...breakpointObj
   };
 
   return (

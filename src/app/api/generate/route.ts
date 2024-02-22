@@ -1,6 +1,7 @@
 import { cookies, headers } from "next/headers";
 import { createClient } from '@/lib/supabase/action';
 import { getExampleVideo } from "./exampleVideo";
+import { NextResponse } from "next/server";
 
 export async function POST(req: Request) {
   const headerAll = headers();
@@ -25,7 +26,7 @@ export async function POST(req: Request) {
         "type": "server_error"
       }
     }
-    return Response.json(errorResult);
+    return NextResponse.json(errorResult);
   }
 
   if (!model) {
@@ -37,7 +38,7 @@ export async function POST(req: Request) {
         "type": "invalid_request_error"
       }
     }
-    return Response.json(errorResult);
+    return NextResponse.json(errorResult);
   }
 
   if (!prompt) {
@@ -49,7 +50,7 @@ export async function POST(req: Request) {
         "type": "invalid_request_error"
       }
     }
-    return Response.json(errorResult);
+    return NextResponse.json(errorResult);
   }
 
   if (!size) {
@@ -61,7 +62,7 @@ export async function POST(req: Request) {
         "type": "invalid_request_error"
       }
     }
-    return Response.json(errorResult);
+    return NextResponse.json(errorResult);
   }
 
   // todo call openai api in the future
@@ -83,5 +84,5 @@ export async function POST(req: Request) {
     ],
   }
 
-  return Response.json(successResult);
+  return NextResponse.json(successResult);
 }

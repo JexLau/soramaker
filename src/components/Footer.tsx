@@ -9,15 +9,14 @@ export function Footer() {
   return (
     <footer className="bg-[#0d0821]">
       <Container>
-        {/* <div className="py-16">
-          <nav className="mt-10 text-sm" aria-label="quick links">
-            <div className="-my-1 flex justify-center gap-x-6">
-              <NavLink href="/playground">{'Playground'}</NavLink>
-              <NavLink href="/sora-news">{"Sora News"}</NavLink>
-              <NavLink href="/sora-prompts">{"Sora Prompts"}</NavLink>
-            </div>
-          </nav>
-        </div> */}
+        <nav className="mt-10 py-8 text-sm" aria-label="quick links">
+          <div className="-my-1 flex justify-start gap-x-6">
+            <NavLink href="https://soramaker.ai/">{'Home'}</NavLink>
+            <NavLink href="/playground">{'Playground'}</NavLink>
+            <NavLink href="/sora-news">{"Sora News"}</NavLink>
+            <NavLink href="/sora-prompts">{"Sora Prompts"}</NavLink>
+          </div>
+        </nav>
         <div className="flex flex-col items-center py-4 sm:flex-row-reverse sm:justify-between">
           <div className="flex gap-x-6">
             <div

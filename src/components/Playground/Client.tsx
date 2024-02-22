@@ -9,6 +9,7 @@ import { PrimaryButton } from "../Button";
 
 export const PlayGroundFeture = () => {
   const [textStr, setTextStr] = useState('');
+  const [tips, setTips] = useState('');
   const [isLoading, setLoading] = useState(false);
   const [video, setVideo] = useState({ revised_prompt: '', url: '' });
 
@@ -30,14 +31,18 @@ export const PlayGroundFeture = () => {
     try {
       setLoading(true);
       if (!textStr) {
+        setTips('Please enter your prompt');
         const list = getRandomeVideo();
         setVideoList(list);
         return;
       }
       const result = await postGenerateVideo(textStr);
-      if (!result.data?.[0]?.revised_prompt)
+      if (!result.data?.[0]?.revised_prompt) {
+        setTips('No video generated, please try again');
         return
+      }
 
+      setTips('');
       setVideo({
         revised_prompt: result.data[0].revised_prompt,
         url: result.data[0].url
@@ -65,6 +70,7 @@ export const PlayGroundFeture = () => {
           }}
           maxLength={1000}
         />
+        {tips && <p className="text-red-500 text-sm absolute bottom-[52px] left-0 ml-4 mb-2">{tips}</p>}
       </div>
       <div
         className="flex justify-center items-center  py-6">

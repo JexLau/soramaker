@@ -35,7 +35,7 @@ export const PageClient = ({ id }: { id: string }) => {
     <div className="grow flex pr-[140px]">
       <div className="w-2/3 bg-gradient-to-l from-[#667dea10] to-[#764ba210] bg flex items-center justify-center">
         <div className="w-[90%]">
-          <VideoPlayer src={selectedContent?.src || videos[0].src} />
+          <VideoPlayer src={selectedContent?.src || videos[0].src} autoPlay />
         </div>
       </div>
       <div className="w-1/3 pl-[20px] py-4">

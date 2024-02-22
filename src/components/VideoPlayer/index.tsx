@@ -11,16 +11,16 @@ interface VideoPlayerProps {
   src: string;
   alt?: string;
   cover?: string; // 添加封面图片的 props
+  autoPlay?: boolean;
 }
 
-export const VideoPlayer = ({ src, alt, cover }: VideoPlayerProps) => {
+export const VideoPlayer = ({ src, alt, cover, autoPlay }: VideoPlayerProps) => {
   const fileName = src.split('/').pop()?.split('.')[0];
   const defaultCover = `/covers/${fileName}.jpg`;
-  const [playing, setPlaying] = useState(false); // 控制视频播放状态
+  const [playing, setPlaying] = useState(autoPlay); // 控制视频播放状态
   const [showCover, setShowCover] = useState(true); // 控制封面的显示状态
 
-  const shouldShowCover = showCover && fileName; // 是否显示封面
-
+  const shouldShowCover = autoPlay ? false : (showCover && !!fileName); // 是否显示封面
   // 当用户点击封面时触发
   const handleCoverClick = () => {
     setShowCover(false); // 隐藏封面
@@ -51,6 +51,7 @@ export const VideoPlayer = ({ src, alt, cover }: VideoPlayerProps) => {
           controls={true}
           width="100%"
           height="100%"
+          className={"rounded-xl"}
         />
       )}
     </>

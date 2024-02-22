@@ -8,7 +8,7 @@ import { VideoMasonry } from "../Waterfall";
 import { PrimaryButton } from "../Button";
 
 export const PlayGroundFeture = () => {
-  const [textStr, setTextStr] = useState('');
+  const [textStr, setTextStr] = useState('Example: Tour of an art gallery with many beautiful works of art in different styles.');
   const [tips, setTips] = useState('');
   const [isLoading, setLoading] = useState(false);
   const [video, setVideo] = useState({ revised_prompt: '', url: '' });

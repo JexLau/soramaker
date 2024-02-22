@@ -56,10 +56,9 @@ export const PlayGroundFeture = () => {
 
   const renderForm = () => {
     return <form onSubmit={handleSubmit} className="relative shadow-lg">
-      <div
-        className="overflow-hidden  focus-within:ring-1  ">
+      <div className="overflow-hidden  focus-within:ring-1  ">
         <textarea
-          rows={8}
+          rows={6}
           name="description"
           id="description"
           className="block w-full rounded-tl-[16px] rounded-tr-[16px] resize-none bg-transparent focus:ring-main-purple  text-main-text placeholder:text-gray-400 focus:ring-0 text-lg pt-4 pl-4"
@@ -86,10 +85,10 @@ export const PlayGroundFeture = () => {
 
   return (
     <div>
-      <div className="overflow-hidden text-main-text w-[80%] flex flex-col items-center mx-auto">
-        <div className="mx-auto w-full max-w-7xl px-5 mb-5">
+      <div className="overflow-hidden text-main-text lg:w-[80%] flex flex-col items-center mx-auto">
+        <div className="mx-auto w-full lg:max-w-7xl lg:px-5 px-2 mb-5">
           <div className="my-8 text-center">
-            <h2 className="text-main-text text-4xl">Transform AI Prompts into Videos</h2>
+            <h2 className="text-main-text  text-xl lg:text-4xl">Transform AI Prompts into Videos</h2>
           </div>
           <div className="lg:flex lg:justify-between mt-2">
             <div className={"lg:w-2/3 mr-6  w-full rounded-tl-[16px] rounded-tr-[16px] object-fill"}>
@@ -124,7 +123,7 @@ export const PlayGroundFeture = () => {
           </div>
           <div className={"w-full mx-auto"}>
             <div className={"pb-2"}>
-              <h2 className={"text-main-text text-4xl flex justify-center items-center my-6"}>{"Examples of Photorealistic Videos"}</h2>
+              <h2 className={"text-main-text text-xl lg:text-4xl flex justify-center items-center my-6 text-center"}>{"Examples of Photorealistic Videos"}</h2>
               {/* go more vedios */}
               <div className="w-[220px] py-4 mx-auto mb-4">
                 <PrimaryButton href="/sora-prompts">More Vedios</PrimaryButton>

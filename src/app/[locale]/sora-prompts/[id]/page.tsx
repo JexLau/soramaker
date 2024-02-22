@@ -14,7 +14,7 @@ export default function DefaultPage({ params }: { params: Record<string, string>
   const upperWord = id.toUpperCase();
 
   return (<>
-    <Meta title={`Explore with Sora: ${upperWord} AI-Generated Video Prompt | Sora Maker AI`} description={`DExplore the ${upperWord} video prompt on Sora Maker AI. Dive into a unique AI-generated visual narrative and unleash your creativity by submitting your own prompts.`} keywords={'Sora Maker AI, Mitten Astronaut, Video Prompt, AI-Generated Video, Creative Prompts, Visual Narrative, User Submissions'} locale={locale} />
+    <Meta title={`Explore with Sora: ${upperWord} AI-Generated Video Prompt | Sora Maker AI`} description={`DExplore the ${upperWord} video prompt on Sora Maker AI. Dive into a unique AI-generated visual narrative and unleash your creativity by submitting your own prompts.`} keywords={'Sora Maker AI, Mitten Astronaut, Video Prompt, AI-Generated Video, Creative Prompts, Visual Narrative, User Submissions'} locale={locale} pageurl={`/sora-prompts/${id}`} />
     <MainContent>
       <PageCompoent id={id} />
     </MainContent>

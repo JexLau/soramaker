@@ -6,7 +6,7 @@ const PolicyPage = ({ params }: { params: Record<string, string> }) => {
 
   return (
     <>
-      <Meta title={"Sora Maker AI Privacy Policy | Data Protection & User Privacy"} description={"Discover how Sora Maker AI respects and protects your privacy. Learn about our data collection, usage, and security measures to safeguard your personal information on our AI video generation platform."} keywords="Sora Maker AI, Privacy Policy, Data Protection, User Privacy, Personal Information Security, AI Video Platform" locale={locale} />
+      <Meta title={"Sora Maker AI Privacy Policy | Data Protection & User Privacy"} description={"Discover how Sora Maker AI respects and protects your privacy. Learn about our data collection, usage, and security measures to safeguard your personal information on our AI video generation platform."} keywords="Sora Maker AI, Privacy Policy, Data Protection, User Privacy, Personal Information Security, AI Video Platform" locale={locale}  pageurl="/privacy-policy" />
       <MainContent>
         <div className="leading-loose px-10 w-[95%] lg:w-[60%] mx-auto">
           <h1 className="text-3xl font-bold my-10 tracking-tight text-main-text sm:text-4xl text-center">

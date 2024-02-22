@@ -16,7 +16,7 @@ const PromptsPage = ({ params }: { params: Record<string, string> }) => {
 
   return (
     <>
-      <Meta title={"Explore the Latest AI-Generated Videos by Sora | Submit Your Own - Sora Maker AI"} description={"Dive into an ever-growing collection of AI-generated videos by Sora, sourced from the global community. Discover the magic of AI creativity and contribute your own masterpieces to be featured!"} keywords={'Sora Prompts, AI Content Generation, Creative Writing, Artistic Inspiration, Content Creation Ideas'} locale={locale} />
+      <Meta title={"Explore the Latest AI-Generated Videos by Sora | Submit Your Own - Sora Maker AI"} description={"Dive into an ever-growing collection of AI-generated videos by Sora, sourced from the global community. Discover the magic of AI creativity and contribute your own masterpieces to be featured!"} keywords={'Sora Prompts, AI Content Generation, Creative Writing, Artistic Inspiration, Content Creation Ideas'} locale={locale} pageurl='/sora-prompts' />
       <MainContent>
         <h1 className="text-3xl font-bold tracking-tight text-main-text sm:text-4xl text-center">
           {`Latest AI-Created Videos by Sora`}

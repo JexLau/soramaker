@@ -6,7 +6,7 @@ const TermPage = ({ params }: { params: Record<string, string> }) => {
 
   return (
     <>
-      <Meta title={"Explore the Latest AI-Generated Videos by Sora | Submit Your Own - Sora Maker AI"} description={"Dive into an ever-growing collection of AI-generated videos by Sora, sourced from the global community. Discover the magic of AI creativity and contribute your own masterpieces to be featured!"} keywords={'Sora Prompts, AI Content Generation, Creative Writing, Artistic Inspiration, Content Creation Ideas'} locale={locale} />
+      <Meta title={"Sora Maker AI Terms of Service | User Agreement & Policies"} description={"Review the comprehensive Terms of Service for Sora Maker AI. Understand your rights and responsibilities as a user to ensure a seamless experience with our AI-powered video generation platform."} locale={locale} keywords="Sora Maker AI, Terms of Service, User Agreement, AI Video Generation, Legal Policies, User Responsibilities" />
       <MainContent>
         <div className="leading-loose px-10 w-[95%] lg:w-[60%] mx-auto">
           <h1 className="text-3xl font-bold my-10 tracking-tight text-main-text sm:text-4xl text-center">

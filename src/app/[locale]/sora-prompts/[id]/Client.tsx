@@ -27,7 +27,7 @@ export const PageClient = ({ id }: { id: string }) => {
   const handleThumbnailClick = (id: string) => {
     const content = videos.find((item) => item.id === id);
     content && setSelectedContent(content);
-    history.pushState({}, '', `/sora-video-prompt/${id}`);
+    history.pushState({}, '', `/sora-prompts/${id}`);
   };
 
   return <>

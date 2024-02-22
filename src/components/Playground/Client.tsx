@@ -91,15 +91,15 @@ export const PlayGroundFeture = () => {
           <div className="my-8 text-center">
             <h2 className="text-main-text text-4xl">Transform AI Prompts into Videos</h2>
           </div>
-          <div className="flex justify-between mt-2">
-            <div className={"w-2/3 mr-6 rounded-tl-[16px] rounded-tr-[16px] object-fill"}>
+          <div className="lg:flex lg:justify-between mt-2">
+            <div className={"lg:w-2/3 mr-6  w-full rounded-tl-[16px] rounded-tr-[16px] object-fill"}>
               {
                 video.url ?
                   <MediaCard className="w-full" id={video.url} src={video.url} prompt={video.revised_prompt} source="OpenAI" />
                   : renderForm()
               }
             </div>
-            <ul role="list" className="mt-8 my-8 space-y-8 flex flex-col w-1/3">
+            <ul role="list" className="mt-8 my-8 space-y-8 flex flex-col lg:w-1/3 w-full">
               <li>
                 <h3 className="font-semibold text-main-text">⭐️ Step 1: Enter Your Prompt</h3>
               </li>
@@ -130,7 +130,12 @@ export const PlayGroundFeture = () => {
                 <PrimaryButton href="/sora-prompts">More Vedios</PrimaryButton>
               </div>
             </div>
-            <VideoMasonry videos={videoList} />
+            <VideoMasonry videos={videoList} breakpointObj={{
+              default: 4,
+              '1536': 3,
+              '1280': 2,
+              1100: 1,
+            }} />
           </div>
         </div>
       </div>

@@ -20,10 +20,7 @@ const defaultBreakPoint = {
 
 export const VideoMasonry = ({ videos, breakpointObj }: VideoMasonryProps) => {
   // 如果外部传入了 breakpointColumnsObj，则使用外部传入的，否则使用默认的
-  const breakpointColumnsObj = {
-    ...defaultBreakPoint,
-    ...breakpointObj
-  };
+  const breakpointColumnsObj = breakpointObj ?? defaultBreakPoint;
 
   return (
     <Masonry

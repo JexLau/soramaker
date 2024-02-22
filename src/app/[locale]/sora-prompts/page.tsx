@@ -6,9 +6,8 @@ import { allVideoList } from '@/constants/videos';
 const PromptsPage = ({ params }: { params: Record<string, string> }) => {
   const { locale = 'en' } = params;
   const videos = allVideoList.map((item) => {
-    const id = item.videoUrl.split('/').pop()?.split('.')[0] || item.number;
     return item ? {
-      id,
+      id: item.id,
       src: item.videoUrl,
       prompt: item.prompt,
       source: "OpenAI"

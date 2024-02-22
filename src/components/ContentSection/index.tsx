@@ -41,7 +41,7 @@ export function ContentSection({ src }: { src?: string }) {
             </p>
           </div>
           <div className="mt-12 text-right lg:max-w-lg lg:pb-8 xl:pb-10" >
-            <PrimaryButton href="https://openai.com/sora">{"PlayGround"}</PrimaryButton>
+            <PrimaryButton href="/playground">{"PlayGround"}</PrimaryButton>
           </div>
         </div>
       </div>

@@ -28,7 +28,7 @@ export const VideoPlayer = ({ src, alt, cover }: VideoPlayerProps) => {
   };
 
   return (
-    <div>
+    <>
       {shouldShowCover ? (
         <div className='relative'>
           <Image
@@ -55,6 +55,6 @@ export const VideoPlayer = ({ src, alt, cover }: VideoPlayerProps) => {
           height="100%"
         />
       )}
-    </div>
+    </>
   );
 };

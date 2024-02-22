@@ -11,10 +11,16 @@ export function generateStaticParams() {
 
 export default function DefaultPage({ params }: { params: Record<string, string> }) {
   const { locale = 'en', id } = params;
-  const upperWord = id.toUpperCase();
+  // 首字母大写
+  const upperWord = id.charAt(0).toUpperCase() + id.slice(1);
 
   return (<>
-    <Meta title={`Explore with Sora: ${upperWord} AI-Generated Video Prompt | Sora Maker AI`} description={`DExplore the ${upperWord} video prompt on Sora Maker AI. Dive into a unique AI-generated visual narrative and unleash your creativity by submitting your own prompts.`} keywords={'Sora Maker AI, Mitten Astronaut, Video Prompt, AI-Generated Video, Creative Prompts, Visual Narrative, User Submissions'} locale={locale} pageurl={`/sora-prompts/${id}`} />
+    <Meta
+      title={`Explore with Sora: ${upperWord} AI-Generated Video Prompt | Sora Maker AI`} description={`Explore the ${upperWord} video prompt on Sora Maker AI. Dive into a unique AI-generated visual narrative and unleash your creativity by submitting your own prompts.`} keywords={'Sora Maker AI, Mitten Astronaut, Video Prompt, AI-Generated Video, Creative Prompts, Visual Narrative, User Submissions'}
+      locale={locale}
+      pageurl={`/sora-prompts/${id}`}
+      image={`https://soramaker.ai/covers/${id}.jpg`}
+    />
     <MainContent>
       <PageCompoent id={id} />
     </MainContent>

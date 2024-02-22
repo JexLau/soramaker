@@ -20,7 +20,7 @@ export default function DefaultPage({ params }: { params: Record<string, string>
       pageurl={`/sora-prompts/${id}`}
       image={`https://soramaker.ai/covers/${id}.jpg`}
     />
-    <MainContent>
+    <MainContent className="!pt-0">
       <PageCompoent id={id} />
     </MainContent>
   </>

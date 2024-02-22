@@ -1,4 +1,4 @@
-export const allExampleVideoList = [
+export const allVideoList = [
   {
     "number": "a1",
     "prompt": "A stylish woman walks down a Tokyo street filled with warm glowing neon and animated city signage. She wears a black leather jacket, a long red dress, and black boots, and carries a black purse. She wears sunglasses and red lipstick. She walks confidently and casually. The street is damp and reflective, creating a mirror effect of the colorful lights. Many pedestrians walk about.",
@@ -288,19 +288,3 @@ export const allExampleVideoList = [
     "keywords": ""
   }
 ]
-
-
-export const randomVideo = () => {
-  // 定义一个空数组来存放随机数
-  let randomNumbers: number[] = [];
-  const resultVideoList = [];
-  // 循环获取多个不同的随机数
-  while (randomNumbers.length < 5) {
-    let randomNumber = Math.floor(Math.random() * (allExampleVideoList.length + 1));
-    if (!randomNumbers.includes(randomNumber)) {
-      randomNumbers.push(randomNumber);
-      resultVideoList.push(allExampleVideoList[randomNumber])
-    }
-  }
-  return resultVideoList;
-}

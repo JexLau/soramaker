@@ -1,4 +1,4 @@
-import { baseurl, getHrefLang } from "@/utils/constants"
+import { baseurl, getHrefLang } from "@/constants"
 
 export interface MetaProps {
   title: string

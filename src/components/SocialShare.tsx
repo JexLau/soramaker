@@ -1,5 +1,4 @@
 'use client';
-import { baseurl } from '@/utils/constants';
 import clsx from 'clsx';
 import { useEffect, useState } from 'react';
 import {

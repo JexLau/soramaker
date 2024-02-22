@@ -35,7 +35,6 @@ export const PlayGroundFeture = () => {
         return;
       }
       const result = await postGenerateVideo(textStr);
-      setLoading(false);
       if (!result.data?.[0]?.revised_prompt)
         return
 
@@ -44,6 +43,8 @@ export const PlayGroundFeture = () => {
         url: result.data[0].url
       });
     } catch (error) {
+      setLoading(false);
+    } finally {
       setLoading(false);
     }
   }

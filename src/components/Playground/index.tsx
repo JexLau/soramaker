@@ -7,7 +7,6 @@ const PlayGroundFeture = dynamic(() => import("./Client"), { ssr: false })
 export function Playground() {
   const t = useTranslations("Playground")
   return (
-
     <PlayGroundFeture />
   )
 }

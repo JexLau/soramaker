@@ -1,4 +1,4 @@
-import { allExampleVideoList } from "./constants";
+import { allVideoList } from "@/constants/videos";
 
 export const getExampleVideo = async (prompt:string) => {
   // 找出关键词数量最多的那个视频
@@ -8,8 +8,8 @@ export const getExampleVideo = async (prompt:string) => {
     video_url: ''
   }
   let matchCount = 0;
-  for (let i = 0; i < allExampleVideoList.length; i++) {
-    const currentVideo = allExampleVideoList[i];
+  for (let i = 0; i < allVideoList.length; i++) {
+    const currentVideo = allVideoList[i];
     const currentPrompt = currentVideo.prompt.split(" ");
 
     // 当前匹配到的词数量

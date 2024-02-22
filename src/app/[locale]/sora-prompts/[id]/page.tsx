@@ -1,7 +1,6 @@
 import { MainContent } from "@/components/Main";
 import { Meta } from "@/components/Meta";
 import { PageCompoent } from "./PageComponent";
-import { unstable_setRequestLocale } from "next-intl/server";
 import { allVideoList } from "@/constants/videos";
 
 // https://next-intl-docs.vercel.app/docs/getting-started/app-router#static-rendering

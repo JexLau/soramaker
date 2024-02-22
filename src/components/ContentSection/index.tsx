@@ -2,9 +2,11 @@ import { useTranslations } from "next-intl"
 import { EnvelopeIcon } from '@heroicons/react/20/solid'
 import { WaitlistClient } from "./WaitlistClient"
 import { PrimaryButton } from "../Button"
+import { CopyIconClient } from "../Card/CopyIcon"
 
 export function ContentSection({ src }: { src?: string }) {
   const t = useTranslations('ContentSection')
+  const text = `A stylish woman walks down a Tokyo street filled with warm glowing neon and animated city signage. She wears a black leather jacket, a long red dress, and black boots, and carries a black purse. She wears sunglasses and red lipstick. She walks confidently and casually. The street is damp and reflective, creating a mirror effect of the colorful lights. Many pedestrians walk about.`
   return (
     <div className="mx-auto max-w-7xl px-6 lg:px-8 lg:mt-6 relative">
       <div className="mx-auto max-w-2xl lg:max-w-none grid  lg:flex lg:justify-evenly grid-cols-1 lg:grid-cols-2 gap-y-16 gap-x-4 sm:gap-y-24 lg:mx-0">
@@ -15,7 +17,7 @@ export function ContentSection({ src }: { src?: string }) {
               Your browser does not support the video tag.
             </video>
             <p className="text-[12px] leading-6 text-gray-300 px-8 py-2">
-              Prompt: A stylish woman walks down a Tokyo street filled with warm glowing neon and animated city signage. She wears a black leather jacket, a long red dress, and black boots, and carries a black purse. She wears sunglasses and red lipstick. She walks confidently and casually. The street is damp and reflective, creating a mirror effect of the colorful lights. Many pedestrians walk about.
+              Prompt: {text} <CopyIconClient text={text} />
             </p>
             <div className=" border-b-gray-500 border-b mx-8 mt-2"></div>
             <figcaption className="mt-4 text-base leading-6 text-gray-300 px-8 ">

@@ -1,5 +1,6 @@
 'use client';
 import { BlurImage } from "@/components/BlurImage";
+import { CopyIconClient } from "@/components/Card/CopyIcon";
 import { VideoPlayer } from "@/components/VideoPlayer";
 import { allVideoList } from "@/constants/videos";
 import { useEffect, useState } from "react";
@@ -38,7 +39,10 @@ export const PageClient = ({ id }: { id: string }) => {
         </div>
       </div>
       <div className="w-1/3 pl-[20px] py-4">
-        <p>{selectedContent?.prompt || videos[0].prompt}</p>
+        <h1 className="text-3xl font-bold tracking-tight text-main-text sm:text-4xl text-left my-4">
+          {`Prompt`}
+        </h1>
+        <p>{selectedContent?.prompt || videos[0].prompt} <CopyIconClient text={selectedContent?.prompt || videos[0].prompt} /></p>
       </div>
     </div>
     <div className="absolute overflow-auto rounded-xl h-auto right-2 inset-y-4 w-[100px] flex flex-col space-y-2">

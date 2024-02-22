@@ -2,7 +2,7 @@
 
 Transform Your Ideas into Videos with Sora.
 
-Here is online website👉 [SoraMakerAI](https://www.soramaker.ai)
+Here is online website👉 [SoraMakerAI](https://soramaker.ai)
 
 <div align="left">
 

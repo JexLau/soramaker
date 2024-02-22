@@ -2,7 +2,7 @@
 
 将您的创意转化为视频，使用Sora。
 
-这里是在线网站👉 [SoraMakerAI](https://www.soramaker.ai)
+这里是在线网站👉 [SoraMakerAI](https://soramaker.ai)
 
 <div align="left">
 

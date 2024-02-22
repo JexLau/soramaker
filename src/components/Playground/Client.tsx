@@ -7,6 +7,7 @@ import { MediaCard } from "../Card";
 import { VideoMasonry } from "../Waterfall";
 import { PrimaryButton } from "../Button";
 import { VideoPlayer } from "../VideoPlayer";
+import { CopyIconClient } from "../Card/CopyIcon";
 
 export const PlayGroundFeture = () => {
   const [textStr, setTextStr] = useState('Example: Tour of an art gallery with many beautiful works of art in different styles.');
@@ -104,11 +105,11 @@ export const PlayGroundFeture = () => {
   const renderResult = () => {
     return <>
       <div className="lg:w-2/3 mr-6  w-full rounded-[16px] object-cover aspect-video  group-hover:opacity-75">
-        <VideoPlayer src={video.url} />
+        <VideoPlayer src={video.url} autoPlay />
       </div>
       <figcaption className="my-6 space-y-8 flex flex-col lg:w-1/3 w-full">
         <h3 className="font-semibold text-main-text text-[26px]">Prompt</h3>
-        <p> {video.revised_prompt} </p>
+        <p> {video.revised_prompt} <CopyIconClient text={video.revised_prompt} /></p>
         {
           video.url && <FreeToTry
             text="Generate Retry"

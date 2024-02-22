@@ -30,15 +30,13 @@ export const VideoPlayer = ({ src, alt, cover }: VideoPlayerProps) => {
   return (
     <>
       {shouldShowCover ? (
-        <div className='relative'>
+        <div className='relative w-full'>
           <Image
             src={cover || defaultCover}
             alt={alt || fileName || 'video cover'}
-            // layout="fill" // 使封面填充容器
-            objectFit="cover" // 保持封面的宽高比
             width={325}
             height={183}
-            className='rounded-t-xl cursor-pointer w-full h-full'
+            className='rounded-xl cursor-pointer w-full h-auto'
             onClick={handleCoverClick} // 点击封面时触发播放
           />
           <PlayCircleIcon

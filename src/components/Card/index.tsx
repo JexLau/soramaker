@@ -1,6 +1,9 @@
 import { PropsWithChildren } from "react"
 import { VideoPlayer } from "../VideoPlayer";
 import clsx from "clsx";
+import { ArrowDownCircleIcon } from "@heroicons/react/24/solid";
+import Link from "next/link";
+import { NavLink } from "../NavLink";
 
 export interface MediaCard extends PropsWithChildren {
   id: string;
@@ -19,8 +22,14 @@ export const MediaCard = ({ id, src, prompt, source, className }: MediaCard) => 
       <figcaption className="mt-6 text-sm leading-6 text-gray-300 px-8 ">
         Prompt: {prompt}
       </figcaption>
-      <figcaption className="mt-6 text-sm leading-6 text-gray-300 px-8 ">
-        🤖 {source}
+      <figcaption className="mt-6 text-sm leading-6 text-gray-300 px-8 inline-flex justify-between w-full items-center">
+        <span>🤖 {source}</span>
+        <span className="inline-flex items-center">
+          <NavLink className="!text-sm" href={`/sora-video-prompt/${id}`}>查看详情</NavLink>
+          <a href={src} download target="_blank">
+            <ArrowDownCircleIcon className="w-6 h-6 hover:text-main-blue" />
+          </a>
+        </span>
       </figcaption>
     </figure>
   </div>

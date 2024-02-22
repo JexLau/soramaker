@@ -6,8 +6,9 @@ import { allVideoList } from '@/constants/videos';
 const PromptsPage = ({ params }: { params: Record<string, string> }) => {
   const { locale = 'en' } = params;
   const videos = allVideoList.map((item) => {
+    const id = item.videoUrl.split('/').pop()?.split('.')[0] || item.number;
     return item ? {
-      id: item.number,
+      id,
       src: item.videoUrl,
       prompt: item.prompt,
       source: "OpenAI"
@@ -23,7 +24,7 @@ const PromptsPage = ({ params }: { params: Record<string, string> }) => {
         </h1>
         <div className="w-full mt-6 text-center px-4">
           <p>
-            Dive into an ever-growing collection of AI-generated videos by Sora, sourced from the global community. 
+            Dive into an ever-growing collection of AI-generated videos by Sora, sourced from the global community.
           </p>
           <p>Discover the magic of AI creativity and contribute your own masterpieces to be featured!</p>
         </div>

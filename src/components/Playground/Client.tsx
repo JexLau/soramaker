@@ -16,8 +16,9 @@ export const PlayGroundFeture = () => {
 
   const getRandomeVideo = () => {
     const videos = randomVideo().map((item) => {
+      const id = item.videoUrl.split('/').pop()?.split('.')[0] || item.number;
       return item ? {
-        id: item.number,
+        id,
         src: item.videoUrl,
         prompt: item.prompt,
         source: "OpenAI"
@@ -96,7 +97,7 @@ export const PlayGroundFeture = () => {
         <li>
           <h3 className="font-semibold text-main-text">⭐️ Step 4 (Optional): Download the Video </h3>
         </li>
-        
+
       </ul>
     </>
   }
@@ -133,9 +134,9 @@ export const PlayGroundFeture = () => {
           <div className={"w-full mx-auto"}>
             <div className={"pb-2"}>
               <h2 className={"text-main-text text-xl lg:text-4xl flex justify-center items-center my-6 text-center"}>{"Examples of Photorealistic Videos"}</h2>
-              {/* go more vedios */}
+              {/* go more Videos */}
               <div className="w-[220px] py-4 mx-auto mb-4">
-                <PrimaryButton href="/sora-prompts">More Vedios</PrimaryButton>
+                <PrimaryButton href="/sora-prompts">More Videos</PrimaryButton>
               </div>
             </div>
             <VideoMasonry videos={videoList} breakpointObj={{

@@ -10,7 +10,6 @@ export function ContentSection({ src }: { src?: string }) {
       <div className="mx-auto max-w-2xl lg:max-w-none grid  lg:flex lg:justify-evenly grid-cols-1 lg:grid-cols-2 gap-y-16 gap-x-4 sm:gap-y-24 lg:mx-0">
         <div className="overflow-hidden rounded-3xl bg-gray-900  shadow-2xl lg:max-w-lg lg:pb-8 xl:pb-10 pb-6">
           <figure className="isolate">
-            {/* <img src="/main.jpeg" alt="" className="w-full h-auto" /> */}
             <video loop width="750" controls className="aspect-video rounded-t-xl object-cover">
               <source src="/tokyo-walk.mp4" type="video/mp4" />
               Your browser does not support the video tag.

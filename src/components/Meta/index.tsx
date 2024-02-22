@@ -10,7 +10,7 @@ export interface MetaProps {
 }
 
 
-export const Meta = ({ title, description, keywords, locale = 'en', pageurl, image = `${baseurl}/howtouse.gif` }: MetaProps) => {
+export const Meta = ({ title, description, keywords, locale = 'en', pageurl, image = `${baseurl}/share.jpg` }: MetaProps) => {
   const getUrl = (lang: string) => pageurl ? `${getHrefLang(lang)}${pageurl}` : getHrefLang(lang)
   const url = getUrl(locale);
 

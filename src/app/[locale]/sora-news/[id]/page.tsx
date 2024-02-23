@@ -3,9 +3,14 @@ import { Meta } from "@/components/Meta";
 import { getNewsDataDetail, getNewsIds } from "../getNewsData";
 import { CommentItem } from "@/components/Comment";
 
-// https://next-intl-docs.vercel.app/docs/getting-started/app-router#static-rendering
 export function generateStaticParams() {
-  return getNewsIds().map((item) => ({ id: `${item}` }));
+  const ids = getNewsIds().map((item) => {
+    return {
+      id: item.replace(/\.json$/, '')
+    }
+  });
+  console.log(ids)
+  return ids;
 }
 
 export default function DefaultPage({ params }: { params: Record<string, string> }) {

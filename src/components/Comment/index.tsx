@@ -15,8 +15,8 @@ export const CommentItem = ({ username, title, timestamp, text, children }: Comm
         {username && <div className="flex justify-between items-center">
           <p className="text-sm font-bold">{username}</p>
         </div>}
-        {text && <p className="text-sm text-gray-700 mt-1" dangerouslySetInnerHTML={{ __html: text }}></p>}
-        {timestamp && <span className="text-xs text-gray-500">{timestamp}</span>}
+        {text && <p className="text-sm text-gray-500 mt-1" dangerouslySetInnerHTML={{ __html: text }}></p>}
+        {timestamp && <span className="text-xs text-gray-700">{timestamp}</span>}
         {children}
       </div>
     </div>

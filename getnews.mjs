@@ -2,7 +2,7 @@ import { promises as fs } from "fs";
 import path from "path";
 import he from 'he';
 
-const hackerNewsIds = ["39430522", "39417334", "39416928", "39449887", "39422364", "39386156"]
+const hackerNewsIds = ["39417334"]
 const DATA_DIR_PATH = path.join(process.cwd(), './src/constants/news');
 
 // sleep 降低请求频率

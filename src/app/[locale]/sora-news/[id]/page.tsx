@@ -9,7 +9,6 @@ export function generateStaticParams() {
       id: item.replace(/\.json$/, '')
     }
   });
-  console.log(ids)
   return ids;
 }
 
@@ -18,15 +17,16 @@ export default function DefaultPage({ params }: { params: Record<string, string>
   // 首字母大写
   const detail = getNewsDataDetail(id);
 
-  const renderComment = () => {
-    console.log(detail.type)
-    return detail.comments.map((item: any, idx: number) => {
-      return <CommentItem
-        key={idx}
-        username={item.by}
-        timestamp={item.time}
-        text={item.text}
-      />
+  const renderComment = (comments: any[]) => {
+    return comments.map((item: any, idx: number) => {
+      return !item.delete ? <CommentItem
+      key={idx}
+      username={item.by}
+      timestamp={item.time}
+      text={item.text}
+    >
+        {item.comments && renderComment(item.comments)}
+      </CommentItem> : null
     })
   }
 
@@ -56,7 +56,7 @@ export default function DefaultPage({ params }: { params: Record<string, string>
       </div>
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="bg py-4">
-          {detail.type === 'story' ? renderStory(detail.comments) : renderComment()}
+          {detail.type === 'story' ? renderStory(detail.comments) : renderComment(detail.comments)}
         </div>
       </div>
     </MainContent>

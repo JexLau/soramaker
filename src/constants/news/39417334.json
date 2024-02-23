@@ -1,0 +1,379 @@
+{
+  "id": 39417334,
+  "source": "https://news.ycombinator.com/item?id=39417334",
+  "by": "justanotherjoe",
+  "kids": [
+    39417380,
+    39418320,
+    39417389
+  ],
+  "parent": 39417294,
+  "text": "The way i understand it is that Sora is mostly just 'moving pictures' with no rhyme or reason.  Yann Lecun is interested in videos that tell a 'story', with cause and effect.  Like a magician putting his hand into a top hat and pulling out a rabbit, kind of video.",
+  "time": "February 18, 2024 at 4:42 PM",
+  "type": "comment",
+  "comments": [
+    {
+      "by": "throw310822",
+      "id": 39417380,
+      "kids": [
+        39417395
+      ],
+      "parent": 39417334,
+      "text": "Yeah, the same way ChatGPT is only predicting the next word with no rhyme or reason. However to actually predict the next word so that the entire sentence makes sense and is relevant for the context (e.g. answers a question) you probably must be actually understanding the meaning of the words and the language and have a world model. I can't imagine a NN moving around pixels in the shape of a cat with no understanding whatsoever of what a cat is, what it can do, how it is supposed to move, what it wants, etc.",
+      "time": "February 18, 2024 at 4:52 PM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "justanotherjoe",
+          "id": 39417395,
+          "kids": [
+            39418052,
+            39417423
+          ],
+          "parent": 39417380,
+          "text": "Of course.  But stable diffusion can do that.  It understands what a cat is and can draw cat wearing a hat.  Videos are about actions, cause and effect, which is entirely different thing than still pictures.",
+          "time": "February 18, 2024 at 4:55 PM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "dkjaudyeqooe",
+              "id": 39418052,
+              "kids": [
+                39418209,
+                39418190,
+                39418203
+              ],
+              "parent": 39417395,
+              "text": "It doesn't understand a cat at all. Humans understand, models are deterministic functions with some randomness added in. Just because it appears to understand doesn't make it so.",
+              "time": "February 18, 2024 at 6:56 PM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "OJFord",
+                  "id": 39418209,
+                  "kids": [
+                    39418224
+                  ],
+                  "parent": 39418052,
+                  "text": "What <i>is</i> understanding though? I 'appear to understand' what a cat is, why does being human make it that I do so? What is the difference between making the correct associations and actually 'understanding' anyway?",
+                  "time": "February 18, 2024 at 7:27 PM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "dkjaudyeqooe",
+                      "id": 39418224,
+                      "kids": [
+                        39418255
+                      ],
+                      "parent": 39418209,
+                      "text": "Understanding, in this context, is what humans do, by definition. Until you have a concrete definition of what understanding is you can't apply it to anything else. Informal definitions of understanding by those who experience it aren't very useful at all.",
+                      "time": "February 18, 2024 at 7:30 PM",
+                      "type": "comment",
+                      "comments": [
+                        {
+                          "by": "OJFord",
+                          "id": 39418255,
+                          "kids": [
+                            39418337
+                          ],
+                          "parent": 39418224,
+                          "text": "I think that's my point? You were willing to say it <i>doesn't</i> apply without a definition?",
+                          "time": "February 18, 2024 at 7:38 PM",
+                          "type": "comment",
+                          "comments": [
+                            {
+                              "by": "dkjaudyeqooe",
+                              "id": 39418337,
+                              "kids": [
+                                39418629
+                              ],
+                              "parent": 39418255,
+                              "text": "I'm saying if you want to apply it outside human experience you need an concrete definition otherwise you can call anything you like 'understanding' which is what's happening.",
+                              "time": "February 18, 2024 at 7:55 PM",
+                              "type": "comment",
+                              "comments": [
+                                {
+                                  "by": "throw310822",
+                                  "id": 39418629,
+                                  "kids": [
+                                    39418802,
+                                    39419399
+                                  ],
+                                  "parent": 39418337,
+                                  "text": "If for you the definition of \"understanding\" is \"something that only humans can do\" then your statement about AI is totally pointless: of course AI doesn't \"understand\", but at the same time it might do something that is perfectly equivalent and that \"only machines can do\".",
+                                  "time": "February 18, 2024 at 8:53 PM",
+                                  "type": "comment",
+                                  "comments": [
+                                    {
+                                      "by": "dkjaudyeqooe",
+                                      "id": 39418802,
+                                      "kids": [
+                                        39419184,
+                                        39419397
+                                      ],
+                                      "parent": 39418629,
+                                      "text": "> something that is perfectly equivalent<p>So go ahead and define it, in concrete terms, external to humans. It can't be equivalent unless there is a definite basis for equivalence. Cat videos don't cut it.<p>My point is that understanding, as we know it, only exists in the human mind.<p>If you want to define something that is functionally equivalent but implemented in a machine, that is absolutely fine, but don't point to something a machine does and say \"look it's understanding!\" without having a concrete model of what understanding is, and how that machine is, in concrete terms, achieving it.",
+                                      "time": "February 18, 2024 at 9:16 PM",
+                                      "type": "comment",
+                                      "comments": [
+                                        {
+                                          "by": "throw310822",
+                                          "id": 39419184,
+                                          "kids": [
+                                            39419702
+                                          ],
+                                          "parent": 39418802,
+                                          "text": "Nope, sorry. You said you have no idea of what understanding is, except that by definition it can only be done by humans.<p>Fine. Then I posit the existence of understanding-2, which is exactly identical to understanding, whatever it is, except for the fact that it can only be done by machines. And now I ask you to prove to me that AI doesn't have understanding-2.<p>This is just to show you the absurdity of trying to claim that AI doesn't have understanding because by definition only humans have it.",
+                                          "time": "February 18, 2024 at 10:07 PM",
+                                          "type": "comment",
+                                          "comments": [
+                                            {
+                                              "by": "Jensson",
+                                              "id": 39419702,
+                                              "kids": [
+                                                39420231
+                                              ],
+                                              "parent": 39419184,
+                                              "text": "> Nope, sorry. You said you have no idea of what understanding is, except that by definition it can only be done by humans.<p>He said understanding is what humans do, not that only humans can do it. Stop arguing against a strawman.<p>Nobody would define understanding as something only humans can do. But it makes sense to define understanding based on what humans do, since that is our main example of an intelligence. If you want to make another definition of understanding then you need to prove that such a definition doesn't include a lot of behaviors that fails to solve problems human understanding can solve, because then it isn't really the same level of as human understanding.",
+                                              "time": "February 18, 2024 at 11:16 PM",
+                                              "type": "comment",
+                                              "comments": [
+                                                {
+                                                  "by": "throw310822",
+                                                  "id": 39420231,
+                                                  "parent": 39419702,
+                                                  "text": "> He said understanding is what humans do, not that only humans can do it. Stop arguing against a strawman.<p>Ok, so his argument is:<p>> Humans understand, models are deterministic functions<p>> Until you have a concrete definition of what understanding is you can't apply it to anything else<p>> Informal definitions of understanding by those who experience it aren't very useful at all.<p>Basically he says: \"I don't accept you using the term 'understanding' until you provide a formal definition of it, which none of us has. I don't need such definition when I talk about people, because... I assume that they understand\".<p>Which means: given two agents, I decide that I can apply the word \"understanding\" only to the human one, for no other reason that it is human, and simply refuse to apply it to non-humans, just because.<p>Clearly there is absolutely nothing that can convince this person that an AI understands- precisely because it's a machine. Put in front of a computer terminal with a real person on the other side- but being told it's a machine- he would refuse to call \"understanding\" whatever the human on the other side does. Which makes the entire discussion rather pointless, don't you think?",
+                                                  "time": "February 19, 2024 at 12:14 AM",
+                                                  "type": "comment"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "by": "inference-lord",
+                                          "id": 39419397,
+                                          "kids": [
+                                            39420751
+                                          ],
+                                          "parent": 39418802,
+                                          "text": "...and measurable IMO :) We need a way to know how much something understands.",
+                                          "time": "February 18, 2024 at 10:35 PM",
+                                          "type": "comment",
+                                          "comments": [
+                                            {
+                                              "by": "Jensson",
+                                              "id": 39420751,
+                                              "parent": 39419397,
+                                              "text": "If we had that then education would be solved, but we still struggle to educate people and ensure fair testing that tests understanding instead of worthless things like effort or memorization.",
+                                              "time": "February 19, 2024 at 1:06 AM",
+                                              "type": "comment"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "by": "inference-lord",
+                                      "id": 39419399,
+                                      "kids": [
+                                        39419629
+                                      ],
+                                      "parent": 39418629,
+                                      "text": "I guess you understand wolves, do you think this video demonstrates understanding of how wolves work?<p><a href=\"https://www.youtube.com/watch?v=jspYKxFY7Sc\" rel=\"nofollow\">https://www.youtube.com/watch?v=jspYKxFY7Sc</a>",
+                                      "time": "February 18, 2024 at 10:36 PM",
+                                      "type": "comment",
+                                      "comments": [
+                                        {
+                                          "by": "throw310822",
+                                          "id": 39419629,
+                                          "kids": [
+                                            39432768
+                                          ],
+                                          "parent": 39419399,
+                                          "text": "Certainly. It demonstrates it knows how they look, how they move, what type of behaviour they show at a certain age, in what kind of environment you might see them. What it doesn't seem to have is enough persistence to remember <i>how many</i> there are. But the idea of an animate, acting wolf is there, no doubt about it.",
+                                          "time": "February 18, 2024 at 11:06 PM",
+                                          "type": "comment",
+                                          "comments": [
+                                            {
+                                              "by": "namaria",
+                                              "id": 39432768,
+                                              "parent": 39419629,
+                                              "text": "Models can't understand anything but the dataset they are trained on. This is very obvious from the plausible looking wolf cubs moving plausibly while behaving in absurd ways when it comes to real life wolves, or real life anythings for that matter. Models are compressing huge planet scale datasets and spitting out plausible instances of bytes that could belong to the training dataset, but very obviously fail to grasp any real world understanding of what is represented by those bytes.",
+                                              "time": "February 20, 2024 at 2:05 AM",
+                                              "type": "comment"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "deleted": true,
+                  "id": 39418190,
+                  "parent": 39418052,
+                  "time": "February 18, 2024 at 7:23 PM",
+                  "type": "comment"
+                },
+                {
+                  "by": "justanotherjoe",
+                  "id": 39418203,
+                  "kids": [
+                    39418383
+                  ],
+                  "parent": 39418052,
+                  "text": "diffusion models can reliably draw a cat when prompted a cat and given a random noise. Sure it's deterministic, but it can work with any random noise in a explorative kind of way. I'd say it's very general in it's 'understanding' of a cat.",
+                  "time": "February 18, 2024 at 7:26 PM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "TheOtherHobbes",
+                      "id": 39418383,
+                      "kids": [
+                        39418677,
+                        39418660
+                      ],
+                      "parent": 39418203,
+                      "text": "It has no \"understanding\" of a cat. It's an associative store with soft edges that pulls out compressed cat representations when given the noun \"cat\". The key store includes nouns, adverbs, verbs, and adjectives, and style abstractions, and there are mappings into the store that link all of those.<p>But they're very limited, and if you prompt with a relationship that isn't defined you get best-guess, which will either be quite distant or contaminated with other values.<p>If you ask Dall-E for \"a woman made of birds\" you get a composite that also includes trees and/or leaves. Dall-E has values for \"made of\" and \"birds\" but its value representation for \"birds\" is contaminated with contextual trees and branches.<p>Leonardo doesn't have a value for \"made of\", so you get a woman surrounded by bird-like blobs.<p>To understand a cat in a human sense the store would have to include the shape, the movement dynamics in all possible situations, the textures, and a set of defining behaviours that is as complete as possible. It would also have to be able to provide and remember an object-constant instantiation of a specific cat that is clean of contamination.<p>SORA is maybe 10% of the way there. One of the examples doing the rounds shows some puppies playing in snow. It looks impressive until you realise the puppies are zombies. They have none of the expressions or emotions of a real puppy.<p>None of this is impossible, but training time, storage, and power consumption all explode the more information you try to include.",
+                      "time": "February 18, 2024 at 8:06 PM",
+                      "type": "comment",
+                      "comments": [
+                        {
+                          "by": "justanotherjoe",
+                          "id": 39418677,
+                          "parent": 39418383,
+                          "text": "I don't see what's so problematic with it.  I doubt the model is actually confusing trees and branches with birds.  It has associations, but humans do too.  If I ask a human to draw a demon, the background would not be an office?<p>Also the complain about 'made of' not being in the training data.  Humans who never saw a bird can not draw a bird.  Why is that saying something about the model?<p>I'm not saying that diffusion models act like humans.  And I was talking specifically about image generation.  My usage of the word understanding is in the task of image generation.  I'm not even talking about 'made of', or 'birds'.  Just 'cats' and 'hats'.  If it can understand 1 thing, it can understand others, but they are not always in the training data.<p>This is all a non-problem.  It kinda remind me of the discussion of what constitutes a 'male', or 'female'.  All i want is to refer this one property that i observe in diffusion models.  Which is what language is, reference.  If you are so covetous of the word 'understand', then provide an alternative to refer to this property and i will gladly use it.<p><a href=\"https://imgur.com/a/fuS8kcf\" rel=\"nofollow\">https://imgur.com/a/fuS8kcf</a>",
+                          "time": "February 18, 2024 at 8:59 PM",
+                          "type": "comment"
+                        },
+                        {
+                          "by": "throw310822",
+                          "id": 39418660,
+                          "kids": [
+                            39419741
+                          ],
+                          "parent": 39418383,
+                          "text": "> It's an associative store with soft edges that pulls out compressed cat representations when given the noun \"cat\".<p>And how do you know that this is not what \"understanding\" is? To me, understanding the concept of a cat is exactly to immediately recall (or have ready) all the associations, the possibilities, the consequences of the \"cat\" concept. If you can make up correct sentences about cats and conduct a reasonable conversation about cats, it means that you understand cats.",
+                          "time": "February 18, 2024 at 8:57 PM",
+                          "type": "comment",
+                          "comments": [
+                            {
+                              "by": "Jensson",
+                              "id": 39419741,
+                              "kids": [
+                                39421896
+                              ],
+                              "parent": 39418660,
+                              "text": "> If you can make up correct sentences about cats and conduct a reasonable conversation about cats, it means that you understand cats.<p>No, plenty of humans can have reasonable conversations about things with zero understanding about them. We know they don't understand because when put in a situation in practice they fail to use the things they talked about. Understanding means you can apply what you know, not only talk about it.",
+                              "time": "February 18, 2024 at 11:20 PM",
+                              "type": "comment",
+                              "comments": [
+                                {
+                                  "by": "throw310822",
+                                  "id": 39421896,
+                                  "kids": [
+                                    39432807
+                                  ],
+                                  "parent": 39419741,
+                                  "text": "It's interesting, can you give me some examples of such cases?",
+                                  "time": "February 19, 2024 at 2:54 AM",
+                                  "type": "comment",
+                                  "comments": [
+                                    {
+                                      "by": "namaria",
+                                      "id": 39432807,
+                                      "parent": 39421896,
+                                      "text": "If you don't believe that is true, how can you explain programmer recruitment? If discussing something cogently is showing real understanding, any 10 minute discussion would be enough to make a hire decision.",
+                                      "time": "February 20, 2024 at 2:08 AM",
+                                      "type": "comment"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "by": "throw310822",
+              "id": 39417423,
+              "parent": 39417395,
+              "text": "Well, we definitely see actions, and actors, and causes and effects in the SORA demo videos. With imperfections and occasional mistakes, but they're undeniably there.",
+              "time": "February 18, 2024 at 5:00 PM",
+              "type": "comment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "by": "hackerlight",
+      "id": 39418320,
+      "kids": [
+        39418352
+      ],
+      "parent": 39417334,
+      "text": "I want him to answer how Sora can do water simulations without having a model of part of physics.<p>How can Sora predict where the waves and ripples should go? Is it just \"correlations not causal\", whatever that means.",
+      "time": "February 18, 2024 at 7:52 PM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "gtirloni",
+          "id": 39418352,
+          "kids": [
+            39418400
+          ],
+          "parent": 39418320,
+          "text": "Generative AI is already full of misunderstandings. From people claiming it \"understands\" to now that it \"simulates\".<p>I'm no math wiz and my training in statistics is severely lacking but it feels like people need to review what they think it's possible with Generative AI because we are so far from understanding and AGI that my head hurts every time these words show up in a discussion.",
+          "time": "February 18, 2024 at 7:59 PM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "hackerlight",
+              "id": 39418400,
+              "kids": [
+                39420280
+              ],
+              "parent": 39418352,
+              "text": "Geoffrey Hinton and Yoshua Bengio says it can understand and we are close to AGI. Maybe you can explain why they're wrong instead of just saying it.",
+              "time": "February 18, 2024 at 8:10 PM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "gtirloni",
+                  "id": 39420280,
+                  "parent": 39418400,
+                  "text": "Extraordinary claims require extraordinary proof. I'm not the one making the claims.",
+                  "time": "February 19, 2024 at 12:20 AM",
+                  "type": "comment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "by": "vasco",
+      "id": 39417389,
+      "parent": 39417334,
+      "text": "Did you see the bling zoo demo? How can you say it doesn't have rhyme or reason?",
+      "time": "February 18, 2024 at 4:54 PM",
+      "type": "comment"
+    }
+  ]
+}

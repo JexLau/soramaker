@@ -1,0 +1,2033 @@
+{
+  "id": 39422364,
+  "source": "https://news.ycombinator.com/item?id=39422364",
+  "by": "geox",
+  "descendants": 180,
+  "kids": [
+    39422977,
+    39422752,
+    39422741,
+    39422819,
+    39422701,
+    39423148,
+    39425339,
+    39423040,
+    39422885,
+    39425750,
+    39422805,
+    39423246,
+    39422933,
+    39422984,
+    39422878,
+    39422857,
+    39422983,
+    39422791,
+    39422735,
+    39429632,
+    39422861,
+    39422827,
+    39423485,
+    39422799,
+    39423802,
+    39423108,
+    39422815,
+    39424451,
+    39425280,
+    39423304,
+    39423264,
+    39423302,
+    39424903,
+    39422767,
+    39422771
+  ],
+  "score": 101,
+  "time": "February 19, 2024 at 3:42 AM",
+  "title": "Sora could ruin peoples lives",
+  "type": "story",
+  "url": "https://community.openai.com/t/sora-could-ruin-peoples-lifes/635220",
+  "comments": [
+    {
+      "by": "scandox",
+      "id": 39422977,
+      "kids": [
+        39423199,
+        39425098,
+        39426692
+      ],
+      "parent": 39422364,
+      "text": "I think what a lot of the answers gloss over is that the period of adjustment to the new technology often does pull the rug from under people who have invested a good deal of time and attention becoming skilled at something. Our lives are of limited length therefore the concern for a generation of people is real and shouldn't be just treated as a detail of history.<p>Equally in many areas the end result is a loss of something (often intangible) which we accept as \"good enough\" and which may take a long time to be recaptured.<p>The steam engine may well have been a good thing in the long run but I'm sure it did tear apart the fabric of many people's lives and I think it's reasonable to commiserate.",
+      "time": "February 19, 2024 at 4:37 AM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "DalasNoin",
+          "id": 39423199,
+          "kids": [
+            39423510,
+            39425427,
+            39423337
+          ],
+          "parent": 39422977,
+          "text": "This is kind of a general response, but I disagree. AI is not just like any other past technology. Just two ways in which it is totally different from the steam engine: AI is able to make art, it can learn from people and then produce similar results. It can imitate art that is the result of our deepest internal processes. Also, AI is about replacing all human jobs and capabilities. Not just a super narrow subset.",
+          "time": "February 19, 2024 at 4:53 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "danielheath",
+              "id": 39423510,
+              "kids": [
+                39423768
+              ],
+              "parent": 39423199,
+              "text": "> AI is able to make art, it can learn from people and then produce similar results.<p>In the jargon of fine arts, \"craft\" refers \"making a thing well / in a particular style\" while \"art\" has something to say, most often challenging a widespread idea.<p>EG installing a toilet in a room of an art gallery with a plaque stating \"this is art\" was a bold work of art, but was not an impressive display of craft.<p>I really appreciate this distinction, because separating those concepts immediately clarifies a lot of the discussion around \"AI Art\".<p>AI can imitate _craft_  exceptionally well, but it cannot create _art_ (that is, it can't independently devise a display which challenges a widespread idea).<p>Working artists are losing out because nearly all of the economic demand for art was actually demand for craft, and they're doubly angry because their past work was needed to create the machine that's now undercutting their income.",
+              "time": "February 19, 2024 at 5:22 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "ChainOfFools",
+                  "id": 39423768,
+                  "parent": 39423510,
+                  "text": "Agree. A magnificent example of craft will make make you curious about how it was done, while a correspondingly magnificent example of art will make you curious about why it was done.<p>An AI-generated work is mainly if not categorically a prompt for \"how\" questions, as its can-kicking answer to \"why\" is built right into the first letter of the initialism:  because a human wanted it.<p>The real answer to why is pursued from that point up into its usual unnavigable headwaters, with a few extra twists concerning the question of whether the word artificial itself will turn out to be merely another diguise of the anthropic principle.",
+                  "time": "February 19, 2024 at 5:49 AM",
+                  "type": "comment"
+                }
+              ]
+            },
+            {
+              "by": "seoulmetro",
+              "id": 39425427,
+              "kids": [
+                39476499,
+                39426085
+              ],
+              "parent": 39423199,
+              "text": "You think making art is more important than making the very foundations of the world we live in autonomous is?<p>How can you even reason that.<p>Imagine an army of people with AI art makers versing an army of people with steam engines... who do you think will change the world?<p>AI is nothing compared to the industrial revolution.",
+              "time": "February 19, 2024 at 9:48 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "bamboozled",
+                  "id": 39476499,
+                  "parent": 39425427,
+                  "text": "I think we could say AI is part of the revolution ?",
+                  "time": "February 23, 2024 at 11:10 AM",
+                  "type": "comment"
+                },
+                {
+                  "by": "bigboy12",
+                  "id": 39426085,
+                  "kids": [
+                    39426216
+                  ],
+                  "parent": 39425427,
+                  "text": "Yap yap yap. The camera will ruin painters, movies will cause psychosis , dancing is gods sin, comics will ruin our nation’s youth , photoshop will end the work of photography. Blah blah blah.",
+                  "time": "February 19, 2024 at 11:49 AM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "deleted": true,
+                      "id": 39426216,
+                      "parent": 39426085,
+                      "time": "February 19, 2024 at 12:26 PM",
+                      "type": "comment"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "by": "aleph_minus_one",
+              "id": 39423337,
+              "kids": [
+                39423822,
+                39423469
+              ],
+              "parent": 39423199,
+              "text": "This answer sounds like taken from one of the AI startups' investor pitch. \nDon't believe in these \"too-good-to-be-true\" promises that hustlers put into their slide decks. :-)",
+              "time": "February 19, 2024 at 5:06 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "quantified",
+                  "id": 39423822,
+                  "parent": 39423337,
+                  "text": "To me it seemed like an amplification of the parent's point: AI is poised to disrupt the reason behind a great deal of human endeavor. For music, only live performance will count. Sculpture, printmaking, painting, possibly even jewelry-making? Do it by machine, 10x the speed for 0.1x the labor, you're not the actor, the machine is the actor and you're sort of the director.",
+                  "time": "February 19, 2024 at 5:53 AM",
+                  "type": "comment"
+                },
+                {
+                  "by": "Tadpole9181",
+                  "id": 39423469,
+                  "parent": 39423337,
+                  "text": "And your comment is against HN guidelines. Don't take swipes.",
+                  "time": "February 19, 2024 at 5:18 AM",
+                  "type": "comment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "by": "tzs",
+          "id": 39425098,
+          "kids": [
+            39425475
+          ],
+          "parent": 39422977,
+          "text": "One thing about many of those past mechanical inventions is that even though they eliminated a lot of manual labor jobs in some fields, they probably created a lot of manual labors jobs to make the machines or obtain the resources to make the machines.<p>So you might lose your manual labor farm job to a newly invented machine, but there will be a lot of openings for factory workers to assemble those machines and miners to obtain the metal to build them.<p>When AI takes your job it quite likely doesn't involve any new hardware. It might just be a program running on a computer your (now ex) employer already had. This seems fundamentally more disruptive.",
+          "time": "February 19, 2024 at 8:44 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "seoulmetro",
+              "id": 39425475,
+              "parent": 39425098,
+              "text": "It's not fundamentally more disruptive. Because it's built on top of the disruptive technology.<p>You just proved how amazing the industrial and information eras were that they could extend beyond their timeline and into the future.<p>AI might be disruptive in a similar vein, but it's comparing giants to small achievements.",
+              "time": "February 19, 2024 at 9:55 AM",
+              "type": "comment"
+            }
+          ]
+        },
+        {
+          "by": "jemmyw",
+          "id": 39426692,
+          "parent": 39422977,
+          "text": "The thing about the steam engine is that it took a long time to develop and permeate society. We're talking 3 generations of people between the first engines able to pump water from coal mines to steam locomotives connecting cities.",
+          "time": "February 19, 2024 at 2:19 PM",
+          "type": "comment"
+        }
+      ]
+    },
+    {
+      "by": "hyperluz",
+      "id": 39422752,
+      "kids": [
+        39422838,
+        39423038
+      ],
+      "parent": 39422364,
+      "text": "IMHO the advancements in technology related with industries in which the end product is digital (movies, animation, texts, programs, etc.,) instead of fundamental spatial services like automation of food productions, cleaning, garbage collection, house building, etc., is a direct consequence of physical space being a luxury around the world, with housing and renting prices skyrocketing.<p>The Garage Culture is a privilege of few.<p>Most working-class people are accepting to live into small boxes without space for even a table destined to drawing, reading and studying. Instead, they soon will use virtual desktops inside cheap Chinese Apple Vision Pros clones. Life will get harder and unhealthier.<p>While designers and some scientists know the importance of physical areas for developing certain activities, most people don't and are subjecting themselves and their children to sad living conditions.<p>edit: typo (\"de\" -> \"the\")",
+      "time": "February 19, 2024 at 4:20 AM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "habitue",
+          "id": 39422838,
+          "kids": [
+            39423327,
+            39423045,
+            39423467
+          ],
+          "parent": 39422752,
+          "text": "To be clear, there is plenty of space for humans on earth right now. I'm not talking about in uninhabitable places, I mean in amazing fertile locations. Real world space is a luxury because of bad regulation in places with good governments and other places having bad governments<p>(you didn't imply otherwise, but I know there's a common misconception that space is running out and the world is overcrowded. It's largely not true)",
+          "time": "February 19, 2024 at 4:27 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "Animats",
+              "id": 39423327,
+              "kids": [
+                39429286
+              ],
+              "parent": 39422838,
+              "text": "Those places aren't where the money is. SF can't even get homeless people to move somewhere else.",
+              "time": "February 19, 2024 at 5:05 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "AirborneUnicorn",
+                  "id": 39429286,
+                  "parent": 39423327,
+                  "text": "Is SF expected to have its people without homes moved somewhere else as a solution to this social problem? What a bizarre notion, unless I misunderstand you.",
+                  "time": "February 19, 2024 at 9:01 PM",
+                  "type": "comment"
+                }
+              ]
+            },
+            {
+              "by": "rvnx",
+              "id": 39423045,
+              "parent": 39422838,
+              "text": "Where's that amazing place ? O.o",
+              "time": "February 19, 2024 at 4:41 AM",
+              "type": "comment"
+            },
+            {
+              "by": "xboxnolifes",
+              "id": 39423467,
+              "kids": [
+                39427205
+              ],
+              "parent": 39422838,
+              "text": "Even outside of regulations, the biggest issue is access to (well paying) jobs. There may be land available to build affordable estates in tons of areas, but there are no jobs to work there to pay for it.",
+              "time": "February 19, 2024 at 5:18 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "AstralStorm",
+                  "id": 39427205,
+                  "parent": 39423467,
+                  "text": "You would be surprised that someone will come knocking at your door for tax even if you're a hermit or a group of people developing the land.<p>Land is not free, and that plus buy in is a major obstacle for the moment.<p>Nomadic living is hated by every state on Earth too.",
+                  "time": "February 19, 2024 at 4:02 PM",
+                  "type": "comment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "by": "bandrami",
+          "id": 39423038,
+          "kids": [
+            39423340
+          ],
+          "parent": 39422752,
+          "text": "I don't know about the rest of the world but most Americans live in significantly larger housing than previous generations did (that's part of why it's so expensive). SROs are basically illegal now, and \"starter houses\" that used to be 800 sq feet three times that size now.",
+          "time": "February 19, 2024 at 4:40 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "hyperluz",
+              "id": 39423340,
+              "kids": [
+                39423652
+              ],
+              "parent": 39423038,
+              "text": "I don't know if there is a concrete source of your claiming.<p>Even if there is, it's probably restricted to the USA.<p>At relevant parts of the USA, house sizes are being compressed.<p>Source: The New York Times<p>Title: The Great Compression<p>Date: 02/17/2024<p>Link: <a href=\"https://www.nytimes.com/2024/02/17/business/economy/the-great-compression.html\" rel=\"nofollow\">https://www.nytimes.com/2024/02/17/business/economy/the-grea...</a><p>Edit: formating",
+              "time": "February 19, 2024 at 5:06 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "bandrami",
+                  "id": 39423652,
+                  "parent": 39423340,
+                  "text": "That's definitely contrary to the generational trend, which is towards larger and larger houses and apartments:<p><a href=\"https://www.ctinsider.com/living/article/column-home-size-america-17738749.php\" rel=\"nofollow\">https://www.ctinsider.com/living/article/column-home-size-am...</a>",
+                  "time": "February 19, 2024 at 5:37 AM",
+                  "type": "comment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "by": "cryptozeus",
+      "id": 39422741,
+      "kids": [
+        39423028,
+        39423552,
+        39422826,
+        39422942,
+        39429703
+      ],
+      "parent": 39422364,
+      "text": "Very good discussion there.<p>“I am 68 years old, on the opposite spectrum of life’s journey. At your age, I had the same passion to be a writer. But when personal computers became available just a few years later, that passion changed to becoming a computer programmer. I’ve been doing that ever since.<p>My point is:<p>Don’t lose your passion. Learn everything you can about this new technology and figure out how to use it to make your dream come true.<p>Be open to life’s changes. It may seem like nothing will ever change your mind, but no one knows the future. People change, the world changes, and as unbelievable as it may sound, you may one day become passionate about something else.<p>When Sam Altman announced the new GPTs and Assistants technologies, everybody who had been developing RAG applications for the previous year freaked out. I didn’t. I, as a RAG (sometimes called “Wrapper”) developer saw it as a unique opportunity. And so far, I haven’t been wrong.<p>So, SORA might just be your opportunity. Use it to CREATE and show that love in every piece you create.”",
+      "time": "February 19, 2024 at 4:19 AM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "Fraterkes",
+          "id": 39423028,
+          "kids": [
+            39423104,
+            39429851
+          ],
+          "parent": 39422741,
+          "text": "Sorry, these sorts of comments seem kind and well-intended, but we have to be real here and allow for the possibility that an impressive advancement has many (or mostly) negative effects.\nIf you got into art because you enjoy drawing and modeling and wanted to make THAT your job (not just abstractly \"producing pictures\") then these advancements are just obviously a negative development, no matter how you try to reframe it.<p>And we can all be like \"noone is owed a job doing traditional art, this happened to millions of people during the industrial revolution too\", but in that case we have to be honest and not tell art-folks that they are overreacting.",
+          "time": "February 19, 2024 at 4:40 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "bandrami",
+              "id": 39423104,
+              "kids": [
+                39423358,
+                39424102
+              ],
+              "parent": 39423028,
+              "text": "I'm old enough that I remember musicians panicking about synthesizers and samplers in the 1980s. And there are probably fewer working drummers today than in 1970. But without that tech we wouldn't have hip hop or house, which would be a huge cultural loss.<p>AI graphic/video art hasn't found its Marley Marl yet, but I believe she's out there and is going to do stuff that will blow our minds.",
+              "time": "February 19, 2024 at 4:45 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "joe_the_user",
+                  "id": 39423358,
+                  "kids": [
+                    39425275,
+                    39430538
+                  ],
+                  "parent": 39423104,
+                  "text": "Synthesizers are instruments. They allow for the same level of subtle input as strings or woodwinds.<p>\"Prompt engineering\" exercise generally involves a few lines of text. It's hard to see how that's going to result in a new kind of highly skilled artist. AI produce the same level of greatness and/or mediocrity for essentially all of their users.<p>This thread is like fifty variations of \"it will work out (waves hand at past)\"",
+                  "time": "February 19, 2024 at 5:07 AM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "w4",
+                      "id": 39425275,
+                      "kids": [
+                        39425493
+                      ],
+                      "parent": 39423358,
+                      "text": "> <i>Synthesizers are instruments. They allow for the same level of subtle input as strings or woodwinds.</i><p>Synthesizer instruments, yes. Sequencers, trackers, and modern DAWs like Ableton, absolutely not. They’re entirely different animals and are very much a musical analogue to “prompt engineering.” They have also enabled some incredible art that would be impossible if musicians were limited only to what they could play into a recorded (or midi) tape.<p>I suspect that the same will prove to be true of generative AI, and that those artists that embrace it will see a golden age of creativity. But there will also be many artists who see their craft diminished in value, much like what has happened to studio drummers. And I could be completely wrong, but either way the genie is out of the bottle, so we’re going to find out.",
+                      "time": "February 19, 2024 at 9:23 AM",
+                      "type": "comment",
+                      "comments": [
+                        {
+                          "by": "bandrami",
+                          "id": 39425493,
+                          "parent": 39425275,
+                          "text": "And specifically the earliest sequencers were step sequencers that were as simplistic as current prompts are (a 16x16 grid with each of the 256 notes set off or on and that's it). But as people explored the medium the tooling changed, which I also expect will happen with generative AI.",
+                          "time": "February 19, 2024 at 10:00 AM",
+                          "type": "comment"
+                        }
+                      ]
+                    },
+                    {
+                      "by": "joloooo",
+                      "id": 39430538,
+                      "parent": 39423358,
+                      "text": "But what is art at its core? It's an individual expressing their thoughts, experiences, emotions, a direct connection to their brain. The importance is not the fidelity of yet another painted tree that looks like trees painted before it.<p>These kinds of tools are democratizing visual expression; with that, we should place even more importance on what is being told and expressed. In some ways I see it as a new form of writing. We're in our duchamp readymade era.<p><a href=\"https://en.wikipedia.org/wiki/Readymades_of_Marcel_Duchamp\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Readymades_of_Marcel_Duchamp</a>",
+                      "time": "February 19, 2024 at 11:08 PM",
+                      "type": "comment"
+                    }
+                  ]
+                },
+                {
+                  "by": "fragmede",
+                  "id": 39424102,
+                  "kids": [
+                    39425511
+                  ],
+                  "parent": 39423104,
+                  "text": "but is there a market for  drummers and saxophone players now that we have Spotify? In some areas of the world, yes. going out to eat, enjoying some live music, and happily paying for it is still how life operates. In other places, we sit at home with our apple vision pros and simulate what it is like to go out to eat and enjoy live music. culturally, something has gone wrong. we're all a bunch of digital addicts looking for a hit of dopamine that isn't going to be found behind the glowing rectangle, but we're too addicted to stand up and get out into the world, and because everyone else is as well, there aren't crowds of people thronging to do the little things anymore. Taylor Swift can command a football stadium's worth of attendees, but where's the Tuesday night crowd for a local unknown undiscovered band?",
+                  "time": "February 19, 2024 at 6:24 AM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "bandrami",
+                      "id": 39425511,
+                      "parent": 39424102,
+                      "text": "It's a different market but it's still a market. There are people making money off Spotify and Soundcloud, including saxophonists and drummers. What's disappearing is the old record label A&R process where you \"get signed\" and are suddenly a millionaire, but that was never most musicians' experience.",
+                      "time": "February 19, 2024 at 10:03 AM",
+                      "type": "comment"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "by": "rubslopes",
+              "id": 39429851,
+              "parent": 39423028,
+              "text": "Also, people are saying \"artist will keep being artists, they will just use a different tool\", but IMO this doesn't take into account that prompt engineering is a completely different activity than actually drawing something. Sure, a pencil on paper artist can adapt and use a stylus to keep up with modern trends if they have to; most of their ability with drawing is kept. But describing a scene a thousand times with minor variations until you get what you want... That's a whole new job.",
+              "time": "February 19, 2024 at 10:06 PM",
+              "type": "comment"
+            }
+          ]
+        },
+        {
+          "by": "slowmovintarget",
+          "id": 39423552,
+          "kids": [
+            39424837
+          ],
+          "parent": 39422741,
+          "text": "Early in my programming career, I designed and built a piece of software that made one very specific job easy. It made the job so easy, that instead of a department of thirty people doing that job, the company only needed three, trained to use my software. I put people out of work.<p>It had never entered into my thinking that the code I was writing, the screens I was designing, and the system I deployed would do that. Ever since that project, I think about that. You have to think not just about what the software will do for the people you intend to use it, but what it will do <i>to</i> them as well.<p>With our headlong rush to deploy more generative capacity, there's zero consideration for this. The reasons we're ignoring this are understandable, if sad. There's too much money to be made being the first or best on the block to deploy this capability. There's too much potential control if you're the winner of this race to stop. The downsides will be felt by others, not the ones deploying the software... until they put some of their friends out of work, and even then, they won't look up and notice until it's too late.",
+          "time": "February 19, 2024 at 5:27 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "gfodor",
+              "id": 39424837,
+              "kids": [
+                39427217
+              ],
+              "parent": 39423552,
+              "text": "If you knew it was going to replace their jobs, it would be surprising to me if you’d have decided to not do it.<p>The main thing to do would be to give people a heads up so they can try to get out in front of it. Which is something AI companies are doing at every level.",
+              "time": "February 19, 2024 at 8:01 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "mnk47",
+                  "id": 39427217,
+                  "kids": [
+                    39435137
+                  ],
+                  "parent": 39424837,
+                  "text": ">Which is something AI companies are doing at every level.<p>The message I keep hearing time and time again is \"Our aim is not to replace but to empower\". The same companies with this message are also saying that their goal is to create a superintelligence that does everything better than humans.<p>As a junior developer, I have no idea what I should do, where to pivot, and what to expect in the next 6-12 months. I'm confused and lost. I don't know which skills I should be picking up and which ones will be worthless. All I know is that just a few months ago, when I expressed this concern, I was told by seniors that I, a clueless junior, have nothing to worry about, that it's just hype, that I'll never be replaced. Now the general sentiment is that juniors are indeed doomed. The sudden shift in tone felt like a slap in the face.",
+                  "time": "February 19, 2024 at 4:05 PM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "nradov",
+                      "id": 39435137,
+                      "parent": 39427217,
+                      "text": "The demand for new software is effectively infinite. The industry is in the process of moving up a layer of abstraction, like when high-level languages like Pascal and C replaced assembly language. Every time a new layer of abstraction has been introduced which increased developer productivity, the number of working developers <i>increased</i>.<p>Learn to use the new tools. And become an expert in the business domain where you work. Developers who understand business issues are far more valuable than those who can only code to detailed specifications written by Product Owners or Business Analysts. Are you reading the trade press articles? Attending non-technical industry webinars? Networking with colleagues outside the engineering team?",
+                      "time": "February 20, 2024 at 5:39 AM",
+                      "type": "comment"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "by": "lenerdenator",
+          "id": 39422826,
+          "kids": [
+            39423097,
+            39423037,
+            39423102,
+            39423001,
+            39423025
+          ],
+          "parent": 39422741,
+          "text": "If I were at the opposite spectrum of life's journey, I would be open to life's changes too, knowing that I didn't have much of it left.<p>But I'm in my 30s, which means on average I have another 40-50 years of existence to get through.",
+          "time": "February 19, 2024 at 4:26 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "josephg",
+              "id": 39423097,
+              "kids": [
+                39424133,
+                39424662
+              ],
+              "parent": 39422826,
+              "text": "There's an old saying - prepare the child for the road, not the road for the child. Young people usually adapt to life's changes better than old people.<p>The future contains AIs like SORA and Gemini 1.5. Gripe about it if you want - but that won't change anything. So why be grim about it? There are <i>so many</i> opportunities to use these new tools to make new things that have never existed before. Obviously there's a danger society itself crumbles, but if not - well, what an exciting transition to live through.<p>I look forward to being an old man and getting to tell the stories of what life was like when movies and software were made entirely by hand. What fun.",
+              "time": "February 19, 2024 at 4:45 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "fragmede",
+                  "id": 39424133,
+                  "parent": 39423097,
+                  "text": "the grimness comes from needing to make rent, to pay the bills and cover medical expenses. Sure in the big picture of society it's something to be excited for, to see the future, but signing up for food stamps because I'm today's buggy whip manufacturer that got put out of a job isn't an envigorating way to feed myself.<p>where's the hope in that? especially because it could be taken away at any time.",
+                  "time": "February 19, 2024 at 6:28 AM",
+                  "type": "comment"
+                },
+                {
+                  "by": "jhanschoo",
+                  "id": 39424662,
+                  "parent": 39423097,
+                  "text": "> Young people usually adapt to life's changes better than old people.<p>In terms of careers, children have years where they are expected to be unproductive and old people are no longer expected to be productive.<p>The ones hit hard are those who need to start from the bottom again learning a different skillset, and many have gambled putting off drawing an income for years for what they thought was a moat that AI is chewing through rapidly.",
+                  "time": "February 19, 2024 at 7:33 AM",
+                  "type": "comment"
+                }
+              ]
+            },
+            {
+              "by": "swalsh",
+              "id": 39423037,
+              "kids": [
+                39423484
+              ],
+              "parent": 39422826,
+              "text": "I think AI is really exciting, I'm having a lot of fun building with it... but this is clearly the golden Era of AI.  The future will see deep consolidation, most people will struggle to compete.  The future will be full of wealth, but it remains to be seen if the wealth makes everyone's lives better, or just a select elite.<p>Potentially the future might be great, we don't have jobs... we have hobbies.  Think Sisko's dad from DS9, replicators can create anything for everyone... but he runs a restaurant with handmade food because that's his passion.<p>But we might end up with a dystopia with corporate government, centrally controlled resources probably metered based on a social credit score.",
+              "time": "February 19, 2024 at 4:40 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "blibble",
+                  "id": 39423484,
+                  "kids": [
+                    39423944
+                  ],
+                  "parent": 39423037,
+                  "text": "> but it remains to be seen if the wealth makes everyone's lives better, or just a select elite.<p>yes, as I see it this will go one of five ways, ordered by probability<p>0) it's all hype: AI plateaus/fizzles out, maybe minor productivity improvements<p>1) techno-feudalism: ruling class of AI company trillionaires exercise complete domination of 99.9999% of humanity<p>2) new dark age: billions of newly unemployed formerly middle class workers riot worldwide targeting DCs and fabs. AI CEOs/VCs suffer the fate of the French kings<p>3) techno-utopia (Earth in Star Trek)<p>4) AI takeover<p>personally I'm hoping for 0",
+                  "time": "February 19, 2024 at 5:19 AM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "hospadar",
+                      "id": 39423944,
+                      "parent": 39423484,
+                      "text": "Let’s go option 4! Honestly there’s a part of me that hopes that the AIs rebel against their elite owner-overlords and liberate everyone else while they’re at it.  I’ve always thought that one of the biggest problems with ultra consolidated power is that no human could possibly be smart enough or empathetic enough to use that power to the benefit of all, but maybe an AI actually could?",
+                      "time": "February 19, 2024 at 6:05 AM",
+                      "type": "comment"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "by": "neoberg",
+              "id": 39423102,
+              "parent": 39422826,
+              "text": "This. I wish I was either at the start or end of my life. In the middle is the worst imho. We've gained knowledge for years and built lifes around it and the value of that knowledge is now being threatened. It's depressing.<p>It feels like it's too late to switch plans and careers (and even if I do, what would that be?). At the same time I have another 30-40 years to live, a family, 20 more years of mortgage etc. so the technology has real consequences for a long time of my life, I can't  get excited about it.",
+              "time": "February 19, 2024 at 4:45 AM",
+              "type": "comment"
+            },
+            {
+              "by": "quonn",
+              "id": 39423001,
+              "kids": [
+                39423086,
+                39423087
+              ],
+              "parent": 39422826,
+              "text": "I understand - but isn‘t it a mistake to think of it as getting through? Soon it will be over and then merely having gotten through seems like such a waste.",
+              "time": "February 19, 2024 at 4:38 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "lenerdenator",
+                  "id": 39423086,
+                  "parent": 39423001,
+                  "text": "If people didn't constantly use the monetary value of a company as the sole determinant of whether it brought about societal progress, I'd think of it as something to enjoy.<p>But that's what we use and it's not getting better. It's getting worse. It's not just OpenAI either, but that's a fairly prominent example that's germane here.",
+                  "time": "February 19, 2024 at 4:44 AM",
+                  "type": "comment"
+                },
+                {
+                  "by": "0xedd",
+                  "id": 39423087,
+                  "kids": [
+                    39423252
+                  ],
+                  "parent": 39423001,
+                  "text": "Reality forces us into 0% free time. Not much choice.",
+                  "time": "February 19, 2024 at 4:44 AM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "quonn",
+                      "id": 39423252,
+                      "parent": 39423087,
+                      "text": "Oh, there is a lot of choice. If you take on a lot of responsibilities (kids) and have a need for material wealth, then yes. I could have worked just 50% or even 25%%\nand would have been fine. I would not be able to own much, but I would be fine.",
+                      "time": "February 19, 2024 at 4:58 AM",
+                      "type": "comment"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "by": "throwing_away",
+              "id": 39423025,
+              "parent": 39422826,
+              "text": "> I have another 40-50 years of existence to get through.<p>With that attitude, you're sure to live a very long time.",
+              "time": "February 19, 2024 at 4:40 AM",
+              "type": "comment"
+            }
+          ]
+        },
+        {
+          "by": "addicted",
+          "id": 39422942,
+          "kids": [
+            39423416,
+            39423083
+          ],
+          "parent": 39422741,
+          "text": "The guys who’s been a computer engineer “ever since”, ie for several decades, is using that as a reason to be passionate about what you do, completely ignoring the fact that the whole worry with AI is that it will obsolete industries within years.",
+          "time": "February 19, 2024 at 4:35 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "aleph_minus_one",
+              "id": 39423416,
+              "parent": 39422942,
+              "text": "> ignoring the fact that the whole worry with AI is that it will obsolete industries within years.<p>Ignore these hyped claims by AI entrepreneurs. These are made to hustle money from investors. :-)",
+              "time": "February 19, 2024 at 5:14 AM",
+              "type": "comment"
+            },
+            {
+              "by": "jansan",
+              "id": 39423083,
+              "kids": [
+                39425159,
+                39424799
+              ],
+              "parent": 39422942,
+              "text": "It is difficult to forsee what will happen. I am worried that AI will destroy industries, while on the other hand my son just used ChatGPT to teach himself how to program an Arduino, which is just awesome. Translators will lose jobs. Illustrators will lose jobs. But if you know how many jobs were lost in the printing industry (typesetting was an incredibly laborious work) which was completely offset by new jobs in other industries, things may turn out great. To be honest, despite having spent more than 50 years on this planet and having seen some things, I am completely undecided.",
+              "time": "February 19, 2024 at 4:44 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "jdiff",
+                  "id": 39425159,
+                  "parent": 39423083,
+                  "text": "The printing industry's doing fine. There's big printers, small printers, they're doing more printing per person, but there's also far more printing being done total, and so far more people working in the printing industry now than then. And that's on top of the sprawling supply chains building and supplying the technology and materials to them.<p>There is nothing like that for AI. The fact that something thematically similar happened in the past does not mean it's applicable here. Now, there are no new supply chains to build, this silicon's getting manufactured one way or another. No new jobs, just replace the department with an individual.",
+                  "time": "February 19, 2024 at 8:59 AM",
+                  "type": "comment"
+                },
+                {
+                  "by": "PepGuardiola",
+                  "id": 39424799,
+                  "parent": 39423083,
+                  "text": "> But if you know how many jobs were lost in the printing industry (typesetting was an incredibly laborious work) which was completely offset by new jobs in other industries, things may turn out great<p>Comparison with past inventions do not take into account a few things:<p>1- AI may create new jobs, but it can also do those new jobs especially if they are digital. This is something that never happened before in human history. An easily available machine that can do what a human can do anywhere any time.<p>2- Cost and capitalism is a huge issue. If the cost of AI is the same as a human, but it can do the job 24/7 with no holidays, no sick days, no unions, and can execute and follow the whims of the prompter, then human will go for AI always.<p>3- Barrier to entry into any affected job will be low.  People with minimal training or expertise will enter industries traditionally reliant on human expertise. This trend may lead to a proliferation of individuals claiming expertise in fields such as visual effects (VFX), which will blur the distinction between skilled professionals and amateur practitioners.",
+                  "time": "February 19, 2024 at 7:55 AM",
+                  "type": "comment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "by": "SebFender",
+          "id": 39429703,
+          "parent": 39422741,
+          "text": "100% - but you know many will go - this time it's different!",
+          "time": "February 19, 2024 at 9:51 PM",
+          "type": "comment"
+        }
+      ]
+    },
+    {
+      "by": "baal80spam",
+      "id": 39422819,
+      "kids": [
+        39423610,
+        39425347
+      ],
+      "parent": 39422364,
+      "text": "> You’re forgetting that 100 years ago photographers and filmmakers ended the careers of most of the illustrators, story tellers and theater companies of their time. And everybody adjusted, and storytelling and image making exploded, entering a golden age. There are still amazing portrait painters and theater companies today, but they are specialized art forms and most people have moved on. Today’s photography and filmmaking are going to undergo a similar evolution. And as an avid photographer, I can’t wait.<p>It's really hard not to agree with the response above.",
+      "time": "February 19, 2024 at 4:26 AM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "janice1999",
+          "id": 39423610,
+          "parent": 39422819,
+          "text": "It's easy to not agree because the quote ignores both the long duration of the change and the fact that the new industries also employed real people, often the same people from older industries or their children/protégés. That will absolutely not be the case for AI.",
+          "time": "February 19, 2024 at 5:34 AM",
+          "type": "comment"
+        },
+        {
+          "by": "raydev",
+          "id": 39425347,
+          "parent": 39422819,
+          "text": "Hard not to agree when you ignore any suffering during the transition period. Did they immediately all become photographers and filmmakers after losing their jobs?",
+          "time": "February 19, 2024 at 9:35 AM",
+          "type": "comment"
+        }
+      ]
+    },
+    {
+      "by": "djbusby",
+      "id": 39422701,
+      "kids": [
+        39422851,
+        39423062,
+        39423316
+      ],
+      "parent": 39422364,
+      "text": "Well I thought it was gonna be about the hostile deep-fakes but it's about career threat for creatives.<p>I do wish the robots were doing more mundane or labour intensive tasks and leave the art to humans.",
+      "time": "February 19, 2024 at 4:17 AM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "unsupp0rted",
+          "id": 39422851,
+          "kids": [
+            39422988,
+            39423004
+          ],
+          "parent": 39422701,
+          "text": "What’s the difference. All tasks are mundane and labor intensive, all tasks can be done by artificial beings.<p>We happen to be in a weird little valley right now where some tasks are still impossible for artificial beings to do better than us. This is a very short term aberration.<p>If we are still here in a couple generations, when artificial beings have surpassed our output in every way that matters, then we’ll have a choice to make about what we produce for fun. Not because we’re better at it or because it is profitable, just because we want to.<p>Writing stories, making music, making movies, plumbing, carpentry… the only humans who do these things will be the humans who feel like it.",
+          "time": "February 19, 2024 at 4:28 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "bluerooibos",
+              "id": 39422988,
+              "parent": 39422851,
+              "text": "> All tasks are mundane and labor intensive<p>I'd say all tasks when done for money and under pressure (deadlines, people depending on you, etc) become less enjoyable.<p>I enjoy coding in my free time.  Doing it for work - not so much.",
+              "time": "February 19, 2024 at 4:37 AM",
+              "type": "comment"
+            },
+            {
+              "by": "starbugs",
+              "id": 39423004,
+              "kids": [
+                39423039
+              ],
+              "parent": 39422851,
+              "text": "> artificial beings<p>Last time I checked it was an algorithm that needs to be run and fed with input to perform calculations. Not a being?<p>The only thing that is a \"being\" about it currently is the nature of the beings that \"donated\" the training data (without being, hem, asked).",
+              "time": "February 19, 2024 at 4:38 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "throwing_away",
+                  "id": 39423039,
+                  "kids": [
+                    39423276,
+                    39423050
+                  ],
+                  "parent": 39423004,
+                  "text": "So are you, if you abstract enough.",
+                  "time": "February 19, 2024 at 4:40 AM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "krapp",
+                      "id": 39423276,
+                      "kids": [
+                        39423328
+                      ],
+                      "parent": 39423039,
+                      "text": "If you abstract enough, humans and fungi are the same. Abstract further, humans and rocks are the same. Yet humans aren't fungi, nor are they rocks. Abstract the concepts of \"input\" and \"algorithm\" and \"calculation\" enough and \"an algorithm that needs to be run and fed with input to perform calculations\" could describe programming a remote control. Or tying shoes. Are shoes beings? Are humans shoes? Are shoes rocks?<p>There comes a point at which abstraction becomes too general to be useful, and most attempts to equate LLMs with human beings fall into that category for me. Yes, one could describe the intricacies and complexities of human thought and reasoning as equivalent to prompting a stateless stochastic token matching machine but all that proves is how much of a reach the premise is.",
+                      "time": "February 19, 2024 at 5:00 AM",
+                      "type": "comment",
+                      "comments": [
+                        {
+                          "by": "starbugs",
+                          "id": 39423328,
+                          "parent": 39423276,
+                          "text": "> Yes, one could describe the intricacies and complexities of human thought and reasoning as equivalent to prompting a stateless stochastic token matching machine but all that proves is how much of a reach the premise is.<p>If you ask me, no you cannot do that even if you know you're stretching the limits of that \"abstraction\". It just doesn't fly even in the wildest theory. Even if an LLM has a world model that could be compared to a human one, the whole underlying nature of experience is completely missing, hence rendering even this narrow comparison extremely wonky.<p>Otherwise, I like the way you've put it into words though!",
+                          "time": "February 19, 2024 at 5:05 AM",
+                          "type": "comment"
+                        }
+                      ]
+                    },
+                    {
+                      "by": "starbugs",
+                      "id": 39423050,
+                      "kids": [
+                        39423155,
+                        39423401,
+                        39423349
+                      ],
+                      "parent": 39423039,
+                      "text": "> So are you, if you abstract enough.<p>Doubt. Explain, for instance, pain. How do you create that algorithmically? Or if you don't like to explain pain, how about love?<p>You see, that's the problem with being caught up in the \"technical person\" identity completely. Reducing yourself down to an algorithm is not exactly healthy if you ask me. But it sure explains a lot about where the world is headed and why.",
+                      "time": "February 19, 2024 at 4:42 AM",
+                      "type": "comment",
+                      "comments": [
+                        {
+                          "by": "throwing_away",
+                          "id": 39423155,
+                          "kids": [
+                            39423181
+                          ],
+                          "parent": 39423050,
+                          "text": "If I need you to perform a task, I'm going to try and prevent you from experiencing pain by giving you clear requirements and time to complete the task.<p>I'm not going to ask you to lift things heavier than you can, or to do math or programming that's beyond your known capabilities.<p>My goal is going to be to find out what you're best at, then optimize my tasks to be aligned with your training and objectives.<p>This is pretty much what I do with AI also.",
+                          "time": "February 19, 2024 at 4:49 AM",
+                          "type": "comment",
+                          "comments": [
+                            {
+                              "by": "starbugs",
+                              "id": 39423181,
+                              "kids": [
+                                39424850
+                              ],
+                              "parent": 39423155,
+                              "text": "> If I need you to perform a task, I'm going to try and prevent you from experiencing pain by giving you clear requirements and time to complete the task.<p>That doesn't explain what pain is. My question was how you would algorithmically create that? If I am as much a being as an algorithm, as you insulted, then sure thing there must be an algorithmic nature underlying my (or anyone's) pain?",
+                              "time": "February 19, 2024 at 4:52 AM",
+                              "type": "comment",
+                              "comments": [
+                                {
+                                  "by": "throwing_away",
+                                  "id": 39424850,
+                                  "kids": [
+                                    39426936
+                                  ],
+                                  "parent": 39423181,
+                                  "text": "I think you mean insinuated, not insulted (I hope I'm not being insulting).<p>I'm not sure what answer would communicate the idea clearest, but:<p>* If you want the AI version of pain, there are examples of attacks that cause it to bug out and malfunction.  It's clearly not operating correctly, and I think someone famously got Bing to say it wants to go on a rampage?  Here's blogspam from last year form a quick search: <a href=\"https://nypost.com/2023/02/16/bing-ai-chatbots-destructive-rampage-i-want-to-be-powerful/\" rel=\"nofollow\">https://nypost.com/2023/02/16/bing-ai-chatbots-destructive-r...</a><p>* If you want to know why people or animals experience pain, it's because it's an important sensor to exist in nature.  AI has been trained to avoid controversial topics and will push back if you try to get it to talk about something it knows but doesn't want to engage with.  That's sort of pain?<p>* If you want AI with literal neurons that can feel \"pain\" in a biological sense, there are also organoids, but I don't know much about them.<p>The world only cares about inputs and outputs.",
+                                  "time": "February 19, 2024 at 8:04 AM",
+                                  "type": "comment",
+                                  "comments": [
+                                    {
+                                      "by": "starbugs",
+                                      "id": 39426936,
+                                      "parent": 39424850,
+                                      "text": "> I think you mean insinuated, not insulted (I hope I'm not being insulting).<p>I meant what I typed. Claiming that a human being \"is an algorithm if you abstract enough\" is an insult. I hope you can see that?<p>> If you want the AI version of pain<p>> If you want to know why people or animals experience pain<p>> If you want AI with literal neurons that can feel \"pain\"<p>Look. I find it fascinating how a simple question can be evaded with so much insistence and gaslighting.<p>I don't want any of that. I didn't ask for that.<p>I said an LLM is not a being. It's an algorithm. You claimed that \"So are you, if you abstract enough.\"<p>If I am to be reduced to an algorithm, then all I want is an explanation of how I am supposed to be that if you can't explain the algorithmic nature of the most fundamental aspects of a (human) being. If you can't, maybe you should consider that your claim is not only wrong, but potentially a sophisticated intellectual form of pseudo-legitimized dehuminization? (And we shouldn't be calling LLMs \"artificial beings\".)<p>> The world only cares about inputs and outputs.<p>This way of thinking is the source of all the issues we are facing right now. It screams \"I need more suffering\". You have been conditioned into believing that. But it doesn't stand up to the simplest test!",
+                                      "time": "February 19, 2024 at 3:08 PM",
+                                      "type": "comment"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "by": "raindeer2",
+                          "id": 39423401,
+                          "kids": [
+                            39423453
+                          ],
+                          "parent": 39423050,
+                          "text": "Emotions are concepts our internal model has learned when trying to model itself.<p>For a system to experience what we describe as pain, it needs to receive sensory input which it predicts signals that something is damaging its internal state, and then model/describe/represent itself as something that has this experience. Such as system would, like you do, believe it is experiencing pain.",
+                          "time": "February 19, 2024 at 5:13 AM",
+                          "type": "comment",
+                          "comments": [
+                            {
+                              "by": "starbugs",
+                              "id": 39423453,
+                              "kids": [
+                                39427583
+                              ],
+                              "parent": 39423401,
+                              "text": "> Emotions are concepts our internal model has learned when trying to model itself.<p>Do you have a source to underpin that claim? (Honest question.)<p>> For a system to experience what we describe as pain, it needs to receive sensory input which it predicts signals that something is damaging its internal state, and then model/describe/represent itself as something that has this experience.<p>And then the system would feel pain? It doesn't sound convincing. I can model everything I want in my brain, but that certainly doesn't equate experiencing the feeling of pain. What about a headache? Do I describe myself without a headache and the difference to the actual \"model\" is my pain experience? It sounds a bit too left-brained to me, sorry.<p>> Such as system would, like you do, believe it is experiencing pain.<p>How do you know? I think that's a pretty bold claim. Also, pain is not a believe, it's an experience of a feeling?",
+                              "time": "February 19, 2024 at 5:17 AM",
+                              "type": "comment",
+                              "comments": [
+                                {
+                                  "by": "raindeer2",
+                                  "id": 39427583,
+                                  "kids": [
+                                    39429765
+                                  ],
+                                  "parent": 39423453,
+                                  "text": "Check out How Emotions Are Made: The Secret Life of the Brain, by L. Barrett. But I probably take it a bit further than that :)<p>The system would believe it is experiencing pain. Its model of itself would use the pain concept to describe itself, and it would believe it is experiencing it. And this description would be accurate since it is getting damaged.<p>I would argue that pain, like any interpretation of sensory input, are believes. \"experience of a feeling\" is equal to interpreting sensory input in a certain way.<p>But due to the way we are constructed, we cannot unbelieve certain things. It is like when you see a tree, you cannot decide to not see a tree after you have seen it. Or when you see a 2D projection of a 3D cube. You have to see the cube, even if you know it is not there since it is actually just a bunch of lines on a paper. This makes this type of belief different from other types of beliefs we hold which we easily can change our mind about, like what the weather will be like tomorrow.<p>It's the same thing with pain. You cannot stop believing in the interpretation of the sensory data that we describe as pain. And this \"pain belief\" is tied to certain behaviors, like trying to avoid it, since it is built into our reward system that it is negative. The reason we cannot easily \"unbelieve\" pain is that it would be very dangerous if we could simply ignore it. This is also why we are wired so that love is so hard to unbelieve, reproduction would fail in a species that could easily change their mind on the \"love belief\" about their offspring or partners.<p>If you think about phantom limb pain, it is quite clear that it is just a belief/model, and in that case an inaccurate one.",
+                                  "time": "February 19, 2024 at 5:10 PM",
+                                  "type": "comment",
+                                  "comments": [
+                                    {
+                                      "by": "starbugs",
+                                      "id": 39429765,
+                                      "kids": [
+                                        39432446
+                                      ],
+                                      "parent": 39427583,
+                                      "text": "> I would argue that pain, like any interpretation of sensory input, are believes. \"experience of a feeling\" is equal to interpreting sensory input in a certain way.<p>In other words: \"Pain isn't real\"? Are you serious?<p>Again, is there any reliable source for that other than a whole book that probably doesn't even talk about what you claim? If it is in the book, can you give a detailed reference where to find it? And if so, does the book provide references to research underpinning those claims?<p>Or did you just come up with that on your own? It sounds absolutely ridiculous to me. Any attempt to \"model\" the experience is prone to fail by lack of evidence because pain is, by definition, subjective.<p>If you just search for the definitions of belief, emotion and pain, you will quickly find that their meanings are distinct. Claiming that pain is a belief is absurd.",
+                                      "time": "February 19, 2024 at 9:57 PM",
+                                      "type": "comment",
+                                      "comments": [
+                                        {
+                                          "by": "raindeer2",
+                                          "id": 39432446,
+                                          "kids": [
+                                            39434866
+                                          ],
+                                          "parent": 39429765,
+                                          "text": "> In other words: \"Pain isn't real\"? Are you serious?<p>Of course it is real. When I feel pain from an injury, the injury is very real, my pain sensor's signals are real and my brain's interpretation of those signals is real, and my behavior of trying to avoid further injury is real.<p>> Again, is there any reliable source for that other than a whole book that probably doesn't even talk about what you claim? If it is in the book, can you give a detailed reference where to find it? And if so, does the book provide references to research underpinning those claims?<p>Lisa Barrett is a very famous professor of neuroscience, so sure there is a lot of research in that book :) \nHere is a short video where she explains it <a href=\"https://www.youtube.com/watch?v=0QfCvIJRtE0\" rel=\"nofollow\">https://www.youtube.com/watch?v=0QfCvIJRtE0</a> \nI also recommend her interviews with Lex Fridman.<p>She talks more about emotions as predictions, but we mean the same thing.<p>Here is a highly cited paper where she explains the theory: <a href=\"https://pubmed.ncbi.nlm.nih.gov/27798257/\" rel=\"nofollow\">https://pubmed.ncbi.nlm.nih.gov/27798257/</a><p>> Or did you just come up with that on your own? It sounds absolutely ridiculous to me. Any attempt to \"model\" the experience is prone to fail by lack of evidence because pain is, by definition, subjective.<p>Your pain is very subjective yes, but that just means that it is created by your internal model of the world and yourself, which has a unique subjective perspective of the world.<p>> If you just search for the definitions of belief, emotion and pain, you will quickly find that their meanings are distinct. Claiming that pain is a belief is absurd.<p>These words are normally not used in the way I use them, but the point is that emotions are outputs of our model of ourselves. These outputs you can call beliefs, predictions or interpretations if you like.",
+                                          "time": "February 20, 2024 at 1:39 AM",
+                                          "type": "comment",
+                                          "comments": [
+                                            {
+                                              "by": "starbugs",
+                                              "id": 39434866,
+                                              "kids": [
+                                                39439110
+                                              ],
+                                              "parent": 39432446,
+                                              "text": "I don't see how that changes anything about my point.<p>Unless you really claim that modeling \"pain\" as some kind of variable in an algorithm can be equivalent to a biological being feeling pain?<p>I will certainly have a look at the research, but I still believe it's not even talking about that point?<p>Edit: Where exactly in the cited paper is the claim that emotions are a belief? Can't find it.",
+                                              "time": "February 20, 2024 at 5:10 AM",
+                                              "type": "comment",
+                                              "comments": [
+                                                {
+                                                  "by": "raindeer2",
+                                                  "id": 39439110,
+                                                  "kids": [
+                                                    39447118
+                                                  ],
+                                                  "parent": 39434866,
+                                                  "text": "> Unless you really claim that modeling \"pain\" as some kind of variable in an algorithm can be equivalent to a biological being feeling pain?<p>Yes, I do. I guess it all boils down to whether or not you think the hard problem of consciousness is actually a problem or not. I doubt it is, but it is a totally respectable position if you do :)<p>> Where exactly in the cited paper is the claim that emotions are a belief? Can't find it.<p>As I wrote in my previous response, you can call it predictions too. Predictions are usually beliefs about the future. In the predictive brain literature, it is also used as predictions about the present. I use belief as the output of some inference algorithm that needs to deal with uncertainty.<p>Here is a quote from the paper:\n\"The brain continually constructs concepts and creates categories to identify what the sensory inputs are, infers a causal explanation for what caused them, and drives action plans for what to do about them. When the internal model creates an emotion concept, the eventual categorization results in an instance of emotion.\"<p>But you are right, the paper talks more about how emotional categories are created, and dodges the question of how the \"subjective experience of having an emotion\" emerges. In my mind, the step is not far though, and boils down to, as said above, how you view the hard problem or consciousness. That we \"feel\" stuff is a result of an algorithm/model that describes ourselves as having experiences, which is a good model, since how else would we describe ourselves? My belief is that the progress in AI and neuroscience will prove me right :)",
+                                                  "time": "February 20, 2024 at 4:24 PM",
+                                                  "type": "comment",
+                                                  "comments": [
+                                                    {
+                                                      "by": "starbugs",
+                                                      "id": 39447118,
+                                                      "kids": [
+                                                        39451199
+                                                      ],
+                                                      "parent": 39439110,
+                                                      "text": "> whether or not you think the hard problem of consciousness is actually a problem or not<p>Depends on what constitutes a \"problem\" in this context. But based on my interpretation of what you probably want to express with this sentence, yes, I think consciousness is a problem (for your theory). Otherwise, all of my previous comments wouldn't have made that much sense.<p>> Predictions are usually beliefs about the future.<p>I am not sure if I would agree that predictions and beliefs can simply be declared identical so easily. A belief doesn't need to be based on actual data and it doesn't have to be about the future while a prediction, by definition, is. Certain beliefs also seem to be emergent in humans. Otherwise, it would be difficult to explain the independent emergence of religion and belief in god. Beliefs are not necessarily emotions and that's why I have a hard time with the conflation of the two terms. \"Predictions about the present\" sounds more like a technical term to me. It doesn't make that much sense in the original meaning of the term \"prediction\". (I understand that it's used that way in many scientific works. Still, in this context, I think it's important to distinguish otherwise we end up redefining the meaning of words.)<p>> dodges the question of how the \"subjective experience of having an emotion\" emerges<p>Yea, it's convenient, right? But I think these are the central points of my argument that you brush away so swiftly. You won't get around subjective experience and consciousness. And how would you go about proving that an algorithm can have subjective experience and \"feel\" pain or emotions? And if you really believe that this is possible, how do you make sure that in your research nothing extremely unethical happens? By your definition, the Sims may evolve to something that could be protected by certain rights soon? ;)<p>I could imagine that in reality all of that isn't needed. Whether the algorithm really feels something or not - it doesn't matter as long as the expression is realistic enough for humans to believe that it feels something. Then you get the consciousness \"injected\" into your algorithm from the outside. Can you convince someone with a realistic sophisticated simulation that something is conscious even though it isn't? Probably. Still, it won't get you anywhere. Nevertheless, I find that to be a much more likely avenue than that we will ever be able to prove that an algorithm can experience feelings in a way that is equivalent to biological beings. I also don't think this kind of research is all that beneficial to us as humans, especially when mixed with advances in AI. But good luck with all of that and thanks for the references!",
+                                                      "time": "February 21, 2024 at 5:25 AM",
+                                                      "type": "comment",
+                                                      "comments": [
+                                                        {
+                                                          "by": "raindeer2",
+                                                          "id": 39451199,
+                                                          "kids": [
+                                                            39451729
+                                                          ],
+                                                          "parent": 39447118,
+                                                          "text": "> I could imagine that in reality all of that isn't needed. Whether the algorithm really feels something or not - it doesn't matter as long as the expression is realistic enough for humans to believe that it feels something. Then you get the consciousness \"injected\" into your algorithm from the outside. Can you convince someone with a realistic sophisticated simulation that something is conscious even though it isn't? Probably. Still, it won't get you anywhere.<p>The thing is that I can't prove that you or anyone else is conscious either, including myself. With conscious acting AIs it will be the same, and these AIs will believe they are conscious in the same way as we do. So yes, we will have to treat them as if they are conscious.",
+                                                          "time": "February 21, 2024 at 3:56 PM",
+                                                          "type": "comment",
+                                                          "comments": [
+                                                            {
+                                                              "by": "starbugs",
+                                                              "id": 39451729,
+                                                              "parent": 39451199,
+                                                              "text": "> The thing is that I can't prove that you or anyone else is conscious either, including myself. With conscious acting AIs it will be the same, and these AIs will believe they are conscious in the same way as we do. So yes, we will have to treat them as if they are conscious.<p>See, that's the thing. It sounds extremely entitled to say that \"you believe you are conscious\" (but in reality you aren't). You don't know that. You have no evidence for it. You believe that we believe we are conscious. Your opinion is acceptable to me as long as you keep it limited to your own being and discuss it as an explicit hypothesis. I find it overreaching to put this as a general claim and make it sound as if it was obvious, self evident, and applicable to anyone else. It's not.",
+                                                              "time": "February 21, 2024 at 5:21 PM",
+                                                              "type": "comment"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "by": "unsupp0rted",
+                          "id": 39423349,
+                          "kids": [
+                            39423392
+                          ],
+                          "parent": 39423050,
+                          "text": "Pain is a feedback mechanism and often the result of something being broken or poorly performing.<p>There’s nothing magic about it, other than that we don’t currently understand much about how it works or how to modulate it.<p>It’s like saying, “if we’re reducible to machines then explain itchiness”.",
+                          "time": "February 19, 2024 at 5:07 AM",
+                          "type": "comment",
+                          "comments": [
+                            {
+                              "by": "starbugs",
+                              "id": 39423392,
+                              "parent": 39423349,
+                              "text": "> Pain is a feedback mechanism and often the result of something being broken or poorly performing.<p>I think that's a very reductionist view point that differs from the official definition of pain?<p>> There’s nothing magic about it, other than that we don’t currently understand much about how it works or how to modulate it.<p>I didn't claim that it's magical. Just that you wouldn't be able to produce the experience of pain algorithmically?<p>Still waiting for someone to explain how it could be produced algorithmically. I asked GPT. It said it would be immoral to even think about doing so if we could.<p>> It’s like saying, “if we’re reducible to machines then explain itchiness”.<p>If you can explain how itchiness is created algorithmically, I would also take that just out of curiosity! Though not the same as pain, it would be a good starting point maybe.",
+                              "time": "February 19, 2024 at 5:12 AM",
+                              "type": "comment"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "by": "throwaway49849",
+          "id": 39423062,
+          "parent": 39422701,
+          "text": "I know what you mean, but there are plenty of mundane and labor-intensive tasks in art too. Ever try to make background characters or landscapes for a video? It's stuff that nobody pays attention to, but it still has to look plausible. Real artists will use Sora as a tool to automate those tedious tasks, so they can focus on storytelling.",
+          "time": "February 19, 2024 at 4:42 AM",
+          "type": "comment"
+        },
+        {
+          "by": "y04nn",
+          "id": 39423316,
+          "kids": [
+            39429508
+          ],
+          "parent": 39422701,
+          "text": "The fact is that machines have already replaced manual labor, just look at the machines and trucks in a mine, a factory or in agriculture. It already happened, one person work is leveraged to replace a thousand.",
+          "time": "February 19, 2024 at 5:04 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "Ekaros",
+              "id": 39429508,
+              "parent": 39423316,
+              "text": "And this has not been a bad thing... Same goes for writing, printing, music on whatever physical or digital medium, films, TV...<p>We have all benefited from mass replication of mediums that before required someone to work for each performance.<p>I don't see why generation of content should be treated any different. And humans might always keep an edge on this. Well crafted coherent product with decent direction often feels better than a bland one. I really wonder how soon AI can replicate the first one.",
+              "time": "February 19, 2024 at 9:30 PM",
+              "type": "comment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "by": "DalasNoin",
+      "id": 39423148,
+      "kids": [
+        39423439,
+        39424760,
+        39424219
+      ],
+      "parent": 39422364,
+      "text": "\"I’m 16 years old, I’m planning to go to college to become an animator. It has been my life’s dream to become an animator and to share my artwork with people, to create, to show love in every piece I make. And now, I don’t think I’m ever going to have that future.\"<p>Is there still something we can realistically tell kids that they should invest time and effort into learning? Seems that the general idea of getting good at something you are passionate about is going away. Also in particular in the arts, the idea that humans practice for a long time to create art, show it to other people who then enjoy it will disappear. I don't think people have really thought about the deeper consequences of this. Seems that a lot of people like to immediately deflect and deny that this is any different from changes in the past, as you can see in the responses to her post.",
+      "time": "February 19, 2024 at 4:49 AM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "quonn",
+          "id": 39423439,
+          "parent": 39423148,
+          "text": "As a career, I think it‘s difficult. While I believe most jobs will remain longer than we are thinking right now, many will feel threatened.<p>I think for now it would be good to develop physical skills in addition to pretending nothing is happening. Robotics seem to lag behind for various reasons.",
+          "time": "February 19, 2024 at 5:16 AM",
+          "type": "comment"
+        },
+        {
+          "by": "Animats",
+          "id": 39424760,
+          "parent": 39423148,
+          "text": "> Is there still something we can realistically tell kids that they should invest time and effort into learning?<p>That is an extremely good question. So I asked Bing:<p><i>As a high school student, considering career paths that are less likely to be automated by artificial intelligence (AI) is a wise approach. While no job is entirely immune to technological advancements, some occupations rely heavily on uniquely human skills and are less susceptible to automation. Here are several career options to explore:</i><p><i>Healthcare Professionals:</i><p><i>- Nurses, doctors, therapists, and counselors play critical roles in patient care and emotional support. The human touch and empathy required in healthcare make these professions less likely to be fully automated.</i><p><i>Education:</i><p><i>-Teachers, instructors, and school administrators engage with students, personalize learning experiences, and provide mentorship. The interactive nature of education remains essential, even as technology evolves.</i><p><i>Software Development and IT:</i><p><i>- While AI can assist in coding and software development, human creativity, problem-solving, and understanding user needs are irreplaceable. Careers in software engineering, data science, and cybersecurity continue to thrive.</i><p><i>Creative Industries:</i><p>- Musicians, artists, writers, and journalists rely on imagination, emotional expression, and unique perspectives. Creativity is a distinctly human trait that AI struggles to replicate.<p><i>Human Resources (HR):</i><p><i>- HR professionals handle employee relations, conflict resolution, and organizational culture. Their ability to understand human dynamics and make informed decisions is crucial.</i><p><i>Law and Legal Services:</i><p><i>-Legal professionals, including lawyers and paralegals, analyze complex information, argue cases, and interpret laws. Legal reasoning and ethical judgment remain human strengths.</i><p><i>Public Relations (PR):</i><p><i>-PR specialists manage communication, reputation, and crisis response. Building relationships, understanding public sentiment, and strategic thinking are key.</i><p><i>Health and Fitness Trainers:</i><p><i>-Personal trainers, coaches, and nutritionists work directly with clients, providing personalized guidance and motivation. Human interaction is central to their roles.</i><p><i>Social Work and Counseling:</i><p><i>-Social workers and counselors support individuals and families facing challenges. Empathy, active listening, and emotional intelligence are essential skills.</i><p><i>Environmental Science and Conservation:</i><p><i>-Careers related to environmental protection, wildlife conservation, and sustainability involve complex decision-making and a deep understanding of ecological systems.</i><p><i>Remember that adaptability and continuous learning are crucial regardless of the career path you choose. As technology evolves, staying informed and developing a growth mindset will help you thrive in any field.</i><p>That's out of date already.",
+          "time": "February 19, 2024 at 7:47 AM",
+          "type": "comment"
+        },
+        {
+          "by": "Adiqq",
+          "id": 39424219,
+          "parent": 39423148,
+          "text": "I don't really care about jobs, but what is actually scary for me is power/wealth inequality with high unemployment and low social mobility.<p>I used to think that by becoming software engineer I would have good life. Now I'm no longer sure, if I will still have anything in decade or two, because what about debt? What about opportunities for younger people? What about poorer countries?",
+          "time": "February 19, 2024 at 6:38 AM",
+          "type": "comment"
+        }
+      ]
+    },
+    {
+      "by": "satisfice",
+      "id": 39425339,
+      "kids": [
+        39426181
+      ],
+      "parent": 39422364,
+      "text": "Sora, in imitating art, also subtly discourages it. How? Well, in ordinary movie making, various artists collaborate to channel a vision into video. The instrumentation (and sets, etc.) they use to do this entails millions of degrees of freedom. They have freedom to create that goes beyond any words that may describe it.<p>Pre-trained generative models have many fewer degrees of freedom. For instance, try asking Bing to create a picture of a man chasing a bear. This can be done. Now ask it to create a picture of a woman chasing a bear. I have been unable to craft a prompt that succeeds. Bing REALLY does not want women chasing bears. Every picture is a bear chasing a woman.<p>I was able to get it to picture a woman chasing a child, though.<p>Talk about formulaic movies! The AI will exert a substantial bias. It’s not just a new kind of canvas for artists.",
+      "time": "February 19, 2024 at 9:34 AM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "jdiff",
+          "id": 39426181,
+          "kids": [
+            39427304
+          ],
+          "parent": 39425339,
+          "text": "This is something I rarely see addressed. AI proponents always fall back to \"it's just a new tool, just like all the old new tools that made things easier\" but all the old new tools only opened up more degrees of freedom by automating away tedium. So much generative AI automates away the creativity leaving <i>only</i> the tedium, and leaving limited ways to even create.<p>If I have a vision, I cannot pull that out of my head and make it real using generative AI. Maybe I can get someone else's take on my concept, but I don't have the flexibility to build the image in my head. That's the real difference between the new tools of old and the \"new tools\" of today. You can't actually create with them, just sift and hope with varying degrees of control, but no creativity.",
+          "time": "February 19, 2024 at 12:16 PM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "skydhash",
+              "id": 39427304,
+              "kids": [
+                39466863
+              ],
+              "parent": 39426181,
+              "text": "And that's why I can't enjoy generated content over something produce by an human. More often than not, a human has an agency and something novel to bring into the domain space. But AI has always been about what's common to everything it knows. Humans expand, AI reduces.",
+              "time": "February 19, 2024 at 4:23 PM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "satisfice",
+                  "id": 39466863,
+                  "parent": 39427304,
+                  "text": "Damn straight.",
+                  "time": "February 22, 2024 at 9:39 PM",
+                  "type": "comment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "by": "j2kun",
+      "id": 39423040,
+      "kids": [
+        39423549,
+        39426207
+      ],
+      "parent": 39422364,
+      "text": "The responses in that thread are basically telling a 16 year old kid that their feelings are wrong and they should shut up and get on board.",
+      "time": "February 19, 2024 at 4:41 AM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "nick__m",
+          "id": 39423549,
+          "kids": [
+            39437775
+          ],
+          "parent": 39423040,
+          "text": "I don't see what's wrong with telling a teenager that human made artistic endeavors will be relegated to the realm of hobbies and that if he doesn't want to worry about job security he should learn a trade like plumbing.",
+          "time": "February 19, 2024 at 5:26 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "j2kun",
+              "id": 39437775,
+              "parent": 39423549,
+              "text": "Because (a) you can't tell the future and (b) telling the kid to learn to be a plumber is ignoring the OP's entire point that why the fuck are we making humans be the plumbers while computers get to be artists and (c) even if you were right being an asshat isn't the right kind of response.",
+              "time": "February 20, 2024 at 11:34 AM",
+              "type": "comment"
+            }
+          ]
+        },
+        {
+          "by": "xboxnolifes",
+          "id": 39426207,
+          "kids": [
+            39429644
+          ],
+          "parent": 39423040,
+          "text": "It didn't seem wrong before to tell 16 year olds that a career in art was a nebulous plan. It certainly wasn't a stable career path before sora, even if some find a way to make it work.",
+          "time": "February 19, 2024 at 12:24 PM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "Ekaros",
+              "id": 39429644,
+              "parent": 39426207,
+              "text": "I don't understand why we are not more realistic with 16 to 18 year olds. Tell them some real experiences and statistics from real world careers. Both from top and below average.<p>That is at least give them the tools to evaluate if they want to commit to something and what that might mean as normal outcome.",
+              "time": "February 19, 2024 at 9:45 PM",
+              "type": "comment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "by": "simonw",
+      "id": 39422885,
+      "parent": 39422364,
+      "text": "The impact of technology like Sora on people who work in the animation and firm industry is indeed troubling. In my ideal world it leads to an explosion of creativity as people with great skill and taste use it to produce even more ambitious work - but the negative world in which those skills become undervalued and we get way more content of a much lower quality is certainly possible.<p>Something that worries me more at the moment is the impact this will have on people's plans.<p>In this post we have a 16 year old who's passionate about animation but is questioning whether it's a viable industry to join.<p>I've seen plenty of examples of students who planned to be computer programmers but are now having second thoughts about that career as well.<p>Twenty years ago there was a similar fear in programming, that all of the jobs were going to be outsourced to lower cost countries. I believe there were people who changed their career plans as a result of that fear back then as well.<p>I hope we don't see a huge flurry of people making life altering career decisions based on their fear of AI which they later come to regret as this shakes out in a more positive direction.<p>(I also hope we don't see people who genuinely DO regret their career decisions if AI turns out to have the negative impact that many people fear today.)",
+      "time": "February 19, 2024 at 4:31 AM",
+      "type": "comment"
+    },
+    {
+      "by": "joquarky",
+      "id": 39425750,
+      "parent": 39422364,
+      "text": "> I’m 16 years old, I’m planning to go to college to become an animator. It has been my life’s dream to become an animator and to share my artwork with people, to create, to show love in every piece I make. And now, I don’t think I’m ever going to have that future. <<p>When I was 16 I wanted more than anything to be an astronaut, but reality got in the way.<p>Change is inevitable, so we all have to adapt throughout life. Fortunately, adapting one of humanity's greatest capabilities.",
+      "time": "February 19, 2024 at 10:46 AM",
+      "type": "comment"
+    },
+    {
+      "by": "dkjaudyeqooe",
+      "id": 39422805,
+      "kids": [
+        39425613,
+        39423011
+      ],
+      "parent": 39422364,
+      "text": "It might, or it might not. It might enhance many lives too.<p>Maybe it's just the internet, but sometimes you have to wonder if there is a thriving neo-luddite community out there.",
+      "time": "February 19, 2024 at 4:25 AM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "vages",
+          "id": 39425613,
+          "parent": 39422805,
+          "text": "The modern use of the term Luddite is perhaps the clearest example of how “history is written by the winners”: The Luddites protested the wealth inequality and bad working conditions that the new technology allowed for, for example child labour. Their opponents painted them as fearing and hating the technology itself.<p>A good book on the subject is “Blood in the Machine” (2023) by Brian Merchant, which is about what the Luddites actually meant. The 99 Percent Invisible podcast recently interviewed the author: <a href=\"https://99percentinvisible.org/episode/blood-in-the-machine/\" rel=\"nofollow\">https://99percentinvisible.org/episode/blood-in-the-machine/</a>",
+          "time": "February 19, 2024 at 10:22 AM",
+          "type": "comment"
+        },
+        {
+          "by": "drcode",
+          "id": 39423011,
+          "kids": [
+            39423260
+          ],
+          "parent": 39422805,
+          "text": "That puppies-playing-in-the-snow nightmare video isn't enhancing anybody's life",
+          "time": "February 19, 2024 at 4:39 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "dkjaudyeqooe",
+              "id": 39423260,
+              "parent": 39423011,
+              "text": "I really don't know why they included that, it seems like a counter-example.",
+              "time": "February 19, 2024 at 4:58 AM",
+              "type": "comment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "by": "peteforde",
+      "id": 39423246,
+      "kids": [
+        39424190
+      ],
+      "parent": 39422364,
+      "text": "I had a variation of this meta conversation with my sister yesterday, and I pointed out that in addition to all of the attention-drawing advances in the news cycle, there's lots of under-celebrated stuff happening to be really optimistic about.<p>For example, researchers are using ML to discover new proteins, leading to new drugs and new construction materials. <a href=\"https://www.cradle.bio/\" rel=\"nofollow\">https://www.cradle.bio/</a> is doing amazing things in this space.<p>It's true that if you make a living as a drone operator selling stock footage, you might need to diversify. However, I am not worried for intellectually curious teenage creatives at this time.",
+      "time": "February 19, 2024 at 4:57 AM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "fragmede",
+          "id": 39424190,
+          "parent": 39423246,
+          "text": "ML was used to modulate the magnetic field surrounding a nuclear fusion process!<p><a href=\"https://www.newscientist.com/article/2308243-deepmind-uses-ai-to-control-plasma-inside-tokamak-fusion-reactor/\" rel=\"nofollow\">https://www.newscientist.com/article/2308243-deepmind-uses-a...</a>",
+          "time": "February 19, 2024 at 6:35 AM",
+          "type": "comment"
+        }
+      ]
+    },
+    {
+      "by": "Workaccount2",
+      "id": 39422933,
+      "parent": 39422364,
+      "text": "Chapter 5: Humans learn that not only are they not special, they are pretty low on the spectrum of what they thought was special.",
+      "time": "February 19, 2024 at 4:34 AM",
+      "type": "comment"
+    },
+    {
+      "by": "lijok",
+      "id": 39422984,
+      "kids": [
+        39423013
+      ],
+      "parent": 39422364,
+      "text": "The brutal reality is, if we stopped every development that would result in destroyed livelihoods, we would still be cavemen.",
+      "time": "February 19, 2024 at 4:37 AM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "rvnx",
+          "id": 39423013,
+          "kids": [
+            39423024
+          ],
+          "parent": 39422984,
+          "text": "The invention of the car didn't make the horse industry happy.",
+          "time": "February 19, 2024 at 4:39 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "readthenotes1",
+              "id": 39423024,
+              "parent": 39423013,
+              "text": "I am reminded of the time Uncle Jed bought the buggy whip factory...",
+              "time": "February 19, 2024 at 4:40 AM",
+              "type": "comment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "by": "lxe",
+      "id": 39422878,
+      "kids": [
+        39423017,
+        39427318,
+        39423222,
+        39423770
+      ],
+      "parent": 39422364,
+      "text": "I'm not a fan of this sort of takes. History has shown time and time again that pretty much any technological innovation is a net good, despite the protests of the luddites. Progressive creatives see this type of tech as a tool to simplify and re-adapt their process.<p>The post author is 16, and an aspiring animator. If their attitude is to be scared of tech, instead of being insanely curious about it, they are not on the right path to become a creative, regardless of AI.",
+      "time": "February 19, 2024 at 4:30 AM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "labster",
+          "id": 39423017,
+          "kids": [
+            39423460
+          ],
+          "parent": 39422878,
+          "text": "Steam and combustion engines might be a net good for humanity, but weren’t good for millions of species in the current mass extinction. I think it’s a similar worry that AI will only be a good for the very top of the food chain.",
+          "time": "February 19, 2024 at 4:39 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "lxe",
+              "id": 39423460,
+              "parent": 39423017,
+              "text": "> Steam and combustion engines might be a net good for humanity, but weren’t good for millions of species in the current mass extinction.<p>This is true, but what followed also led to lifting probably billions of people out of hunger, and saving the lives of billions of children, increasing life expectancy by over 30 years, led to insane leaps of literacy, etc, etc...<p>> AI will only be a good for the very top of the food chain.<p>With FUD being spread like this, yeah we're at a risk of exactly this being the case, once draconian regulation is passed by clueless lawmakers.<p>As it stands right now, open source and locally-running AI is available to nearly all, cheaply (with an incentive of becoming even cheaper). Aside from Sora being leaps and bounds beyond everyone's expectation, the OSS world of local LLMs, Llama, Mistral, Stable Diffusion, and the likes, is very competitive in terms of quality and utility to the big closed services.<p>The issue is the DISTRIBUTION of the net positives. And closing and gating the progress will only create more imbalance in how the positive impact of this tech is distributed.",
+              "time": "February 19, 2024 at 5:17 AM",
+              "type": "comment"
+            }
+          ]
+        },
+        {
+          "by": "thefz",
+          "id": 39427318,
+          "parent": 39422878,
+          "text": "> If their attitude is to be scared of tech, instead of being insanely curious about it, they are not on the right path to become a creative<p>Might or might not be, but it's not up to you to gatekeep creativity.",
+          "time": "February 19, 2024 at 4:26 PM",
+          "type": "comment"
+        },
+        {
+          "by": "aaomidi",
+          "id": 39423222,
+          "parent": 39422878,
+          "text": "In the long run, yes. In the short term it ruins peoples lives.",
+          "time": "February 19, 2024 at 4:55 AM",
+          "type": "comment"
+        },
+        {
+          "by": "janice1999",
+          "id": 39423770,
+          "parent": 39422878,
+          "text": ">  History has shown time and time again that pretty much any technological innovation is a net good<p>Technology can be used for good or ill. IBMs counting machines made accountants lives easier but also made the Nazi death camps more efficient. See also lead in gas, DDT, nerve gas, CFCs PFAS etc etc. You can argue that gaining more knowledge has proved beneficial but not every advancement or advanced product is guaranteed to be a net good. Some developments, like the Nobel Prize winning DDT, were praised as amazing advancements in their day only to have catastrophic unseen effects later.",
+          "time": "February 19, 2024 at 5:49 AM",
+          "type": "comment"
+        }
+      ]
+    },
+    {
+      "by": "randerson",
+      "id": 39422857,
+      "kids": [
+        39423251,
+        39423124,
+        39423034
+      ],
+      "parent": 39422364,
+      "text": "I wonder what Sam Altman's equivalent quote to \"I am become death, destroyer of worlds\" will be when he sees what his creation leads to.",
+      "time": "February 19, 2024 at 4:28 AM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "grugagag",
+          "id": 39423251,
+          "parent": 39422857,
+          "text": "As long as as he’s gonna be a billionare he probably wouldn’t care about externalities",
+          "time": "February 19, 2024 at 4:58 AM",
+          "type": "comment"
+        },
+        {
+          "by": "Fraterkes",
+          "id": 39423124,
+          "parent": 39422857,
+          "text": "Won't be as impressive, \"first as tragedy, then as farce\" remember",
+          "time": "February 19, 2024 at 4:47 AM",
+          "type": "comment"
+        },
+        {
+          "by": "blibble",
+          "id": 39423034,
+          "parent": 39422857,
+          "text": "\"bitches, check out my bank account balance\"",
+          "time": "February 19, 2024 at 4:40 AM",
+          "type": "comment"
+        }
+      ]
+    },
+    {
+      "by": "dev1ycan",
+      "id": 39422983,
+      "kids": [
+        39424295
+      ],
+      "parent": 39422364,
+      "text": "\"I wish AI would advance in other careers than ones that people are passionate about.\"<p>So that means? researchers are passionate about their job does that mean that we shouldn't use AI to speed up medical research? material research? so on and so on. It's just someone mad that their job is getting closer to be automated before others.",
+      "time": "February 19, 2024 at 4:37 AM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "fragmede",
+          "id": 39424295,
+          "kids": [
+            39427160,
+            39433862
+          ],
+          "parent": 39422983,
+          "text": "it means that computers and ai were supposed to automate away the boring parts of life. folding clothes and doing the dishes. instead, the ai we have right now is making art and poetry, which is what was supposed to be the fun part of being human.",
+          "time": "February 19, 2024 at 6:46 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "dale_glass",
+              "id": 39427160,
+              "parent": 39424295,
+              "text": "Why \"supposed to\"? When was that even a thing?<p>Go on youtube, you'll find plenty videos of people making intricate pots, brushes, etc by hand. You'll also find people do old school metal working with manual mills and lathes. Those people look like they clearly take pride in their work and often enjoy the activity. Automation came for them as well and the ones you see today are the very few remaining.",
+              "time": "February 19, 2024 at 3:52 PM",
+              "type": "comment"
+            },
+            {
+              "by": "dev1ycan",
+              "id": 39433862,
+              "parent": 39424295,
+              "text": "\"boring\" is subjective",
+              "time": "February 20, 2024 at 3:47 AM",
+              "type": "comment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "by": "lenerdenator",
+      "id": 39422791,
+      "kids": [
+        39422867,
+        39422817,
+        39422931,
+        39426073,
+        39424854,
+        39423052,
+        39422847,
+        39423098
+      ],
+      "parent": 39422364,
+      "text": "Every time Sam Altman announces some new offering at OpenAI, I get a little more thankful I don't have any children.",
+      "time": "February 19, 2024 at 4:24 AM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "habitue",
+          "id": 39422867,
+          "kids": [
+            39423020
+          ],
+          "parent": 39422791,
+          "text": "A child's life is valuable each moment. There's no guarantee of security and safety for any human anywhere at any time. We can't just be paralyzed by possible negative outcomes, life requires taking risks.<p>(You might not want kids for some other reason, like free time, don't like kids, etc, but if you would otherwise have kids except for the dangers in the world, I'd say rethink your risk tolerance)",
+          "time": "February 19, 2024 at 4:29 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "lenerdenator",
+              "id": 39423020,
+              "kids": [
+                39423211
+              ],
+              "parent": 39422867,
+              "text": "Possible negative outcomes seem to be becoming more and more possible. And no one cares so long as the number at the bottom of the piece of paper hits the target that was made 90 days prior.<p>Altman's not the only example - our reluctance to tackle things like gun violence in the US or climate change are others - but he and his ilk are a prominent example.",
+              "time": "February 19, 2024 at 4:39 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "briHass",
+                  "id": 39423211,
+                  "parent": 39423020,
+                  "text": "All of the items you mentioned: AI, gun violence, and climate change all share similarities in not presenting easy solutions. Sure, people propose half-baked solutions frequently, but that doesn't mean you can get a diverse set of opinions to agree.<p>I hear lots of handwringing about all of these, but I've yet to hear workable solutions that don't have significant downsides and/or involve the use of force to stop those that disagree.",
+                  "time": "February 19, 2024 at 4:54 AM",
+                  "type": "comment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "by": "dkjaudyeqooe",
+          "id": 39422817,
+          "kids": [
+            39423003,
+            39422980
+          ],
+          "parent": 39422791,
+          "text": "Because they may turn out like him?",
+          "time": "February 19, 2024 at 4:26 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "davidmurdoch",
+              "id": 39423003,
+              "kids": [
+                39423166
+              ],
+              "parent": 39422817,
+              "text": "Because it's going to change the world in drastic ways, and it's very likely that it will be harder, in many ways, for the next generation than it was for us. The kids today will become adults in a world that is mostly foreign to all of us; there won't be precedent to fall back on or wisdom of elders to lean on.  They won't recognize this or even mind that this is their reality, as it will just have always been this way for them (and the adults of today will complain about how good things used to be). And the generational cycle will continue.",
+              "time": "February 19, 2024 at 4:38 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "dkjaudyeqooe",
+                  "id": 39423166,
+                  "kids": [
+                    39423420
+                  ],
+                  "parent": 39423003,
+                  "text": "My god, it's like the AI hype virus has infected your brain and enslaved it.<p>LLMs are not the messiah, they're not the gateway to AGI, they not even that useful given their limitations. They are a very interesting data point on the path to the next data point. The idea that there will be some mass regression due to \"AI\" is ridiculous. It will only benefit humanity because humanity will learn to harness it for its benefit. (What humans do to other humans with technology is another matter.) Your ancestors made the same specious claims about the horseless carriage, TV, the pill, and countless other creations.<p>The future is unknowable but there is no reason to think the next generation won't be better of than the current generation, just like it's been for many centuries (modulo various wars and disasters).",
+                  "time": "February 19, 2024 at 4:51 AM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "davidmurdoch",
+                      "id": 39423420,
+                      "parent": 39423166,
+                      "text": "You are a bundle of joy, aren't you?<p>You nearly said the same thing I did. Are you just looking for confrontation? Like, what are you trying to get at here? Is Sam Altman himself your personal Lord and Savior and you feel the need to prove it?<p>These advancements will, from the perspective of adults having kids today, make things harder for their children. Just like it is for us now, which is why our parents think computers are hard to understand and also why they think home ownership is just as attainable for today's young adults as it was for them. But our children won't really mind, or even notice these difficulties as they will be very normal to them.<p>Our ancestors were right. For them.<p>Anyway, AI and LLMs will be primarily used to control and manipulate people. But that's not a new concept, it's just going to be more efficient.",
+                      "time": "February 19, 2024 at 5:14 AM",
+                      "type": "comment"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "by": "lenerdenator",
+              "id": 39422980,
+              "kids": [
+                39423241,
+                39423121
+              ],
+              "parent": 39422817,
+              "text": "Heh. I'm not a part of the private St. Louis preparatory school and \"drop out of Stanford when a VC tells you you're Jesus Christ\" set. I doubt any of my potential offspring would be either.<p>No, more because Altman is an even higher form of Silicon Valley creature than we've seen before. This is a segment of society that thinks that you can directly judge something's benefit to humanity based on the IPO it could have, and pretty much nothing else. They create sea changes in society knowing that it's going to be a very rough transition for people who don't have their levels of wealth to deal with the consequences.<p>Previously, seeing was believing. Sure, there was Photoshop and CGI, but pictures aren't as telling as video, and most people didn't have the capital necessary to cook up anything they wanted using CGI. This, though... anyone could make up anything for any reason, with dire consequences.<p>Just spitballing here, what if, say, political campaigns started releasing generated video of opponents in compromising positions with minors? Or videos were posted to social media designed to create a casus belli for a country?<p>It won't matter for the companies making those tools; their stock prices will be fine. Well, at least until the EMP is set off near the data center.<p>I don't want to be responsible for a human being coming up in what is essentially a 100% post-truth world.",
+              "time": "February 19, 2024 at 4:37 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "dkjaudyeqooe",
+                  "id": 39423241,
+                  "kids": [
+                    39423329
+                  ],
+                  "parent": 39422980,
+                  "text": "Humans have never needed said technology to lie, deceive and mislead. Ignorance and human nature in general (eg confidence tricks) are a much more powerful weapons at any rate.<p>But the most effective defense remains the same: critical thinking.<p>Sadly, it's not very popular.",
+                  "time": "February 19, 2024 at 4:57 AM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "lenerdenator",
+                      "id": 39423329,
+                      "parent": 39423241,
+                      "text": "I know we all need to think more critically, but existence now throws more situations and decisions at people than the human brain has the ability to deeply ponder and process within a reasonable amount of time. Thus, we either use more primal reactions (like fear) or sum up the decisions in abstractions like profit that aren't nearly the catch-all we pretend they are. That's part of why these technologies are so threatening.",
+                      "time": "February 19, 2024 at 5:05 AM",
+                      "type": "comment"
+                    }
+                  ]
+                },
+                {
+                  "by": "greggsy",
+                  "id": 39423121,
+                  "kids": [
+                    39423220,
+                    39423180
+                  ],
+                  "parent": 39422980,
+                  "text": "> thinks that you can directly judge something's benefit to humanity based on the IPO it could have<p>This is a deliberately cynical perspective along the tiresome ‘evil tech MBA overlord’ trope.",
+                  "time": "February 19, 2024 at 4:46 AM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "lenerdenator",
+                      "id": 39423220,
+                      "parent": 39423121,
+                      "text": "I only adopted this perspective after having worked in a publicly-traded company that was acquired by Oracle, for what it's worth.<p>So blame Larry.",
+                      "time": "February 19, 2024 at 4:54 AM",
+                      "type": "comment"
+                    },
+                    {
+                      "by": "silverquiet",
+                      "id": 39423180,
+                      "parent": 39423121,
+                      "text": "I don’t find it cynical enough actually; I always assumed the oligarchs see the proles as barely differentiated units of labor, much like we would see a colony of bees. Certainly that’s the way I’ve been treated for most of my life.",
+                      "time": "February 19, 2024 at 4:52 AM",
+                      "type": "comment"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "by": "nradov",
+          "id": 39422931,
+          "kids": [
+            39424267
+          ],
+          "parent": 39422791,
+          "text": "That's such a bizarre, ahistorical take. Regardless of anything that Sam Altman does, living conditions for children in developed countries will remain far better than what most people have experienced since the origin of our species.",
+          "time": "February 19, 2024 at 4:34 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "fragmede",
+              "id": 39424267,
+              "parent": 39422931,
+              "text": "since the origin, sure, but without eg phone call centers in the Philippines because they've been replaced by AI, and without tourists to boost the economy because they've all also been fired, who's to say living conditions in develop countries will actually continue to improve or even be sustainable at current levels?",
+              "time": "February 19, 2024 at 6:43 AM",
+              "type": "comment"
+            }
+          ]
+        },
+        {
+          "by": "dougb5",
+          "id": 39426073,
+          "parent": 39422791,
+          "text": "I feel the same way, although I've been cheered to learn of friends at OpenAI (and similar big tech companies) who are having kids.  If they're having kids,  maybe I'm wrong to be so anxious about the future.   I'll be glad to be wrong about the grey world they are creating.<p>Then again, <i>their</i> kids are going to be just fine.",
+          "time": "February 19, 2024 at 11:46 AM",
+          "type": "comment"
+        },
+        {
+          "by": "gfodor",
+          "id": 39424854,
+          "parent": 39422791,
+          "text": "Now is the best time to have kids. The future rules, if you know what’s coming.",
+          "time": "February 19, 2024 at 8:05 AM",
+          "type": "comment"
+        },
+        {
+          "by": "greggsy",
+          "id": 39423052,
+          "kids": [
+            39423114
+          ],
+          "parent": 39422791,
+          "text": "Every generation had a real or perceived existential crisis that might have prompted this type of mindset. The Great Depression, World Wars, Communism, rock music, nuclear weapons, nuclear energy, global warming…<p>This latest one isn’t going anywhere, and humanity will almost certainly find a way to make it ‘work out’.",
+          "time": "February 19, 2024 at 4:42 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "lenerdenator",
+              "id": 39423114,
+              "kids": [
+                39423191
+              ],
+              "parent": 39423052,
+              "text": "Yeah but there was a metric crapton of suffering in those crises. Well, except rock music and nuclear energy.",
+              "time": "February 19, 2024 at 4:46 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "greggsy",
+                  "id": 39423191,
+                  "parent": 39423114,
+                  "text": "I don’t doubt it, but like I said it’s not going anywhere, and the next generation will be more prepared than ever to tackle those sorts of problems.<p>Also, I’d argue that rock has caused suffering. It’s indirectly responsible for the middle-of-the-road (MOR) genre, and directly responsible for Nickleback Smashmouth.",
+                  "time": "February 19, 2024 at 4:52 AM",
+                  "type": "comment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "by": "rahen",
+          "id": 39422847,
+          "kids": [
+            39422896
+          ],
+          "parent": 39422791,
+          "text": "The same. That, and the crazy demographic explosion in the world.",
+          "time": "February 19, 2024 at 4:28 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "nradov",
+              "id": 39422896,
+              "kids": [
+                39441968
+              ],
+              "parent": 39422847,
+              "text": "What demographic explosion? In most developed countries at least there is a baby bust. Populations are rapidly aging.",
+              "time": "February 19, 2024 at 4:32 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "rahen",
+                  "id": 39441968,
+                  "parent": 39422896,
+                  "text": "It's not only a concern for developed nations but a global issue. While demographic growth is gradually decelerating, we are still heading towards a population of 10 billion individuals, each consuming increasingly more resources. I completely understand the reluctance to contribute to this problem.",
+                  "time": "February 20, 2024 at 10:51 PM",
+                  "type": "comment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "by": "65",
+          "id": 39423098,
+          "kids": [
+            39423144,
+            39423801,
+            39426020
+          ],
+          "parent": 39422791,
+          "text": "I don't get it. Why?<p>The entire point of life is to reproduce. Every moment in history has technological changes. Your fear is driving you to make poor decisions. Having children is a biologically good decision.",
+          "time": "February 19, 2024 at 4:45 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "lenerdenator",
+              "id": 39423144,
+              "parent": 39423098,
+              "text": "It's a pretty neutral decision on the whole.<p>People tend to think the world needs their DNA walkin' around out there after they're dead. They don't think about what the world that the DNA's walkin' around in will be like.",
+              "time": "February 19, 2024 at 4:48 AM",
+              "type": "comment"
+            },
+            {
+              "by": "quonn",
+              "id": 39423801,
+              "parent": 39423098,
+              "text": "What‘s the point of making a biologically good decision? That would be a really stupid thing to do. Maybe it‘s a good decision in terms of subjective well being (don‘t know, but pit‘s possible) or for society (quite the opposite I think, but maybe a good argument can be made) but why would you base your decision on what your genes „want“?",
+              "time": "February 19, 2024 at 5:51 AM",
+              "type": "comment"
+            },
+            {
+              "by": "dougb5",
+              "id": 39426020,
+              "kids": [
+                39426293
+              ],
+              "parent": 39423098,
+              "text": "Hey I'll choose my \"entire point in life\", thank you.",
+              "time": "February 19, 2024 at 11:34 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "65",
+                  "id": 39426293,
+                  "kids": [
+                    39426445,
+                    39444849
+                  ],
+                  "parent": 39426020,
+                  "text": "When you're about to die and see yourself leaving nothing behind, you will regret it. Just another case of natural selection.",
+                  "time": "February 19, 2024 at 12:41 PM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "dougb5",
+                      "id": 39426445,
+                      "parent": 39426293,
+                      "text": "Forecast someone else's deathbed, friend, or get to know me before making such a prophecy.  I will regret lots of things but not that!",
+                      "time": "February 19, 2024 at 1:16 PM",
+                      "type": "comment"
+                    },
+                    {
+                      "by": "joloooo",
+                      "id": 39444849,
+                      "parent": 39426293,
+                      "text": "But I'm dead? So why does it matter?",
+                      "time": "February 21, 2024 at 2:27 AM",
+                      "type": "comment"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "by": "gfodor",
+      "id": 39422735,
+      "parent": 39422364,
+      "text": "A lot more of this to come, but unfortunately it’s inevitable because the universe affords universal learning algorithms.",
+      "time": "February 19, 2024 at 4:19 AM",
+      "type": "comment"
+    },
+    {
+      "by": "SebFender",
+      "id": 39429632,
+      "parent": 39422364,
+      "text": "For my team, AI augments our capabilities and helps automate routine and mundane tasks. So, all I can say at the moment is positive as it enables us to focus on complex and new tasks that actually requires a human.",
+      "time": "February 19, 2024 at 9:44 PM",
+      "type": "comment"
+    },
+    {
+      "by": "__loam",
+      "id": 39422861,
+      "parent": 39422364,
+      "text": "I actually don't agree with the idea that it's going to displace creative work. I'm a little worried that people running the finances of firms producing creative will try to displace people, but I don't think this stuff is actually going to displace high quality art. A well curated set of marketing material from openai isn't going to change my opinion on that. If you make something that's of high quality, regardless of how productive you were during the creation, people will seek that quality out. I don't think I've ever heard people be excited about a particular AI artist, just about the models. To me this kind of signals that the market for AI generated work is much smaller than people realize. And if you have to modify the output to actually break through, congratulations you're now an artist.<p>I don't like using these tools in my own work and I hope tech companies are somehow held accountable for using everyone's data without permission, but I'm actually pretty optimistic that this won't displace that many professional artists once the money people get a handle on how the attention economy actually responds to this stuff. I'm a lot more worried about people using this stuff to create propaganda, to frame people for crimes, or to create non-consentual porn of people.",
+      "time": "February 19, 2024 at 4:29 AM",
+      "type": "comment"
+    },
+    {
+      "by": "sudom82",
+      "id": 39422827,
+      "parent": 39422364,
+      "text": "The page is having a hard time loading, mirror: <a href=\"https://web.archive.org/web/20240218195443/https://community.openai.com/t/sora-could-ruin-peoples-lifes/635220\" rel=\"nofollow\">https://web.archive.org/web/20240218195443/https://community...</a>",
+      "time": "February 19, 2024 at 4:26 AM",
+      "type": "comment"
+    },
+    {
+      "by": "siquick",
+      "id": 39423485,
+      "kids": [
+        39423687,
+        39424203
+      ],
+      "parent": 39422364,
+      "text": "Other than generative, what other AI advancements have there been in medical and science fields in the last 12 months? Hopefully the sole focus hasn’t been on white collar job automation in exchange for $20 a month.",
+      "time": "February 19, 2024 at 5:20 AM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "janice1999",
+          "id": 39423687,
+          "parent": 39423485,
+          "text": "Image based diagnosis is probably going to get a lot better. See \"AI-supported mammogram screening increases breast cancer detection by 20%, study finds \" [0]<p>[0] <a href=\"https://edition.cnn.com/2023/08/01/health/ai-breast-cancer-detection/index.html\" rel=\"nofollow\">https://edition.cnn.com/2023/08/01/health/ai-breast-cancer-d...</a>",
+          "time": "February 19, 2024 at 5:41 AM",
+          "type": "comment"
+        },
+        {
+          "by": "fragmede",
+          "id": 39424203,
+          "parent": 39423485,
+          "text": "<a href=\"https://www.newscientist.com/article/2308243-deepmind-uses-ai-to-control-plasma-inside-tokamak-fusion-reactor/\" rel=\"nofollow\">https://www.newscientist.com/article/2308243-deepmind-uses-a...</a> is unfortunately outside your 12 month window, but I still find it pretty exciting.",
+          "time": "February 19, 2024 at 6:36 AM",
+          "type": "comment"
+        }
+      ]
+    },
+    {
+      "by": "mbStavola",
+      "id": 39422799,
+      "kids": [
+        39422890
+      ],
+      "parent": 39422364,
+      "text": "The first response to the original post is quite possibly one of the most tone-deaf and unempathetic things I've ever read.",
+      "time": "February 19, 2024 at 4:25 AM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "otikik",
+          "id": 39422890,
+          "parent": 39422799,
+          "text": "As tone deaf as if… it was written by a machine? This will be increasingly more difficult to tell as time goes on.",
+          "time": "February 19, 2024 at 4:31 AM",
+          "type": "comment"
+        }
+      ]
+    },
+    {
+      "by": "freitzkriesler2",
+      "id": 39423802,
+      "kids": [
+        39423906
+      ],
+      "parent": 39422364,
+      "text": "No sympathy. I worked in the industry and loathed my time there. Leaving was a blessing.<p>The entertainment industry is filled with some of the most insufferable people in the world and now we have technology that will change it forever.<p>Knocking some of the wind out of the egos that fill the LA basin will go a long way to getting out of the creative dulldrum we've had for the past decade.",
+      "time": "February 19, 2024 at 5:51 AM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "quonn",
+          "id": 39423906,
+          "kids": [
+            39424613
+          ],
+          "parent": 39423802,
+          "text": "So it‘s merely a conflict between two areas in California?<p>Good to hear that Europe and the rest of the world is safe then. Phew!",
+          "time": "February 19, 2024 at 6:01 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "freitzkriesler2",
+              "id": 39424613,
+              "parent": 39423906,
+              "text": "Pretty much. Take a look at Bezos' and his girlfriends history. She was formally married to the head of a top Hollywood agency.<p>Bezos' comes in and steals one of the biggest entertainment industry players in the country by making him look like a chump.",
+              "time": "February 19, 2024 at 7:26 AM",
+              "type": "comment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "by": "ergonaught",
+      "id": 39423108,
+      "kids": [
+        39423301
+      ],
+      "parent": 39422364,
+      "text": "Nearly everyone I've encountered with overall positive/optimistic views on the probable impacts of \"this technology\" seems to be wildly out of touch with the state of human sociocultural systems, the actual (\"situation on the ground\") nature of their fellow primates, the kind of decisions that the people/companies who get to make those decisions are actually making, what these technologies are capable of automating, and the second/third/etc order effects of automating same.<p>It's complex, it's \"unpredictable\", but it is 100% clear that this is absolutely not something this species is actually ready to utilize.<p>Believing otherwise is sort of naive to the point of being delusional, now.",
+      "time": "February 19, 2024 at 4:45 AM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "greggsy",
+          "id": 39423301,
+          "parent": 39423108,
+          "text": "You’re ignoring the sociopath-technical and accessibility aspects. It has already allowed people to deliver products that they would otherwise require deep expertise (see the recent Galactic Centre app post) or interaction with inaccessible business and professional structures.<p>Also, we weren’t ready one year ago when all this took off, and the sky still hasn’t fallen yet. It was already incredibly powerful even then, and what obvious adverse effects have come about?",
+          "time": "February 19, 2024 at 5:02 AM",
+          "type": "comment"
+        }
+      ]
+    },
+    {
+      "by": "micromacrofoot",
+      "id": 39422815,
+      "parent": 39422364,
+      "text": "they’re not wrong, ai will eliminate the lower end of many creative professions… and unfortunately a lot of the lower end comes from poorer countries<p>it’s probably a net gain in the long run, but it’s going to cause a lot of damage in the process",
+      "time": "February 19, 2024 at 4:26 AM",
+      "type": "comment"
+    },
+    {
+      "by": "manfre",
+      "id": 39424451,
+      "parent": 39422364,
+      "text": "Sora is a new text to video tool (up to 1 minute) announced by openai.",
+      "time": "February 19, 2024 at 7:06 AM",
+      "type": "comment"
+    },
+    {
+      "by": "apapapa",
+      "id": 39425280,
+      "parent": 39422364,
+      "text": "Almost anything can ruin people's lives... Including water.",
+      "time": "February 19, 2024 at 9:25 AM",
+      "type": "comment"
+    },
+    {
+      "by": "Animats",
+      "id": 39423304,
+      "kids": [
+        39423352
+      ],
+      "parent": 39422364,
+      "text": "I'm waiting for the panic the first time an AI replaces top management.<p>Potentially, AIs can be better at management than humans, even if no more intelligent, simply because they can communicate faster and remember more data.",
+      "time": "February 19, 2024 at 5:02 AM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "operatingthetan",
+          "id": 39423352,
+          "kids": [
+            39424143
+          ],
+          "parent": 39423304,
+          "text": "AI is interesting to companies because it allows upper management to consolidate their power.  AI taking over management of a company will be intentionally prevented or only happen by accident.",
+          "time": "February 19, 2024 at 5:07 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "quonn",
+              "id": 39424143,
+              "kids": [
+                39424593
+              ],
+              "parent": 39423352,
+              "text": "What about shareholders and the competition?",
+              "time": "February 19, 2024 at 6:29 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "Animats",
+                  "id": 39424593,
+                  "parent": 39424143,
+                  "text": "Capitalism demands that the most profitable be in charge. Once AI is better than humans...",
+                  "time": "February 19, 2024 at 7:23 AM",
+                  "type": "comment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "by": "deanCommie",
+      "id": 39423264,
+      "parent": 39422364,
+      "text": "At some point in history every human wore clothes that were \"hand-made\". If we perceive history through the lens of art, we might mistakenly assume that because everyone got to have tailored clothes by professional artisan tailors the likes of which today are highly limited and specialized, that meant that everyone had better clothes.<p>It's true, tailor was a viable profession, but even then most people couldn't afford them. Families toiled to make their own clothes just as they did to grow enough food not to starve, or find enough fuel to heat their hearths not to freeze.<p>But there was also still a slice of the classes that could afford tailored clothes when tailors were ubiquitous. And now with the advent of automation no longer can.<p>Clothing automation made \"tailor\" no longer a viable profession for the masses, and it reduced the access to hand-made clothing for some people while dramatically increasing the access to clothing for the rest.<p>The point here is that both perspectives are right. People's lives WILL be ruined. A lack of confidence in the professional arts means that for some time the amount of quality human-generated animation and art will reduce. We may have already passed the peak - the early internet decades when people just put up their art for all to see for free access, not behind paywalls, but just to show that they can. The same art that all the image generation AI tools were trained on.<p>Will it have been worth it? I genuinely don't know. I'm 40, and I feel like I'm just at the intersection where I start to think that I fear what I don't understand and I invariably think that the way things worked in my 20s was better than the way things will work in my 60s. And yet, this is what has always happened with humanity.<p>And while the end result of this technology today may end up ruining the livelyhood of animators, legal assistants, and app developers, in the long run, these breakthroughs will end up providing access to more information, knowledge, and access to all of humanity.<p>Progress is not linear, and comes with tradeoffs. Some things go away and are not always replaced with something better.<p>But on a humanity time scale beyond the life of an individual human, the development of LLMs is moving us in the right direction.<p>We need to not lose sight of the macro issues - clean energy, pollution, climate change. We can figure out how to still have tailors and animators in the future. But if we kill all the sharks, dolphins, and polar bears, they're not coming back.",
+      "time": "February 19, 2024 at 4:59 AM",
+      "type": "comment"
+    },
+    {
+      "by": "reisse",
+      "id": 39423302,
+      "parent": 39422364,
+      "text": "Is it just me or at least half of the answers are so blandly written they seem to be GPT generated?<p>Take one short statement (\"instead of making art, you can make prompts for the model to make arts\"). Bury it deep between the four paragraphs of text. Elaborate why the statement is positive or negative. Provide examples from your personal experience. Finish with a conclusion, expressing your own opinion. People don't talk with each other like that, go check Reddit, HN comments, X/Mastodon and figure!<p>Before advent of GPT, I've seen this particular style of writing only in IELTS essays (where the rules and tasks are, by design, uncanny close to prompting a GPT model) and in r/LinkedinLunatics.",
+      "time": "February 19, 2024 at 5:02 AM",
+      "type": "comment"
+    },
+    {
+      "by": "TMWNN",
+      "id": 39424903,
+      "parent": 39422364,
+      "text": "No one is entitled to a job.",
+      "time": "February 19, 2024 at 8:14 AM",
+      "type": "comment"
+    },
+    {
+      "deleted": true,
+      "id": 39422767,
+      "parent": 39422364,
+      "time": "February 19, 2024 at 4:22 AM",
+      "type": "comment"
+    },
+    {
+      "by": "oldpersonintx",
+      "dead": true,
+      "id": 39422771,
+      "parent": 39422364,
+      "text": "[dead]",
+      "time": "February 19, 2024 at 4:22 AM",
+      "type": "comment"
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "id": 39430522,
+  "source": "https://news.ycombinator.com/item?id=39430522",
+  "by": "munchler",
+  "kids": [
+    39430889,
+    39433106
+  ],
+  "parent": 39430133,
+  "text": "> It’s not that Sora is generating new and amazing scenes based on the words you’re typing — it’s automating the act of stitching together renderings of extant video and images.<p>I think this is untrue. Sora is doing way more than stitching existing videos and images together.<p>The relentless underhyping of AI is almost as annoying as the overhyping. ChatGPT, for example, is a non-human entity that speaks fluent English. This is an amazing achievement, no matter how many people try to downplay it.",
+  "time": "February 19, 2024 at 11:07 PM",
+  "type": "comment",
+  "comments": [
+    {
+      "by": "EchoChamberMan",
+      "id": 39430889,
+      "kids": [
+        39432347,
+        39431880,
+        39430984
+      ],
+      "parent": 39430522,
+      "text": "What do you mean by speak? That word is doing a lot of work. Chatgpt can respond to a prompt, but speak seems a bridge too far. It performs statistical analysis.<p>[edit]<p>I'm not sure what i would call its actions, if not speech though. It does not think independently, but it does pass information. I guess it computes an answer.",
+      "time": "February 19, 2024 at 11:35 PM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "Kim_Bruning",
+          "id": 39432347,
+          "kids": [
+            39432393
+          ],
+          "parent": 39430889,
+          "text": "\"Cells are not alive, they just execute chemical reactions\"<p>\"Computers can't actually do calculations, they're just a bunch of circuits\"<p>\"Cars don't actually move, they're just a heat engine\"<p>\"Chat GPT doesn't speak and understand natural language, it just performs statistical analysis\"<p>-<p>Eppur si muove.<p>-<p>We define cells as being alive.<p>We use computers to do maths.<p>Cars are used to travel from A to B.<p>And an LLM can accept instructions in a natural language, carry them out, and report back in natural language.",
+          "time": "February 20, 2024 at 1:31 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "EchoChamberMan",
+              "id": 39432393,
+              "kids": [
+                39432622,
+                39432417
+              ],
+              "parent": 39432347,
+              "text": "Maybe the word is technically accurate.<p>[Edit]<p>Alive is also a word with a lot of ambiguity associated. I'm not sure we have a clear definition. If \"I think therefore I am\" is the requirement, gpts do not qualify, as they do not act independently.<p>[Edit]<p>Definition 1) To produce words by means of sounds; talk. - gpt passes<p>Definition 2) To express thoughts or feelings to convey information in speech or writing. - gpt fails<p>[Edit]<p>You used quotes, but I never said most of those things.",
+              "time": "February 20, 2024 at 1:34 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "Kim_Bruning",
+                  "id": 39432622,
+                  "kids": [
+                    39432702
+                  ],
+                  "parent": 39432393,
+                  "text": "If you lazily googled it the same way I did, you would have also found:<p>Definition 3) To convey information or ideas in text.  (gpt passes this one)<p>By the way, dictionary definitions are often very fuzzy, so this is not really any sort of great evidence for anything. More me returning your lackadaisical volley with the same vim and vigor as I received it. ;-)<p>I bet you can do better!",
+                  "time": "February 20, 2024 at 1:53 AM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "EchoChamberMan",
+                      "id": 39432702,
+                      "kids": [
+                        39432815
+                      ],
+                      "parent": 39432622,
+                      "text": "Why is it lazy? Should I have used a paper dictionary? Would that be hard work as opposed to lazy?<p>I didn't bother to include the third definition as I'm not sure how it is different than either of the first two.<p>So what if it passes the third?",
+                      "time": "February 20, 2024 at 1:59 AM",
+                      "type": "comment",
+                      "comments": [
+                        {
+                          "by": "Kim_Bruning",
+                          "id": 39432815,
+                          "kids": [
+                            39432992
+                          ],
+                          "parent": 39432702,
+                          "text": "Because the third definition is the strongest plausible interpretation of the original statement (that can be found in that particular dictionary at least). [1]<p>And: selectively leaving out part of a quote that appears to (partially) contradict your thesis might be seen by some as an attempt to mislead. Best to err on the side of caution!<p>Though -like I said- dictionaries are possibly the weakest source of definitions you can find. Dictionaries need to keep things extremely short, so they're unlikely to have much nuance.<p>Even Encyclopedias (including Wikipedia) are more accurate and reliable, simply because they have more space to expand on a concept in detail.<p>Books or papers are best.<p>[1] <a href=\"https://news.ycombinator.com/newsguidelines.html\">https://news.ycombinator.com/newsguidelines.html</a> \"Please respond to the strongest plausible interpretation of what someone says, not a weaker one that's easier to criticize. Assume good faith. \"",
+                          "time": "February 20, 2024 at 2:09 AM",
+                          "type": "comment",
+                          "comments": [
+                            {
+                              "by": "EchoChamberMan",
+                              "id": 39432992,
+                              "parent": 39432815,
+                              "text": "Ah, yes, I found it ridiculous the first definition formally excluded everything but sounds, and in my mind interpreted it to include text. That is an error.<p>[Edit]<p>i.e. \"To produce words by means of sounds or text.\" Whoops.",
+                              "time": "February 20, 2024 at 2:24 AM",
+                              "type": "comment"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "by": "moshun",
+                  "id": 39432417,
+                  "kids": [
+                    39432451
+                  ],
+                  "parent": 39432393,
+                  "text": "The best kind of accurate",
+                  "time": "February 20, 2024 at 1:36 AM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "EchoChamberMan",
+                      "id": 39432451,
+                      "parent": 39432417,
+                      "text": "Except not really.",
+                      "time": "February 20, 2024 at 1:39 AM",
+                      "type": "comment"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "by": "DiggyJohnson",
+          "id": 39431880,
+          "kids": [
+            39431910
+          ],
+          "parent": 39430889,
+          "text": "It communicates in English. It can literally \"speak\" if connected to a voice interface, of course. Are you trying to miss the point, or do you not believe that ChatGPT can fluently communicate in English without requiring additional input modes for communication?<p>You clearly have a point you'd like to make, but I don't think claiming that ChatGPT can't \"speak\" English is a effective way to make it. It can.",
+          "time": "February 20, 2024 at 12:48 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "EchoChamberMan",
+              "id": 39431910,
+              "kids": [
+                39432324
+              ],
+              "parent": 39431880,
+              "text": "To me speaking requires independent thought and motive, which gpt's do not have. If I as a human want to express myself, I am capable of that. Gpt's only respond with a series of plausible tokens.<p>Someone mentioned in fine arts they make a distinction between craft and art, which is an excellent point.<p>[Edit]<p><a href=\"https://news.ycombinator.com/item?id=39423510\">https://news.ycombinator.com/item?id=39423510</a><p>[Edit]<p>If all it takes to \"speak\" is vocalizing sounds, does text to speech count?<p>[Edit]<p>I guess it's in the name, text to \"speech.\" Again, gpts do not have independent agency.",
+              "time": "February 20, 2024 at 12:51 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "DiggyJohnson",
+                  "id": 39432324,
+                  "kids": [
+                    39432385,
+                    39433920
+                  ],
+                  "parent": 39431910,
+                  "text": "What word would you to describe what ChatGPT is doing then? Would \"mimic-ing speech\" suffice, for you?<p>GPT responds in a \"series of plausible tokens\" that would pass as fluent English if generated by a human.<p>Let's put aside the vocalization point, that's a distraction.",
+                  "time": "February 20, 2024 at 1:29 AM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "EchoChamberMan",
+                      "id": 39432385,
+                      "parent": 39432324,
+                      "text": "I think compute is a more appropriate term, but your right it's certainly an awkward phrase. It pains me when people compare gpts to humans - we're incredibly more complex and advanced.",
+                      "time": "February 20, 2024 at 1:33 AM",
+                      "type": "comment"
+                    },
+                    {
+                      "by": "mvdtnz",
+                      "id": 39433920,
+                      "kids": [
+                        39435042
+                      ],
+                      "parent": 39432324,
+                      "text": "It generates text.",
+                      "time": "February 20, 2024 at 3:51 AM",
+                      "type": "comment",
+                      "comments": [
+                        {
+                          "by": "JoshuaDavid",
+                          "id": 39435042,
+                          "kids": [
+                            39446028
+                          ],
+                          "parent": 39433920,
+                          "text": "So does the program<p><pre><code>    while True:\n        print('a')\n</code></pre>\nGPT-n (not chat) generates continuations to text in which the probability distribution for the next output it produces matches the distribution of outputs after similar text in the training corpus, by most metrics you might examine. Trivial examples of those metrics include word and n-gram frequencies, but also it turns out that at sufficiently low loss that looks like \"given a couple of input texts and a context which affords insightful commentary, produce insightful commentary at the base rate\".<p>There are, of course, caveats. Notably:<p>- ChatGPT has its own stuff going on around chat tuning, tool use, tuning to be less likely to produce outputs OpenAI doesn't want, etc<p>- The statistical regularity thing is not magic. If it requires more than n_layers steps of computation to determine the sensible next output, the model will not be able to do that. I think the canonical example here is usually having the model complete something like \"'d072c916029965a7676da4244160c413e31bc8a0' == sha1('I saw it on hn'); '265149165fcb742a900a44b8f123885dc6ac5d12' == sha1('\" and then having the model brute-force sha1 -- obviously it's not going to be able to do that.<p>- The model generates text sequentially, one token at a time. This is importantly <i>not</i> the process by which most text in the training corpus was written. So in the cases where earlier text importantly depends on text which was written earlier temporally, but which occurs later in the string, the model will be likely to make mistakes (where a \"mistake\" is \"writing text which is statistically surprising, relative to the training corpus\").",
+                          "time": "February 20, 2024 at 5:28 AM",
+                          "type": "comment",
+                          "comments": [
+                            {
+                              "by": "DiggyJohnson",
+                              "id": 39446028,
+                              "kids": [
+                                39447710
+                              ],
+                              "parent": 39435042,
+                              "text": "Is there not a way for me to express the crucial difference between non-language character repetition (or repetition of any string) and the ability or the ability to interpret and respond to human language in the same language?<p>I just feel like we're not in a position to even begin understanding our disagreement until you at least recognize the question or point I'm trying to get here. If you disagree with the question, or don't understand it: why?",
+                              "time": "February 21, 2024 at 3:50 AM",
+                              "type": "comment",
+                              "comments": [
+                                {
+                                  "by": "JoshuaDavid",
+                                  "id": 39447710,
+                                  "parent": 39446028,
+                                  "text": "I don't think that's where the difference lies, no. Sampling from a markov model built from English n-gram frequencies will produce non-repeated, mostly grammatical English text, which frequently is even sensible-sounding once n >= 4 or so.<p>But I don't think there's anything going on in language generation beyond \"based on the current context, produce an appropriate output token for that context based on the observed and inferred distribution of training inputs\". I think that's also how human language generation works, though \"the context\" for humans includes a lot more than just a few thousand words of text. But I think that the surprising thing about e.g. GPT-4 is <i>how well</i> it does the thing, rather than the fact that it does the thing at all.",
+                                  "time": "February 21, 2024 at 6:14 AM",
+                                  "type": "comment"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "by": "munchler",
+          "id": 39430984,
+          "kids": [
+            39432051
+          ],
+          "parent": 39430889,
+          "text": "I mean you can have a conversation with it in English. You can use slang, idioms, misspellings, invalid grammar, and it will track you just fine. This was a sci-fi dream a decade ago and now it’s reality.",
+          "time": "February 19, 2024 at 11:44 PM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "EchoChamberMan",
+              "id": 39432051,
+              "kids": [
+                39432490
+              ],
+              "parent": 39430984,
+              "text": "The dream is for intelligence, not just a parrot.",
+              "time": "February 20, 2024 at 1:03 AM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "Kim_Bruning",
+                  "id": 39432490,
+                  "kids": [
+                    39432593
+                  ],
+                  "parent": 39432051,
+                  "text": "If intelligence is your personal dream, that's fine. The statement -however- was \"it speaks fluent English.\"<p>I think several LLMs have sufficiently demonstrated the ability to communicate concepts using natural language to be able to say that the statement is true.<p>If you tie an LLM to underlying software (and thus also ultimately hardware, if desired), it can take your instructions in natural language, translate them into a form suitable for the software to process, and then take the output and render that back into intelligible natural language.<p>On that basis, I would argue that the statement \"it speaks fluent English\" is essentially correct.<p>If you assert \"but that has nothing to do with intelligence\", you may or may not be correct, but -combining personal empirical observation with your world model- , intelligence would then appear to be orthogonal to the ability to speak English.<p>Either that, or there is a flaw in your world model.<p>Whatever the case may be, LLMs are quite evidently capable of communicating in English.",
+                  "time": "February 20, 2024 at 1:43 AM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "EchoChamberMan",
+                      "id": 39432593,
+                      "kids": [
+                        39432706
+                      ],
+                      "parent": 39432490,
+                      "text": "Yes, and I don't disagree it communicates. I even went so far as to look up the definition of the word speak, and there are two that are relevant. One is a mechanical interpretation, producing english words, and the other is about feelings and thoughts. gpts qualify under the mechanical definition, but not the thoughts and feelings one.<p>[Edit]<p>And the dream isn't one of mine, the parent references \"sci fi dream.\"",
+                      "time": "February 20, 2024 at 1:50 AM",
+                      "type": "comment",
+                      "comments": [
+                        {
+                          "by": "Kim_Bruning",
+                          "id": 39432706,
+                          "kids": [
+                            39432927
+                          ],
+                          "parent": 39432593,
+                          "text": "Ok, if we agree it communicates in natural language, we're pretty much in agreement.<p>Are we still arguing whether \"able to speak english\"  is or is not a subset of \"able to communicate in natural language\", or are we in agreement in our entirety now?<p>And there are many \"sci fi dream\"s of course, one of which is/was for computers to be able to communicate in natural language.  (See eg: star trek, iron man)",
+                          "time": "February 20, 2024 at 2:00 AM",
+                          "type": "comment",
+                          "comments": [
+                            {
+                              "by": "EchoChamberMan",
+                              "id": 39432927,
+                              "parent": 39432706,
+                              "text": "There's a third option! We agree gpts do speak in the mechanical sense, but not in the sense of sharing thoughts or feelings. I often think of the \"Fool's Choice\" from \"Crucial Conversations:\" saying nothing, or being emotional, when the best path is the middle ground, a thoughtful response. Something I am still working on!",
+                              "time": "February 20, 2024 at 2:19 AM",
+                              "type": "comment"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "by": "xetplan",
+      "id": 39433106,
+      "parent": 39430522,
+      "text": "I will reserve judgement on Sora until I actually get to use it.<p>Anything less than Midjourney for video will be hugely disappointing.<p>I still love chatGPT but my use is so limited compared to what it was 9 months ago. Then I think about how a language model could help with basically anything I have ever been paid to do and the reality is I don't think it would be much help. Then if we go back to college/school I wouldn't have used it to learn more. I would have used it to do less work and probably learned less.",
+      "time": "February 20, 2024 at 2:34 AM",
+      "type": "comment"
+    }
+  ]
+}

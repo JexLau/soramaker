@@ -29,9 +29,6 @@ dependencies:
   '@tailwindcss/forms':
     specifier: ^0.5.3
     version: 0.5.7(tailwindcss@3.4.0)
-  '@types/dompurify':
-    specifier: ^3.0.5
-    version: 3.0.5
   '@types/node':
     specifier: 20.4.6
     version: 20.4.6
@@ -56,9 +53,9 @@ dependencies:
   clsx:
     specifier: ^1.2.1
     version: 1.2.1
-  dompurify:
-    specifier: ^3.0.8
-    version: 3.0.8
+  he:
+    specifier: ^1.2.0
+    version: 1.2.0
   next:
     specifier: 13.4.16
     version: 13.4.16(react-dom@18.2.0)(react@18.2.0)
@@ -562,12 +559,6 @@ packages:
       tailwindcss: 3.4.0
     dev: false
 
-  /@types/dompurify@3.0.5:
-    resolution: {integrity: sha512-1Wg0g3BtQF7sSb27fJQAKck1HECM6zV1EB66j8JH9i3LCjYabJa0FSdiSgsD5K/RbrsR0SiraKacLB+T8ZVYAg==}
-    dependencies:
-      '@types/trusted-types': 2.0.7
-    dev: false
-
   /@types/json5@0.0.29:
     resolution: {integrity: sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==}
     dev: true
@@ -613,10 +604,6 @@ packages:
 
   /@types/scheduler@0.16.8:
     resolution: {integrity: sha512-WZLiwShhwLRmeV6zH+GkbOFT6Z6VklCItrDioxUnv+u4Ll+8vKeFySoFyK/0ctcRpOmwAicELfmys1sDc/Rw+A==}
-    dev: false
-
-  /@types/trusted-types@2.0.7:
-    resolution: {integrity: sha512-ScaPdn1dQczgbl0QFTeTOmVHFULt394XJgOQNoyVhZ6r2vLnMLJfBPd53SB52T/3G36VI1/g2MZaX0cwDuXsfw==}
     dev: false
 
   /@types/ws@8.5.10:
@@ -1268,10 +1255,6 @@ packages:
     dependencies:
       esutils: 2.0.3
     dev: true
-
-  /dompurify@3.0.8:
-    resolution: {integrity: sha512-b7uwreMYL2eZhrSCRC4ahLTeZcPZxSmYfmcQGXGkXiZSNW1X85v+SDM5KsWcpivIiUBH47Ji7NtyUdpLeF5JZQ==}
-    dev: false
 
   /eastasianwidth@0.2.0:
     resolution: {integrity: sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==}
@@ -1980,6 +1963,11 @@ packages:
     engines: {node: '>= 0.4'}
     dependencies:
       function-bind: 1.1.2
+
+  /he@1.2.0:
+    resolution: {integrity: sha512-F/1DnUGPopORZi0ni+CvrCgHQ5FyEAHRLSApuYWMmrbSwoN2Mn/7k+Gl38gJnR7yyDZk6WLXwiGod1JOWNDKGw==}
+    hasBin: true
+    dev: false
 
   /humanize-ms@1.2.1:
     resolution: {integrity: sha512-Fl70vYtsAFb/C06PTS9dZBo7ihau+Tu/DNCk/OyHhea07S+aeMWpFFkUaXRa8fI+ScZbEI8dfSxwY7gxZ9SAVQ==}

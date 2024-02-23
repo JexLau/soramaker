@@ -1,0 +1,1019 @@
+{
+  "id": 39449887,
+  "source": "https://news.ycombinator.com/item?id=39449887",
+  "by": "PixelPanda",
+  "descendants": 84,
+  "kids": [
+    39450179,
+    39450417,
+    39450846,
+    39450056,
+    39449946,
+    39450418,
+    39450161
+  ],
+  "score": 44,
+  "time": "February 21, 2024 at 11:40 AM",
+  "title": "What Was Sora Trained On? Creatives Demand Answers",
+  "type": "story",
+  "url": "https://in.mashable.com/tech/69813/what-was-sora-trained-on-creatives-demand-answers",
+  "comments": [
+    {
+      "by": "xscott",
+      "id": 39450179,
+      "kids": [
+        39450212,
+        39450300,
+        39450313,
+        39450190,
+        39450337,
+        39450267,
+        39450209,
+        39450219
+      ],
+      "parent": 39449887,
+      "text": "I'll care a little more about the creatives' arguments when they start paying royalties to every drawing, painting, illustration, tv show, or movie they've ever seen.  Until then, it's just a cash grab.  No individual is all that creative, and anyone accomplished is standing on the shoulders of past giants to get there.<p>The \"what will we do for jobs argument?!?\" would've applied to stage actors when movies came out a century ago and farm workers before the invention of tractors.  Audio records, printing press, and so on.  The world keeps getting better as technology advances, and people will adapt to the new changes.<p>And if you think art created by real people is more valuable, then there will be a market for the creatives.  Focus on that.",
+      "time": "February 21, 2024 at 12:31 PM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "skepticATX",
+          "id": 39450212,
+          "kids": [
+            39450653,
+            39450332,
+            39450269
+          ],
+          "parent": 39450179,
+          "text": "We don't have to treat humans and machines the same.<p>Even if it were true that these models learn <i>exactly</i> like humans (which is patently false), we can still differentiate between the two.<p>Society is built by and for humans. If we want to empower humans over machines, that seems perfectly acceptable.",
+          "time": "February 21, 2024 at 12:37 PM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "csnover",
+              "id": 39450653,
+              "kids": [
+                39450760
+              ],
+              "parent": 39450212,
+              "text": "> Society is built by and for humans.<p>These machines are also built by and for humans.<p>> If we want to empower humans over machines, that seems perfectly acceptable.<p>But that’s not what’s happening here. This is a faction of humans fighting to maintain their power and control over how the rest of humanity is allowed to produce artistic works.<p>Creatives who fight against generative AI are trying to empower themselves over everyone else. Corporations who develop closed-source AI like OpenAI are also trying to empower themselves over everyone else. The main problem in both cases is the way a select few are trying to amass power for themselves.<p>Generative AI has fundamentally shifted the scope of what it means to be creative, and prohibiting it from being trained on the collective works of humanity doesn’t empower humans over machines. It empowers <i>some</i> humans at the expense of <i>other</i> humans. Big AI companies acting exploitatively and trying to figure out how to build their own moats so only they are allowed to control the technology does the same thing, so this shouldn’t be allowed to happen either.<p>This is not the first time, nor is it likely to be the last, that a major disruption happened in creative arts due to technology. The invention of the phonograph decimated live musicians. Hundreds of thousands of jobs in cinemas, radio stations, and restaurants were permanently lost[0], but I don’t think anyone today would argue that we’d be better off if record labels hadn’t been allowed to reproduce the works of other artists.<p>Instead of retreading the same tired arguments about generative AI itself, let’s instead focus on how to ensure creatives can adapt and not end up homeless and penniless, and on how to ensure a few giant tech companies don’t monopolise an otherwise democratising technology. That, more than anything, will ensure that we are empowering humans over machines.<p>[0] <a href=\"https://slate.com/transcripts/RS94QUlwS0ZsSnZnakE4UVUzR2loUVB5OWpGaHg1VzFFZTNCV0p5OWZmaz0=\" rel=\"nofollow\">https://slate.com/transcripts/RS94QUlwS0ZsSnZnakE4UVUzR2loUV...</a>",
+              "time": "February 21, 2024 at 2:05 PM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "photoGrant",
+                  "id": 39450760,
+                  "kids": [
+                    39451261
+                  ],
+                  "parent": 39450653,
+                  "text": "Once again people think they can productivity their way to results as if it's a quantifiable and profitable resource. Culture, Creativity and Art are HUMAN expression of a HUMAN condition. To generate it with a computer means to create 'content' for the sake of profit. Not ART for the sake of expression. At the start of every argument reducing any human output to nothing more than a repeatable and reducible resource is the same arrogant fallacy thinking that, and anything we create just will appear in a vacuum. The worlds people benefit from standing on each others shoulders. This reduces that to the company with the biggest pockets. Otherwise, why secrets?<p>Everything you argue facilitates the reach of human expression. This pilfers and silences it. This plagiarism machine cannot even deal with 'current stimuli' in ANY way what so ever so it cannot express anything. It can only remember what you've told it, and it can barely do that successfully. It can't hold a fact for 2 messages. It cannot feel, it cannot predict, it cannot agree or disagree. It outputs based on master's filter and its expression based on financial agenda.<p>To think artists want to retain control over their own voice and ideas, and not have a company steal the aesthetics of it and sell its skeleton at a discount, and not realise the hypocrisy of trying to shift the power away from the individual to a private single for profit company is just... Beautifully poetic in its own right.<p>> the invention of the phonograph decimated live musicians<p>What history have you been smoking? The invention of a technology that could mechanically reproduce the message of an artist only sought to spread awareness and increase musical access and interest. It cannot replicate the aura of art which is why people to this day squeeze into expensive live shows. You argue the phonograph has completely cleaned live music off the table. It hasn't. It facilitated its growth.<p>You can replicate the art, but you can't create the artist. If ever I hear a balanced argument from the other side that includes the word 'aura' I'll have known they didn't just spend half a night researching these matters and deciding it's easier to remain ignorant.<p><a href=\"https://en.wikipedia.org/wiki/The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction\" rel=\"nofollow\">https://en.wikipedia.org/wiki/The_Work_of_Art_in_the_Age_of_...</a><p>\"in the age of mechanical reproduction and the absence of traditional and ritualistic value, the production of art would be inherently based upon the praxis of politics.\"",
+                  "time": "February 21, 2024 at 2:30 PM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "csnover",
+                      "id": 39451261,
+                      "kids": [
+                        39451340
+                      ],
+                      "parent": 39450760,
+                      "text": "I never said generative AI was itself capable of creativity. Generative AI is a tool, not an entity. I said it enables <i>more people</i> to be creative, in the same way that other tools like Photoshop enable <i>more people</i> to be creative. Using a sampler to create a song rather than arranging and playing all the instruments doesn’t make it less creative, or devoid of creativity. It’s just a different, more accessible form of expression, enabled by technology.<p>I agree that generative AI, due to its nature, trends toward the average and thus is incapable of engaging with the extremes of human experience—but not every creative expression has to be at the extreme. Every Marvel film, every shovelware game, every summer pop jam, panders to the average. There’s enormous value in having a tool that allows professional artists to work more quickly at the average—and, perhaps more critically, for everyday people to approach the average in the first place. I don’t believe it is fair to suggest that such things are valueless “not ART”, but I’m not definitely not here to engage in philosophical discussion of the definition of “art”.<p>As far as history goes, I did provide a citation, which I encourage you to actually look at (and it cites several dozen more books and other articles if you need more primary sources). You are objectively incorrect in your assertion that the phonograph facilitated the growth of live music(ians), but I suspect you may not even understand what is meant by “live musicians”—not because of you, but because the phonograph was so revolutionary that it fundamentally changed what it meant to be a musician—and even redefined what a “song” is[0].<p>It is only with the benefit of hindsight that you can state so confidently that audio recording is a net benefit to music. Many felt that the phonograph was an abomination at its conception. They claimed that the essence of music was in its ephemeral nature, that the uniqueness of each performance contained the creative expression and the sheet music itself was just a skeleton for creativity. They said mechanical recordings deprived listeners of the true experience, and that individual artists lost their autonomy. They spoke in terms exactly like you are now, and those ideas were wrong then, and they are almost certainly wrong now.<p>[0] <a href=\"https://www.smithsonianmag.com/arts-culture/phonograph-changed-music-forever-180957677/\" rel=\"nofollow\">https://www.smithsonianmag.com/arts-culture/phonograph-chang...</a>",
+                      "time": "February 21, 2024 at 4:09 PM",
+                      "type": "comment",
+                      "comments": [
+                        {
+                          "by": "photoGrant",
+                          "id": 39451340,
+                          "parent": 39451261,
+                          "text": "Hindsight being the premise for confidence in this context is precisely why the hubris of factual speaking on the what-if's of the future can be pretty easily ignored as self infatuated authority. The rest of your arguments are still conflating the problem. One enhances the voice of an individual the other extinguishes it.<p>Regardless your semantics on your phonograph argument the reality remains. The artist remained as part of the contract of societys growth. Once again, this isn't a blank vinyl or a canvas or an empty parking lot where freedom of expression takes priority. The priority is the financial incentives and retaining control.<p>For you to argue there's any creativity that would come out of that is like arguing I'm being creative when I put coins into a vending machine and receive cigarettes. I'm as creative as the conditions the puppets of profit have allowed me to be. Money doesn't own this world despite its deep and confused hope. It steals from it.<p>> They spoke in terms exactly like you are now, and those ideas were wrong then, and they are almost certainly wrong now.<p>No, they were right then and they're right now. Otherwise based on your argument anything beyond a phonograph would be unnecessary. So why do people seek anything beyond their MP3? Why do they go to live shows? Why do people still visit the Mona Lisa even though they can see it at home for free with a google? Please, as much as you refuse to debate philosophy and art, those are the exact things being debated. So either listen to those who've spent their lives in their domain (it's why I don't falsify my Python accolades) or pretend you know better. But don't conflate. Do read Walter Benjamin's essay from 1935 on Works of Art in the Age of Mechanical Reproduction. I know, you won't.<p>Next you're going to tell me AI hip-hop has the same value, incentive and understanding as the people from Cabrini Greens trying to escape poverty and violence by creating something beautiful and relatable out of the human condition. Then you'll tell me it's not your fault they haven't 'out created' themselves to keep up with the theft of their very self. If the vultures could at the very least just fuck off until the person isn't alive enough to bare witness to it, you could at least feign some IP argument. It's otherwise just hot air hoping.",
+                          "time": "February 21, 2024 at 4:20 PM",
+                          "type": "comment"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "by": "xscott",
+              "id": 39450332,
+              "parent": 39450212,
+              "text": "We don't have to treat them the same, but that's the direction I'm leaning.<p>As for society, that's another topic.  People really aren't all that nice to each other very often.",
+              "time": "February 21, 2024 at 1:02 PM",
+              "type": "comment"
+            },
+            {
+              "by": "gfodor",
+              "id": 39450269,
+              "parent": 39450212,
+              "text": "This will be a major point of contention if machine learning continues to go the way it’s going.<p>In the future if the Turing test is fully passed I think morality will boil down to preferring humans if and only if it’s a situation of competing scarcities.<p>In the case of “showing pictures to computer people”, showing pictures to a computer doesn’t prevent you from showing it to a human so this framework imply no moral justification for a human preference.",
+              "time": "February 21, 2024 at 12:50 PM",
+              "type": "comment"
+            }
+          ]
+        },
+        {
+          "by": "cageface",
+          "id": 39450300,
+          "parent": 39450179,
+          "text": "<i>The world keeps getting better as technology advances, and people will adapt to the new changes.</i><p>That's making the very large assumption that there are no qualitative differences among our various leaps in technology. It's not hard to make the argument that AI is a different and larger and more disruptive leap than the invention of the tractor.<p>This is a complex issue that people on both sides of the argument tend to oversimplify. Figuring out how we should regulate and integrate this new technology is going to take time and a lot of back and forth.",
+          "time": "February 21, 2024 at 12:57 PM",
+          "type": "comment"
+        },
+        {
+          "by": "w______roy",
+          "id": 39450313,
+          "parent": 39450179,
+          "text": "People do pay to see movies, to read books, to go to the museum, and for formal education… Do you think the ratio of cost to go to film school per video made for an individual is the same ratio as the cost for stock video library per video made for an AI?<p>>The world keeps getting better as technology advances<p>Will it, forever? Is that a given? Technology might also destroy the planet.",
+          "time": "February 21, 2024 at 1:00 PM",
+          "type": "comment"
+        },
+        {
+          "by": "metacritic12",
+          "id": 39450190,
+          "parent": 39450179,
+          "text": "And the genie is already out of the bottle.  As we've seen with LLMs, soon there will be open sourced versions of this essentially trained on everything.  And with transfer learning the training will probably promiscuously propagate to inform future models.  In essence in the limit case, all future models 5 years from now will have been \"influenced\" by nearly all work on the publicly accessible web today.<p>And there's no problem with that really -- all humans are a bit influenced by everything they've seen in their lives like you said, including tons of heavily copyrighted and trademarked stuff.",
+          "time": "February 21, 2024 at 12:34 PM",
+          "type": "comment"
+        },
+        {
+          "by": "fithisux",
+          "id": 39450337,
+          "kids": [
+            39450485,
+            39450425
+          ],
+          "parent": 39450179,
+          "text": "You seem to mix a lot.<p>The first part is pseudo-argument. You compare apples and oranges. You treat education and massive steal of IP the same.<p>The second part seems to be a religious rehash of  \"The world keeps getting better as technology advances\" this is not something guaranteed to continue and the world is not getting better from everyone. You seem to \"overfit\".<p>The third part does not guarantee a sustainable income for human creativity. Again your argument is shallow at best.",
+          "time": "February 21, 2024 at 1:04 PM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "xscott",
+              "id": 39450485,
+              "kids": [
+                39450634
+              ],
+              "parent": 39450337,
+              "text": "IP is a fiction we created to encourage artists to create.  Arguably it was a trade off where we encourage producers of creative works by giving them a limited monopoly for the benefit of the consumers.  IP is a price we paid for the benefit of consumers.  It's not an inalienable right.<p>As for sustainable incomes, I'm sure you heard the arguments about buggy-whip manufacturers going out of business when we got trains and cars.  It really wasn't that much of a tragedy in the big picture of things.",
+              "time": "February 21, 2024 at 1:33 PM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "photoGrant",
+                  "id": 39450634,
+                  "kids": [
+                    39450713
+                  ],
+                  "parent": 39450485,
+                  "text": "Who is 'we' in your arguments. Master? And why do you think laws exist? It's to protect the rich from being burned at the stake by reality. Societal agreements go both ways. You think it's to feign appeasement to the little piggie complaints and get them back to growing for your market day? You continue to dehumanise 'them' -- your neighbour into nothing more than an idiot who takes from your bottom line. Humans aren't a one way street to a compute problem, friend.",
+                  "time": "February 21, 2024 at 2:00 PM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "xscott",
+                      "id": 39450713,
+                      "kids": [
+                        39450823
+                      ],
+                      "parent": 39450634,
+                      "text": "I'm going to ignore everything that sounds too weird to address.  Philosophy major?  Drinking on a Tuesday?<p>As for laws, we're almost in agreement.  People want to argue about rights, but it seems to me the rules are a lot more about control.  I could ramble on quite a bit about corruption at every level from local police to federal politicians.  ... to copyright enforcement.<p>However, most of the rules were made before the current batch of super rich people got super rich, so there's something oversimplified in thinking it's just about protecting wealth.<p>My bottom line?  Compute problem?  Whatever.  I think the rest is just more weirdness I can't make sense of.",
+                      "time": "February 21, 2024 at 2:19 PM",
+                      "type": "comment",
+                      "comments": [
+                        {
+                          "by": "photoGrant",
+                          "id": 39450823,
+                          "kids": [
+                            39450931
+                          ],
+                          "parent": 39450713,
+                          "text": "This is exhausting. Just read a history book. Yes, power started with families. Then big families - kings and queens and y'know, we slowly but surely woke up to being a kinder humanity not a more brutal one. You'd have thought.<p>Art major. I don't drink. I debate hard ideas.",
+                          "time": "February 21, 2024 at 2:45 PM",
+                          "type": "comment",
+                          "comments": [
+                            {
+                              "by": "xscott",
+                              "id": 39450931,
+                              "kids": [
+                                39450954
+                              ],
+                              "parent": 39450823,
+                              "text": "Well, since we agree the laws aren't about right or wrong, I guess you can appeal your case to the rich.",
+                              "time": "February 21, 2024 at 3:05 PM",
+                              "type": "comment",
+                              "comments": [
+                                {
+                                  "by": "photoGrant",
+                                  "id": 39450954,
+                                  "kids": [
+                                    39451460
+                                  ],
+                                  "parent": 39450931,
+                                  "text": "Yes. Master.",
+                                  "time": "February 21, 2024 at 3:09 PM",
+                                  "type": "comment",
+                                  "comments": [
+                                    {
+                                      "deleted": true,
+                                      "id": 39451460,
+                                      "parent": 39450954,
+                                      "time": "February 21, 2024 at 4:40 PM",
+                                      "type": "comment"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "by": "photoGrant",
+              "id": 39450425,
+              "parent": 39450337,
+              "text": "I'll simplify this for everyone;<p>(misquoted you originally, sorry!)<p>If you take a box and fill it with dog shit. You're more than welcome to chop, blend, dilute, fling or even eat this shit. But in the end, it's still Pepper's Poop.<p>Sell it like it isn't. Add sprinkles. It's Pepper's Poop.<p>When Pepper dies. Do you think the model is going to invent Gold all of a sudden?",
+              "time": "February 21, 2024 at 1:20 PM",
+              "type": "comment"
+            }
+          ]
+        },
+        {
+          "by": "norir",
+          "id": 39450267,
+          "kids": [
+            39450430,
+            39450369,
+            39453169
+          ],
+          "parent": 39450179,
+          "text": "> No individual is all that creative, and anyone accomplished is standing on the shoulders of past giants to get there.<p>Are you seriously going to argue that, say, Bach or Shakespeare were not all that creative?",
+          "time": "February 21, 2024 at 12:50 PM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "atrus",
+              "id": 39450430,
+              "parent": 39450267,
+              "text": "They're saying that creativity isn't in a vacuum. Both Bach and Shakespeare were both inspired, and drew upon many things in their life. Just like how anyone who makes anything or does anything leans at least a little on past experiences. And I really think that line of arugment is a dead end, and only hurts, or we'd have to round up and arrest every highschooler making shitty anime fan art.",
+              "time": "February 21, 2024 at 1:21 PM",
+              "type": "comment"
+            },
+            {
+              "by": "xscott",
+              "id": 39450369,
+              "kids": [
+                39453206
+              ],
+              "parent": 39450267,
+              "text": "You're reaching pretty far back to find outstanding examples, and I'll agree they are way above average.<p>However, I'll assume you know that most of Shakespeare's works were based off of earlier works.  And I doubt Bach taught himself from scratch either.",
+              "time": "February 21, 2024 at 1:10 PM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "Turing_Machine",
+                  "id": 39453206,
+                  "parent": 39450369,
+                  "text": "Not just based off, but in some cases blatant ripoffs. Shakespeare was famous for swiping the plots of Italian plays. Ever notice how many of his plays are set in Italy? This was before \"remix\" was a word.<p>Shakespeare's specialty was writing clever dialog (and to give credit where it's due, he was very, <i>very</i> good at that), not coming up with totally original plays.<p>If copyright as we know it had existed in Shakespeare's time, he would have been sued into a smoking crater.",
+                  "time": "February 21, 2024 at 8:57 PM",
+                  "type": "comment"
+                }
+              ]
+            },
+            {
+              "by": "Turing_Machine",
+              "id": 39453169,
+              "parent": 39450267,
+              "text": "Neither Bach nor Shakespeare had copyright over their works, as the very concept of copyright didn't exist until the Statute of Anne in 1710. Germany (really, Saxony, as Germany wasn't even a unified country at the time) was much later.<p>Shakespeare got paid by people buying tickets to the Globe Theatre, of which he was part owner. Bach got paid by various princes and the church, and was expected to compose new music every week in return for his pay.<p>Neither argued that they should continue to get paid for the same work for 90 years.",
+              "time": "February 21, 2024 at 8:53 PM",
+              "type": "comment"
+            }
+          ]
+        },
+        {
+          "by": "photoGrant",
+          "id": 39450209,
+          "kids": [
+            39450231
+          ],
+          "parent": 39450179,
+          "text": "I'll start caring about my fellow humans rights when I see each and everyone one of their tax returns. Until then my assumptions will appease my ability to remain ignorant.",
+          "time": "February 21, 2024 at 12:36 PM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "xscott",
+              "id": 39450231,
+              "kids": [
+                39450262,
+                39450254
+              ],
+              "parent": 39450209,
+              "text": "I don't understand what you're saying.  Am <i>I</i> the uncaring ignorant one?  It seems unlikely that you're really referring to yourself there, and maybe you're using a rhetorical trick to try and skirt HN's policy about being civil to each other.",
+              "time": "February 21, 2024 at 12:42 PM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "ImPostingOnHN",
+                  "id": 39450262,
+                  "kids": [
+                    39450814
+                  ],
+                  "parent": 39450231,
+                  "text": "Perhaps it's a commentary on humans drawing arbitrary thresholds to excuse themselves from caring about other humans who don't meet them?",
+                  "time": "February 21, 2024 at 12:48 PM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "xscott",
+                      "id": 39450814,
+                      "kids": [
+                        39454028
+                      ],
+                      "parent": 39450262,
+                      "text": "What threshold?",
+                      "time": "February 21, 2024 at 2:41 PM",
+                      "type": "comment",
+                      "comments": [
+                        {
+                          "deleted": true,
+                          "id": 39454028,
+                          "parent": 39450814,
+                          "time": "February 21, 2024 at 10:13 PM",
+                          "type": "comment"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "by": "photoGrant",
+                  "id": 39450254,
+                  "kids": [
+                    39450301
+                  ],
+                  "parent": 39450231,
+                  "text": "My recommendation, civil or otherwise is to at least feign a moment of empathy and understanding for your fellow man in order to balance an otherwise repeat cliche that fundamentally argues for self. An inability to empathise first stops any ability to listen to, or accept alternative opinions to your own.<p>I'm not sure what's more insulting overall, my sarcasm or your immediate jump to insult any artist based on the fact they're outraged about the financial fall out of this situation and not take them on the merit of every other argument included. Philosophical, moral and otherwise. It's fingers in ears and it's assuming the only thing artists care about is the money leaving their pocket.<p>We can think a little beyond that cave. It's inclusion in the argument is because it is the guiding star for the greedy to nullify the realities. Visual AI has revealed the trickster.<p>>  No individual is all that creative<p>It's nice to meet you too. I promise, you underestimate your neighbours.",
+                  "time": "February 21, 2024 at 12:47 PM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "xscott",
+                      "id": 39450301,
+                      "kids": [
+                        39450324,
+                        39450410
+                      ],
+                      "parent": 39450254,
+                      "text": "Ok, now that you've clarified:  My take was correct, right?  Your first instinct was to attack my character instead of discussing the topic, and you knew you had to be sneaky about it to not obviously break the rules.<p>Your empathy isn't showing so clearly, and honestly I have more friendly discussions with ChatGPT than I am having with you.<p>As for what artists care about - nobody is taking away their cameras or brushes.  They can keep creating all they want.  It really seems like it's about money to me.",
+                      "time": "February 21, 2024 at 12:58 PM",
+                      "type": "comment",
+                      "comments": [
+                        {
+                          "by": "ImPostingOnHN",
+                          "id": 39450324,
+                          "kids": [
+                            39450415
+                          ],
+                          "parent": 39450301,
+                          "text": "To clarify, the 'caring about money' mentioned here refers to millions of humans genuinely worried about how they'll continue to survive and support their families in the society in which they live, as their profession is decimated over the course of a year or two, a fraction of the time it takes to learn a new one.",
+                          "time": "February 21, 2024 at 1:01 PM",
+                          "type": "comment",
+                          "comments": [
+                            {
+                              "by": "xscott",
+                              "id": 39450415,
+                              "kids": [
+                                39450457
+                              ],
+                              "parent": 39450324,
+                              "text": "Once upon a time there were millions of people working the fields to make enough food.  Nothing has been decimated in the last year or two, and I don't think anything will be in the next two either.  But yeah, the world is changing, and some current careers won't be viable in a decade or two.  I'm not sure we could find a point in the last century where that wasn't true.",
+                              "time": "February 21, 2024 at 1:18 PM",
+                              "type": "comment",
+                              "comments": [
+                                {
+                                  "by": "ImPostingOnHN",
+                                  "id": 39450457,
+                                  "parent": 39450415,
+                                  "text": "To clarify, 'yeah, the world is changing' mentioned here refers to millions of humans genuinely worried about how they'll continue to survive and support their families in the society in which they live, as their profession is decimated <i>(yes, decimated)</i> over the course of a year or two <i>(yes, a year or two)</i>, a fraction of the time it takes to learn a new one.<p>I'm reiterating this because I think it's important not to simply toss out a platitude and dismiss this staggering, unprecedented situation befalling millions of our fellow humans. If one's goal is to insulate themselves from their fellow humans, they might find it less important to do so.<p>Indeed, someone with such a goal could invent enough preconditions to caring for their fellow humans that they need <i>never</i> care! Preconditions like <i>'I don't care about you because I don't think your situation is changing fast enough'</i> or <i>'I don't care about you because you value money while living in a capitalist society'</i>. Dust hands off, problem solved, goal achieved, am I right?",
+                                  "time": "February 21, 2024 at 1:27 PM",
+                                  "type": "comment"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "by": "photoGrant",
+                          "id": 39450410,
+                          "kids": [
+                            39450620
+                          ],
+                          "parent": 39450301,
+                          "text": "I have no desire to be sneaky. Creatively pointed. Please report me if needed, I have no qualms exercising my ability to express humanity when someone attempts to dehumanise. Especially if I can do so in a way that opens up an avenue for reflection. Most just double down. Being silenced on this platform is an expected conclusion, not a concern.",
+                          "time": "February 21, 2024 at 1:17 PM",
+                          "type": "comment",
+                          "comments": [
+                            {
+                              "by": "xscott",
+                              "id": 39450620,
+                              "kids": [
+                                39450697
+                              ],
+                              "parent": 39450410,
+                              "text": "So you're expressing humanity with your flowery (or sarcastic) language to call me ignorant, uncaring, and dehumanizing.  I want to say that's hypocritical, but it really isn't.  You are a pretty good reflection of humanity, and a fine example of why I don't care that some people will have to move on to survive.  It's not like they (or you) were all that nice in the first place.",
+                              "time": "February 21, 2024 at 1:57 PM",
+                              "type": "comment",
+                              "comments": [
+                                {
+                                  "by": "photoGrant",
+                                  "id": 39450697,
+                                  "kids": [
+                                    39450813,
+                                    39450744
+                                  ],
+                                  "parent": 39450620,
+                                  "text": "Your beliefs and words are stripping me of my talents, livelihood, journey, meaning, finances and goals and you're upset that I call it ignorant, uncaring and dehumanizing. Hypocritical or not, these are not my attempts at creatively insulting you. They're the smallest of reality checks you need and I have absolutely no delusion to believe you'll ever think otherwise. How YOU became a victim in this discussion lends to nothing beyond an eye roll. You still haven't uttered a word of empathy for anything that doesn't fit your position. History will appreciate these discussions and who fought for what exactly.<p>Now tech thinks its an expert on philosophy, history and art. Hubris is something folks should lead with more often in place of ego.<p>edit: It'd be real easy to conflate my response to dehumanising each other with the larger arguments at play. Continue to hunt for your 'gotchas'",
+                                  "time": "February 21, 2024 at 2:15 PM",
+                                  "type": "comment",
+                                  "comments": [
+                                    {
+                                      "by": "artninja1988",
+                                      "id": 39450813,
+                                      "parent": 39450697,
+                                      "text": ">Your beliefs and words are stripping me of my talents, livelihood, journey, meaning, finances and goals<p>There it is. If it wasn't obvious, all your posts are really just you being upset about tech advancements threatening your job. You could have just said that instead of the nonsensical posts about ai weapons somehow being rated to diffusion models etc. My advice: move on and adapt like the rest of us",
+                                      "time": "February 21, 2024 at 2:40 PM",
+                                      "type": "comment"
+                                    },
+                                    {
+                                      "by": "xscott",
+                                      "id": 39450744,
+                                      "parent": 39450697,
+                                      "text": "Dude, I'd totally love to be paid lots of money to work on my pet projects.  Just think of the beauty I could bring in to the world.  My talents, livelihood, journey and so on just can't find a market though.",
+                                      "time": "February 21, 2024 at 2:26 PM",
+                                      "type": "comment"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "by": "Throwaway1746",
+          "dead": true,
+          "id": 39450219,
+          "kids": [
+            39450312
+          ],
+          "parent": 39450179,
+          "text": "[flagged]",
+          "time": "February 21, 2024 at 12:38 PM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "pasquinelli",
+              "id": 39450312,
+              "parent": 39450219,
+              "text": "> because it competes with their work.<p>it really doesn't",
+              "time": "February 21, 2024 at 12:59 PM",
+              "type": "comment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "by": "anonnon",
+      "id": 39450417,
+      "parent": 39449887,
+      "text": "It's incredible how unsympathetic these threads are to artists.<p>I remember the HN threads covering the FAANG (or whatever they're called now) laysoffs, where people would get flagged just for pointing out that tech workers earning $150-350k-a-year aren't sympathetic, exploited proletarians and that these companies have obligations to shareholders, which includes ordinary Americans with 401(k)s, IRAs, or pension plans (which, even if public sector, are still usually funded with public equities)--not just to people who got lucky and won the FAANG job lottery.",
+      "time": "February 21, 2024 at 1:18 PM",
+      "type": "comment"
+    },
+    {
+      "by": "tarr11",
+      "id": 39450846,
+      "kids": [
+        39450903
+      ],
+      "parent": 39449887,
+      "text": "Software developers don’t seem to care that their code is used to train LLMs.  It seems most programmers have embraced it as a tool to make themselves more efficient, even if that means some jobs may get automated away.<p>I am not really sure why the reception is so different with “creatives”.",
+      "time": "February 21, 2024 at 2:51 PM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "photoGrant",
+          "id": 39450903,
+          "parent": 39450846,
+          "text": "One is an expression of all through self, another is a skill to a solution. One is given value by society's response, the other by a companies incentives.<p>When you take an artists desire to speak to the world through self expression, and believe it's equivalent to building software you're forgetting that one of them is already extremely well compensated, the other is not aligned with those incentives.<p>But to be extremely well compensated, and then try to rob artists of their livelihoods for profit and convenience -- yes, folks are going to think this argument isn't quite as balanced as you're painting it.",
+          "time": "February 21, 2024 at 3:01 PM",
+          "type": "comment"
+        }
+      ]
+    },
+    {
+      "by": "gmerc",
+      "id": 39450056,
+      "parent": 39449887,
+      "text": "This is predictable.<p>Next:  “China will win if copyright is enforced” or “National Supremacy or Copyright, pick one”<p>They are right of course, but the questions is what “wins” means and what Washington money expects.",
+      "time": "February 21, 2024 at 12:10 PM",
+      "type": "comment"
+    },
+    {
+      "by": "photoGrant",
+      "id": 39449946,
+      "kids": [
+        39450199,
+        39449978,
+        39450127,
+        39462052,
+        39450173
+      ],
+      "parent": 39449887,
+      "text": "I asked this question a few days ago and the responses, arrogance and ignorance was astounding. <a href=\"https://news.ycombinator.com/item?id=39406709\">https://news.ycombinator.com/item?id=39406709</a><p>I promise, if I'm here asking this week, there's millions more that will be asking next week. Carving out the labour market has more consequences than increasing productivity. It destroys culture, society and a will to live. Wise up.<p>edit: And before the inevitable responses begin pouring in. Even the argued ethically sourced material scooped up from Shutterstock, et al. is still shrouded in dark patterns, hidden automatically enabled opt-in removal of rights, automated payments to tie up the fact you accepted payment as part of the argument in court. It all stinks, it should all tumble.<p>edit2: People are great at recognising patterns. I've frequented this platform daily for almost a decade. The speed of engagement in this thread and the fact it doesn't exist on the front page... or the second shows, once again -- the strings can suck it. Stifling reality doesn't change it.",
+      "time": "February 21, 2024 at 11:52 AM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "skepticATX",
+          "id": 39450199,
+          "kids": [
+            39450348
+          ],
+          "parent": 39449946,
+          "text": "I don't know if it's illegal, because I'm not a lawyer.<p>I do know that it is completely unethical. A few large companies should not be able to package up and sell the totality of humanity's creative output at the expense of humanity itself.<p>The backlash is certainly just beginning. Thus far, AI usage beyond brief exploration have mostly been driven by tech folks. As more people outside of the bubble get clued into what is happening, I think that reputations will take a serious hit.",
+          "time": "February 21, 2024 at 12:35 PM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "fithisux",
+              "id": 39450348,
+              "parent": 39450199,
+              "text": "This a real threat to democracy (maybe it is not there anymore)",
+              "time": "February 21, 2024 at 1:06 PM",
+              "type": "comment"
+            }
+          ]
+        },
+        {
+          "by": "isodev",
+          "id": 39449978,
+          "kids": [
+            39450177,
+            39451246,
+            39450130,
+            39453239,
+            39450009
+          ],
+          "parent": 39449946,
+          "text": "I still don't get how people believe one can make money out of other people's creative works (on a mass scale at that) and get away with it. Training an AI is not fair use and has nothing to do with open source. Posting content online doesn't automagically make it usable for whatever purpose.",
+          "time": "February 21, 2024 at 11:59 AM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "Throwaway1746",
+              "id": 39450177,
+              "kids": [
+                39450383,
+                39451216
+              ],
+              "parent": 39449978,
+              "text": ">Training an AI is not fair use<p>That's not for you to decide.<p>>has nothing to do with open source<p>It has everything to do with open source. If only Disney and getty images are allowed to train ai, there will be extreme monopolisation.",
+              "time": "February 21, 2024 at 12:31 PM",
+              "type": "comment",
+              "comments": [
+                {
+                  "deleted": true,
+                  "id": 39450383,
+                  "parent": 39450177,
+                  "time": "February 21, 2024 at 1:12 PM",
+                  "type": "comment"
+                },
+                {
+                  "by": "isodev",
+                  "id": 39451216,
+                  "kids": [
+                    39452488,
+                    39453299
+                  ],
+                  "parent": 39450177,
+                  "text": "> That's not for you to decide.<p>Of course it is, my content my rules.",
+                  "time": "February 21, 2024 at 3:59 PM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "LightHugger",
+                      "id": 39452488,
+                      "parent": 39451216,
+                      "text": "There are many critiques and reviews that count as fair use, where the content owner would prefer the fair use did not exist. It being your content does not affect whether it falls under fair use.",
+                      "time": "February 21, 2024 at 7:19 PM",
+                      "type": "comment"
+                    },
+                    {
+                      "by": "Turing_Machine",
+                      "id": 39453299,
+                      "parent": 39451216,
+                      "text": "\"Fair use\" is a legal concept that has been hammered out by government regulations and the courts.<p>You don't get to make up your own laws, mang.",
+                      "time": "February 21, 2024 at 9:06 PM",
+                      "type": "comment"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "by": "tivert",
+              "id": 39451246,
+              "parent": 39449978,
+              "text": "> I still don't get how people believe one can make money out of other people's creative works (on a mass scale at that) and get away with it.<p>They saw Uber get away with it's thing, so they're going to try to get away with theirs.  IIRC, when Uber was new, it was literally illegal in many/most of the places it operated.",
+              "time": "February 21, 2024 at 4:05 PM",
+              "type": "comment"
+            },
+            {
+              "by": "fatherzine",
+              "id": 39450130,
+              "kids": [
+                39450159,
+                39450156
+              ],
+              "parent": 39449978,
+              "text": "the attitude of those that do it: \"what are you going to do about it?\". escalatory power games, not an ounce of caring for your fellow man, barely a veneer of. we have entered very dark waters. unclear where the exit is.",
+              "time": "February 21, 2024 at 12:22 PM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "photoGrant",
+                  "id": 39450159,
+                  "parent": 39450130,
+                  "text": "The financial few have created a battle against the very world that have put them there. It might not be clear where the exit is, but it's clear the incentives are fundamentally opposite. Something, something Emperor's new clothes",
+                  "time": "February 21, 2024 at 12:29 PM",
+                  "type": "comment"
+                },
+                {
+                  "by": "scarmig",
+                  "id": 39450156,
+                  "kids": [
+                    39450304,
+                    39476233,
+                    39450984,
+                    39450338
+                  ],
+                  "parent": 39450130,
+                  "text": "Preventing or slowing the development of AI is just a startling contempt for human life. Every day millions of people die unnecessarily. Willingness to let that happen because you think your family (or, most likely, a giant corporation) deserves to be paid for a century after you die is sheer selfishness and ignorance.",
+                  "time": "February 21, 2024 at 12:28 PM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "asdfgjkl",
+                      "id": 39450304,
+                      "kids": [
+                        39453282
+                      ],
+                      "parent": 39450156,
+                      "text": "How exactly is content generation helping with preventing unnecessary death?",
+                      "time": "February 21, 2024 at 12:58 PM",
+                      "type": "comment",
+                      "comments": [
+                        {
+                          "by": "Turing_Machine",
+                          "id": 39453282,
+                          "parent": 39450304,
+                          "text": "Well, for one, you can't read a lot of scientific journals without paying massive fees.<p>That arguably slows down the pace of medical advance.<p>One might note that those massive fees do  <i>not</i> go to the \"creatives\", in this case the scientists. The scientist do the research, write the papers, peer-review the papers of others, edit the journals... and the publisher pockets the money. That's the case with most \"intellectual property\" -- the person who actually gets paid the lion's share is not the \"creative\".",
+                          "time": "February 21, 2024 at 9:05 PM",
+                          "type": "comment"
+                        }
+                      ]
+                    },
+                    {
+                      "by": "anigbrowl",
+                      "id": 39476233,
+                      "parent": 39450156,
+                      "text": "False equivalence much?!",
+                      "time": "February 23, 2024 at 10:30 AM",
+                      "type": "comment"
+                    },
+                    {
+                      "by": "esafak",
+                      "id": 39450984,
+                      "kids": [
+                        39451209
+                      ],
+                      "parent": 39450156,
+                      "text": "That's the worst argument I've ever heard. None of the sentences are connected.",
+                      "time": "February 21, 2024 at 3:17 PM",
+                      "type": "comment",
+                      "comments": [
+                        {
+                          "by": "isodev",
+                          "id": 39451209,
+                          "kids": [
+                            39451274
+                          ],
+                          "parent": 39450984,
+                          "text": "Perhaps it was written by an AI :)... One can never be certain these days.",
+                          "time": "February 21, 2024 at 3:58 PM",
+                          "type": "comment",
+                          "comments": [
+                            {
+                              "by": "tivert",
+                              "id": 39451274,
+                              "kids": [
+                                39451458
+                              ],
+                              "parent": 39451209,
+                              "text": "Or just a parody of accelerationist logic. There are so many fools on the internet that you often can't tell the fake fools from the real ones unless they give themselves away.",
+                              "time": "February 21, 2024 at 4:11 PM",
+                              "type": "comment",
+                              "comments": [
+                                {
+                                  "by": "photoGrant",
+                                  "id": 39451458,
+                                  "kids": [
+                                    39455140
+                                  ],
+                                  "parent": 39451274,
+                                  "text": "Currently the weapons against bullshit is trying to talk to it. Engage and you'll find only 5% of the time there is depth, or earnest.<p>The rest is just airing itself like dirty laundry by the second response and ultimately just serves in contributing to a humans ability to quickly adapt to new environments. Which means bullshit just smells more nuanced today.",
+                                  "time": "February 21, 2024 at 4:40 PM",
+                                  "type": "comment",
+                                  "comments": [
+                                    {
+                                      "by": "scarmig",
+                                      "id": 39455140,
+                                      "parent": 39451458,
+                                      "text": "Some of us sleep and aren't to be arguing against responses left at 1AM their time :)",
+                                      "time": "February 21, 2024 at 11:41 PM",
+                                      "type": "comment"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "by": "photoGrant",
+                      "id": 39450338,
+                      "kids": [
+                        39455014
+                      ],
+                      "parent": 39450156,
+                      "text": "If this was all done in the open as hoped, as promised and the worlds scientists were in pursuit of the same goal, I'd accept these arguments all day and keep my ignorant mouth shut. But to lie and say otherwise goes against the timeline of history we're all a part of. OpenAI lied about its openness. It then aligned militarily. It didn't offer to remove your data before this came into effect, did it? Source me if I'm wrong.<p>A private company securing the worlds resources physically, financially and informationally and selling it to anyone of its choosing or not -- is the true startling contempt for human life, especially those that follow along without an ounce of critical thinking.",
+                      "time": "February 21, 2024 at 1:04 PM",
+                      "type": "comment",
+                      "comments": [
+                        {
+                          "by": "scarmig",
+                          "id": 39455014,
+                          "kids": [
+                            39456221
+                          ],
+                          "parent": 39450338,
+                          "text": "It would obviously be better if everything were done in the open. But you can't simply say \"corporations will corrupt AI with copyright regime X\" and compare it to a hypothetical universe \"copyright regime Y will result in corporations acting with altruism.\" Regardless, corporations are going to be rent-seeking parasites trying to maximize their profits at all costs.<p>The world you're arguing for isn't one where small-time artists are adequately compensated for their work. It's one where Disney and Elsevier collect a bunch of rents and hold back development of tools that would radically improve human well-being. Even in the best case, your copyright suggestion will privilege the giant corporations who have the capability to navigate copyright rules against a bunch of other giant corporations, at the expense of smaller researchers and hobbyists.<p>I'd be more than happy to sign into something saying \"a small artist has a right to prevent training on their work without permission for a decade after it's released.\" But that is not in the cards, unfortunately.",
+                          "time": "February 21, 2024 at 11:31 PM",
+                          "type": "comment",
+                          "comments": [
+                            {
+                              "by": "tivert",
+                              "id": 39456221,
+                              "kids": [
+                                39457386
+                              ],
+                              "parent": 39455014,
+                              "text": "> Even in the best case, your copyright suggestion will privilege the giant corporations who have the capability to navigate copyright rules against a bunch of other giant corporations, at the expense of smaller researchers and hobbyists.<p>Copyright doesn't really privilege giant corporations. In a world without it, they can just use their market power and immense resources (e.g., SaaS) to protect their interests.<p>Copyright is one of the <i>few</i> tools the <i>little guy</i> can use to protect their interests against giant corporations.  Abolish it, and one of the first things that will happen is the RIAA will stop paying artists anything and become the biggest \"pirate\" in the world.<p>It's mind boggling how some people have that so backwards. I'm guessing it stems from <i>only</i> thinking about copyright in the context of \"RIAA sues...\" articles and complaints about Elsevier, without thinking about it from any other angles.",
+                              "time": "February 22, 2024 at 12:53 AM",
+                              "type": "comment",
+                              "comments": [
+                                {
+                                  "by": "photoGrant",
+                                  "id": 39457386,
+                                  "parent": 39456221,
+                                  "text": "It's cognitive dissonance to such an arrogant and ignorant degree it's turning out to be the best sunlight we've ever needed on the situation. No one is arguing a balanced or logical alternative. Every argument ignores the entire landscape of issues and reduces it to 'what's yours is mine but what's mine is not yours'..... They're arguing to keep the toys in their playground. Even if it's not their toy. It's 'in the world' so we're free to take it.<p>Ok! I appreciate this insight. At this point I'll be 'scraping' everything from tech and fight this in court with their own words.",
+                                  "time": "February 22, 2024 at 2:17 AM",
+                                  "type": "comment"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "by": "Turing_Machine",
+              "id": 39453239,
+              "parent": 39449978,
+              "text": ">  Training an AI is not fair use<p>You don't get to decide that, certainly not as a blanket statement. We're gonna have to wait for the courts.",
+              "time": "February 21, 2024 at 9:00 PM",
+              "type": "comment"
+            },
+            {
+              "by": "photoGrant",
+              "id": 39450009,
+              "kids": [
+                39450105
+              ],
+              "parent": 39449978,
+              "text": "The same executives that would argue and protect the IP of any major company out there right now are somehow saying the complete opposite when it reduces down to the individual. If this hasn't revealed the hypocrisy of thinking when chasing the money, nothing will. It's the first in a series of realities people are facing with this concept of AI. That in truth it is nothing more than a financial and informational bait and switch. Screw the lot who haven't revolted in pursuit of the fellow man and have instead sold their soul to a kleptocracy of babyfaced bullshitters",
+              "time": "February 21, 2024 at 12:04 PM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "j7ake",
+                  "id": 39450105,
+                  "kids": [
+                    39450143
+                  ],
+                  "parent": 39450009,
+                  "text": "Incentives explain seemingly paradoxical behavior.<p>With IP, corporations originated their ideas, so executives want to prevent others from copying.<p>With generative AI, corporations are copying individual's ideas, so executives want to allow this copying.",
+                  "time": "February 21, 2024 at 12:17 PM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "photoGrant",
+                      "id": 39450143,
+                      "parent": 39450105,
+                      "text": "Indeed, a tale as old as time. If only this inept thinking could extend beyond short term financial gain. When (not if) the average Luddite begins to reject and disconnect from AI wholly whether productively or emotionally, who exactly is purchasing or consuming this soulless and useless content? It's as computer-centipede as it gets. The only use is to work against the benefit of society, truth and progress. It's a walled garden that can tell local citizens the truth and adversary's a series of lies. It's shown zero progress in years beyond a navigable encyclopedia of instructions only made more convoluted and confusing. The answers to AGI are not to chase complexity of what you've created. No one is blind.",
+                      "time": "February 21, 2024 at 12:26 PM",
+                      "type": "comment"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "by": "caesil",
+          "id": 39450127,
+          "kids": [
+            39450326,
+            39450655,
+            39450202
+          ],
+          "parent": 39449946,
+          "text": "Thank you!<p>This is exactly why we need to BAN weaving machines. The will to live is sustained by the work of the skilled artisans who create clothing by hand with looms.<p>\"But I don't want to pay 500 dollars for a t-shirt\", you say. What astounding arrogance! Stop destroying culture and accept that we need to protect this valuable craft from technology that threatens to steamroll it.",
+          "time": "February 21, 2024 at 12:22 PM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "chrisknyfe",
+              "id": 39450326,
+              "kids": [
+                39450657
+              ],
+              "parent": 39450127,
+              "text": "The luddites didn't destroy the power looms because they were some kind of handcrafting purists - they destroyed the machines because they took away ownership of the means of production from individual craftsmen to big businesses. The problem wasn't the machine, it was the factory and its owner.",
+              "time": "February 21, 2024 at 1:01 PM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "xscott",
+                  "id": 39450657,
+                  "parent": 39450326,
+                  "text": "I'm guessing they were worried about their source of income, and not Marxist philosophy that came about 100 years later.  However my history isn't so hot, and maybe Ned was a philosopher in addition to a weaver, and maybe Karl should've paid royalties to his estate for stealing those ideas.  :-)",
+                  "time": "February 21, 2024 at 2:06 PM",
+                  "type": "comment"
+                }
+              ]
+            },
+            {
+              "by": "Springtime",
+              "id": 39450655,
+              "parent": 39450127,
+              "text": "Comments like these are kind of straw man rebuttals imo. There have been similar arguments such as 'electronic music didn't destroy musicianship', 'photography didn't destroy art', etc.<p>They skirt around the important details, in that in all those analogies the entire process/field wasn't replaced/impacted by automation, only facets. Advanced generative NNs aren't merely dumb automated tools that still require human craftmanship but rather, at a baseline, take the place of the humans in virtually all respects of design, implementation and continually synthesizing based on others' work.<p>The analogy presented in your post doesn't account for the designers still involved with the process, the real-world practicalities that involve humans of getting clothing made even with all the automation available. Generative AI doesn't have this goal; it's increasingly allowing for replacement of all humans and processes involved, besides the one wishing upon a genie lamp.<p>Now one <i>can</i> of course apply their own craftsmanship to such outputs if desired and there are examples of this from existing artists/writers where it fits more like a tool into a workflow (and such analogies would actually apply here), however as we can already observe the vast majority of uses don't and there is still at a minimum a usable result, as the tech advances.<p>There are also parallels one commonly reads drawn to how humans operate: if a human studied others' artwork then they too would be able to synthesize results. However no human has memory and mind's eye recall like that of advanced NNs, which is plainly observable from the output of human history. It's an unfair comparison. The goal of generative models is to be superhuman yet only human arguments are being applied.<p>I think there are a bunch of positives and negatives to this but it's hard not to see the impact it will have particularly on human motivation and societal expectations, regardless of financial incentives, apart from the general shut-up-and-take-it attitude one sees. There are some pretty impactful legitimate concerns to be had that warrant thoughtful discussion.",
+              "time": "February 21, 2024 at 2:06 PM",
+              "type": "comment"
+            },
+            {
+              "by": "photoGrant",
+              "id": 39450202,
+              "kids": [
+                39450327
+              ],
+              "parent": 39450127,
+              "text": "As per usual, money thinks of a human as a commodity for sale, not a neighbour being exploited or livelihood being stripped.<p>If you think throwing life into a black box and consuming its results will improve productivity and enhance creativity. You're forgetting the only thing we feed this thing is 'results'. You're drinking the piss from a million artists and thinking it's fresh water. Eventually this filtered, censored source of creativity is AI material being used and creating for AI, not humans -- because humans quit being a source of material and nothing more than a requester.<p>The short sightedness of believing you can commodify the human spirit is the most incredulous shit I've ever seen.",
+              "time": "February 21, 2024 at 12:35 PM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "throwaway598",
+                  "id": 39450327,
+                  "kids": [
+                    39450341
+                  ],
+                  "parent": 39450202,
+                  "text": "Self driving cars are far more impactful on employment and livelihoods of lower income and independent workers.<p>And seemingly harder to reach non-monopoly/oligopoly solutions.",
+                  "time": "February 21, 2024 at 1:01 PM",
+                  "type": "comment",
+                  "comments": [
+                    {
+                      "by": "photoGrant",
+                      "id": 39450341,
+                      "kids": [
+                        39450365
+                      ],
+                      "parent": 39450327,
+                      "text": "I don't play football unless the goalposts remain stationary.",
+                      "time": "February 21, 2024 at 1:05 PM",
+                      "type": "comment",
+                      "comments": [
+                        {
+                          "by": "throwaway598",
+                          "id": 39450365,
+                          "parent": 39450341,
+                          "text": "How wonderful it might be to be able to have tickets to both a conventional game of football and an imagined one where goalposts move around.<p>Paying people to move goalposts is expensive, and it might turn out to be a flop, but you could do both with Sora cheaply, and even make it into an interactive movie which, something impossible with conventional <i>read only</i> films.",
+                          "time": "February 21, 2024 at 1:09 PM",
+                          "type": "comment"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "by": "r721",
+          "id": 39462052,
+          "parent": 39449946,
+          "text": ">The speed of engagement in this thread and the fact it doesn't exist on the front page... or the second<p>These two things are connected, actually:<p>>The FAQ notes that submission rank is impacted by \"software which downweights overheated discussions.\" A good rule of thumb for this effect is when the number of comments on a submission exceeds its score.<p><a href=\"https://github.com/minimaxir/hacker-news-undocumented?tab=readme-ov-file#flame-war-detector\">https://github.com/minimaxir/hacker-news-undocumented?tab=re...</a>",
+          "time": "February 22, 2024 at 9:37 AM",
+          "type": "comment"
+        },
+        {
+          "by": "LudwigNagasena",
+          "id": 39450173,
+          "parent": 39449946,
+          "text": "Well, Alegria art and Marvel movies destroy my will to live. Yet I don’t advocate to ban them.",
+          "time": "February 21, 2024 at 12:30 PM",
+          "type": "comment"
+        }
+      ]
+    },
+    {
+      "by": "bugbuddy",
+      "id": 39450418,
+      "parent": 39449887,
+      "text": "It was trained on billions on hours of media that they paid for and costing them hundreds of billions of dollars. /s",
+      "time": "February 21, 2024 at 1:18 PM",
+      "type": "comment"
+    },
+    {
+      "by": "ikekkdcjkfke",
+      "id": 39450161,
+      "kids": [
+        39450187
+      ],
+      "parent": 39449887,
+      "text": "Imagine the music progression from blues->black metal if every band had copyright to their style. This critique assumes the AI is ingesting material and not reproducing it 1:1",
+      "time": "February 21, 2024 at 12:29 PM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "Throwaway1746",
+          "dead": true,
+          "id": 39450187,
+          "kids": [
+            39450298
+          ],
+          "parent": 39450161,
+          "text": "[flagged]",
+          "time": "February 21, 2024 at 12:33 PM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "tapoxi",
+              "id": 39450298,
+              "parent": 39450187,
+              "text": "Nah it's different because it's different. A machine is copying the entire contents of the copywritten work to \"learn\" from it. Humans don't.<p>I also don't get the cheerleading here. You aren't getting free access to this tech. Cheap access maybe, for now, but the only outcome is to suppress labor and maximize profit, because that's what the market demands.<p>What do we tell people in an unaffordable world dealing with the impacts of climate change when their jobs are gone? That they can't be a software engineer, or an artist, or an animator because we've taken that work - and money - and handed it to a chosen few when using their own labor to bootstrap it? This is how riots happen.",
+              "time": "February 21, 2024 at 12:56 PM",
+              "type": "comment"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

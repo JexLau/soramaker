@@ -1,0 +1,180 @@
+{
+  "id": 39416928,
+  "source": "https://news.ycombinator.com/item?id=39416928",
+  "by": "ksec",
+  "kids": [
+    39417122,
+    39417199,
+    39417301
+  ],
+  "parent": 39416752,
+  "text": ">This is from November 2023 prior to Sora.<p>Before I would have said we have plenty more to do before A.I takes over. And a.i ( Assisted Intelligence ) would aid those creative process. So it will be 50% job cut in the near 10-15 years, while the other 50% being basically double as effective if not more.<p>After Sora I think future is quite bleak for a lot of artist. Sora is like 80% there, I think we would be 90% there in 2 years time with 5-10x more GPGPU power training. And in 6 years time 95% there by 2030. Even if it didn't eliminate 90% of job but 80%. The redundancy would mean the job market is flooded with animators and their salary will likely stagnant if not fall.<p>At the same time I finally understand why Nvidia is worth so much.",
+  "time": "February 18, 2024 at 3:18 PM",
+  "type": "comment",
+  "comments": [
+    {
+      "by": "eeeficus",
+      "id": 39417122,
+      "kids": [
+        39417494,
+        39417413,
+        39417269
+      ],
+      "parent": 39416928,
+      "text": "> Sora is like 80% there, I think we would be 90% there in 2 years time with 5-10x more GPGPU power training.<p>Don’t underestimate the last 20%! I don’t think this is just a matter of more training or more data. But yeah, 2-5 more years will not change the outcome you’re describing!",
+      "time": "February 18, 2024 at 4:00 PM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "ijk",
+          "id": 39417494,
+          "kids": [
+            39417639
+          ],
+          "parent": 39417122,
+          "text": "Speaking as someone who has done VFX professionally, I think Sora is closer about 30% there. It's really not constituted in a way that makes it easy to combine with existing techniques. You either need to come up with a way to make them play nicely together or you have to recreate the entire production pipeline in the model.<p>It'll get better, but I don't think they've been aiming in the right direction if the goal is to replace current production methods.",
+          "time": "February 18, 2024 at 5:14 PM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "l33tman",
+              "id": 39417639,
+              "kids": [
+                39419344
+              ],
+              "parent": 39417494,
+              "text": "Yeah text-prompting only won't replace production work, but it can surely accelerate and boost pre-prod work, maybe doing prelim shots for a storyboard, creative ideas for the costume dept... lots of cool things.<p>I think for prod work it needs what the auto1111 plugins have given SD - ControlNet etc, where you have a lot more control over the generation and the text prompt is just a small part of it.",
+              "time": "February 18, 2024 at 5:41 PM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "dham",
+                  "id": 39419344,
+                  "parent": 39417639,
+                  "text": "Yeah, I don't think people understand how much pre-prod work is done.  For the next 5 to 10 years this what it'll be used for.  In the next 20 years, 90% are out of work.",
+                  "time": "February 18, 2024 at 10:28 PM",
+                  "type": "comment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "by": "lemoncookiechip",
+          "id": 39417413,
+          "kids": [
+            39417515
+          ],
+          "parent": 39417122,
+          "text": "The problem is that Hollywood doesn't really care. They live on making compromises during shoots, and if they can save hundreds of thousands as well as dozens of hours and manpower on a scene, they will do it (and they do all the time with horrible CGI, poorly shot scenes, etc...), and they aren't the only industry that will do this.<p>Right away, the stock footage market is in danger because content creators will opt for a free (good enough) option, over having to not just pay for, and but look for exactly what they want and need.<p>There's plenty of other industries that will be affected, I can't say that 80% of people will lose their jobs, these things aren't a switch you flip, it's a gradual process, but over time we'll definitely see jobs made obsolete/optimized.<p>This technology is the worst it'll ever be, and we've seen how far it got in just a single year with Will Smith eating spaghetti and now Sora.",
+          "time": "February 18, 2024 at 4:59 PM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "bamboozled",
+              "id": 39417515,
+              "parent": 39417413,
+              "text": "<i>The problem is that Hollywood doesn't really care. They live on making compromises during shoots, and if they can save hundreds of thousands as well as dozens of hours and manpower on a scene, they will do it (and they do all the time with horrible CGI, poorly shot scenes, etc...), and they aren't the only industry that will do this.</i><p>Isn't this a problem for Hollywood itself? Isn't the strength of Hollywood the capital to hire good actors and effects people etc?<p>You seem to be assuming that Hollywood will just fire all the actors and save money, but to me it seems more like Hollywood is in the danger zone too?",
+              "time": "February 18, 2024 at 5:18 PM",
+              "type": "comment"
+            }
+          ]
+        },
+        {
+          "by": "saiya-jin",
+          "id": 39417269,
+          "kids": [
+            39417650,
+            39417352
+          ],
+          "parent": 39417122,
+          "text": "The thing is, you run the same prompt twice and you get twice an unique result. Its trivial to keep asking for more renditions of given scene till you are happy with it, even kids can do this and certainly somebody in sweatshop in Vietnam can do that too. You literally need 1 person a bit of computer power. So instead of team of pixar and disney you have 1 guy with the product and some aws prepaid computing.<p>Now I don't know how long it took openai to put together that 10 minute demo video, if they ran 3x the resulting prompts or 100x more and had to cherry pick hard (ie that bird's head, I was expecting heavy morphing of those feathers but they kept their visual consistency, for sure this was not the first attempt with at-glance-perfect result).",
+          "time": "February 18, 2024 at 4:33 PM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "l33tman",
+              "id": 39417650,
+              "parent": 39417269,
+              "text": "sama sat on twitter during that day and rendered prompts from people on the fly, so those weren't heavily cherry-picked. I didn't watch most of them and they had some bugs for sure, but if they had had to cherry-pick like 1 of 100 for the blog demos he would never have sat and done live renders like that.",
+              "time": "February 18, 2024 at 5:43 PM",
+              "type": "comment"
+            },
+            {
+              "by": "wdh505",
+              "id": 39417352,
+              "parent": 39417269,
+              "text": "Just imagine what it could do with a storyboard",
+              "time": "February 18, 2024 at 4:46 PM",
+              "type": "comment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "by": "db1234",
+      "id": 39417199,
+      "parent": 39416928,
+      "text": "> Before I would have said we have plenty more to do before A.I takes over. And a.i ( Assisted Intelligence ) would aid those creative process.<p>My guess is in the short term it will still be assisted intelligence except that it will be humans assisting AI models as in humans in the loop correcting minor mistakes in the model generated video frames.",
+      "time": "February 18, 2024 at 4:18 PM",
+      "type": "comment"
+    },
+    {
+      "by": "oezi",
+      "id": 39417301,
+      "kids": [
+        39417637,
+        39417422
+      ],
+      "parent": 39416928,
+      "text": "If we assume double productivity we could also foresee a future where we get double the amount of high quality movies produced for the same amount of money. Productions would be more viable even on smaller budgets. Could be nice for consumers if the curation keeps up.",
+      "time": "February 18, 2024 at 4:37 PM",
+      "type": "comment",
+      "comments": [
+        {
+          "by": "gscott",
+          "id": 39417637,
+          "parent": 39417301,
+          "text": "If it becomes easier to produce a high end movie, maybe big studios won't be needed at all. The talent can make the movie then find a new means of distribution.",
+          "time": "February 18, 2024 at 5:40 PM",
+          "type": "comment"
+        },
+        {
+          "by": "incrudible",
+          "id": 39417422,
+          "kids": [
+            39417673
+          ],
+          "parent": 39417301,
+          "text": "Demand for feature films is fairly inelastic though. Also, the TikTok brained generation can barely pay attention for fifteen minutes, let alone 90 minutes.",
+          "time": "February 18, 2024 at 5:00 PM",
+          "type": "comment",
+          "comments": [
+            {
+              "by": "Eisenstein",
+              "id": 39417673,
+              "kids": [
+                39440037
+              ],
+              "parent": 39417422,
+              "text": "Demand for a video of a person reacting to another video was inelastic before youtube.<p>I don't understand TikTok, but isn't this same argument older people were making about kids playing Mario Brothers back in the 80s, and TV before that?",
+              "time": "February 18, 2024 at 5:48 PM",
+              "type": "comment",
+              "comments": [
+                {
+                  "by": "incrudible",
+                  "id": 39440037,
+                  "parent": 39417673,
+                  "text": "Either way, there's only so many hours in the day to watch video, and feature-length films are being displaced by 300 TikToks. Will that demand shift back to feature-length because of AI, or will AI rather change TikToks?",
+                  "time": "February 20, 2024 at 7:27 PM",
+                  "type": "comment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

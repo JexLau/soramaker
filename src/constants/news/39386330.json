@@ -1,0 +1,100 @@
+{
+  "id": 39386330,
+  "source": "https://news.ycombinator.com/item?id=39386330",
+  "by": "minimaxir",
+  "kids": [
+    39386877,
+    39386347,
+    39386581,
+    39386478,
+    39388623,
+    39387959,
+    39386529,
+    39387178
+  ],
+  "parent": 39386156,
+  "text": "I do wonder why OpenAI chose the name &quot;Sora&quot; for this model. AI is now going to have intersectionality with Kingdom Hearts. (Atleast you don&#x27;t need a PhD to understand AI.)",
+  "time": "February 16, 2024",
+  "type": "comment",
+  "title": "I do wonder why OpenAI chose the name \"Sora\" for this model. AI is now going to have intersectionality with Kingdom Hearts. (Atleast you don't need a PhD to understand AI.)",
+  "comments": [
+    {
+      "by": "starshadowx2",
+      "id": 39386877,
+      "parent": 39386330,
+      "text": "Sora means sky in Japanese, their reasoning is akin to &quot;the sky&#x27;s the limit&quot;.<p>&gt; The team behind the technology, including the researchers Tim Brooks and Bill Peebles, chose the name because it “evokes the idea of limitless creative potential.”",
+      "time": "February 16, 2024",
+      "type": "comment",
+      "title": "Sora means sky in Japanese, their reasoning is akin to \"the sky's the limit\".<p>> The team behind the technology, including the researchers Tim Brooks and Bill Peebles, chose the name because it “evokes the idea of limitless creative potential.”"
+    },
+    {
+      "by": "meitham",
+      "id": 39386347,
+      "parent": 39386330,
+      "text": "Sora is pictures or movie (visual) in arabic!",
+      "time": "February 16, 2024",
+      "type": "comment",
+      "title": "Sora is pictures or movie (visual) in arabic!"
+    },
+    {
+      "by": "yogorenapan",
+      "id": 39386581,
+      "kids": [
+        39392507
+      ],
+      "parent": 39386330,
+      "text": "Hear me out: Someone on the team is a fan of Yosuga No Sora",
+      "time": "February 16, 2024",
+      "type": "comment",
+      "title": "Hear me out: Someone on the team is a fan of Yosuga No Sora"
+    },
+    {
+      "by": "hk__2",
+      "id": 39386478,
+      "kids": [
+        39388616
+      ],
+      "parent": 39386330,
+      "text": "I’m confused as well because &quot;sora&quot; means &quot;sister&quot; in Neapolitan.",
+      "time": "February 16, 2024",
+      "type": "comment",
+      "title": "I’m confused as well because \"sora\" means \"sister\" in Neapolitan."
+    },
+    {
+      "by": "ristomatti",
+      "id": 39388623,
+      "parent": 39386330,
+      "text": "Obviously for it&#x27;s meaning in Finnish, &quot;gravel&quot;.",
+      "time": "February 16, 2024",
+      "type": "comment",
+      "title": "Obviously for it's meaning in Finnish, \"gravel\"."
+    },
+    {
+      "by": "renewiltord",
+      "id": 39387959,
+      "parent": 39386330,
+      "text": "That&#x27;s because it means AI Model in Wiltordian.",
+      "time": "February 16, 2024",
+      "type": "comment",
+      "title": "That's because it means AI Model in Wiltordian."
+    },
+    {
+      "by": "pavlov",
+      "id": 39386529,
+      "parent": 39386330,
+      "text": "&quot;Scene-Oriented Rank Adaptation&quot;?<p>I have no idea, just guessing...",
+      "time": "February 16, 2024",
+      "type": "comment",
+      "title": "\"Scene-Oriented Rank Adaptation\"?<p>I have no idea, just guessing..."
+    },
+    {
+      "by": "xandrius",
+      "id": 39387178,
+      "parent": 39386330,
+      "text": "It also means up&#x2F;upstairs in some dialect",
+      "time": "February 16, 2024",
+      "type": "comment",
+      "title": "It also means up/upstairs in some dialect"
+    }
+  ]
+}

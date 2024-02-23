@@ -19,9 +19,9 @@ export const Meta = ({ title, description, keywords, locale = 'en', pageurl, ima
     <meta name="description" content={description} />
     <meta name="keywords" content={keywords} />
     <link rel="canonical" href={url} />
-    <link rel="alternate" hrefLang="x-default" href={getHrefLang('en')} />
-    <link rel="alternate" hrefLang="en" href={getHrefLang('en')} />
-    <link rel="alternate" hrefLang="zh" href={getHrefLang('zh')} />
+    <link rel="alternate" hrefLang="x-default" href={getUrl('en')} />
+    <link rel="alternate" hrefLang="en" href={getUrl('en')} />
+    <link rel="alternate" hrefLang="zh" href={getUrl('zh')} />
     {/* <link rel="alternate" hrefLang="de" href={getHrefLang('de')} />
     <link rel="alternate" hrefLang="ko" href={getHrefLang('ko')} />
     <link rel="alternate" hrefLang="es" href={getHrefLang('es')} />

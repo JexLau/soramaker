@@ -4,9 +4,9 @@ import dynamic from "next/dynamic"
 
 const PlayGroundFeture = dynamic(() => import("./Client"), { ssr: false })
 
-export function Playground() {
+export function Playground({ numbers}: { numbers?: number}) {
   const t = useTranslations("Playground")
   return (
-    <PlayGroundFeture />
+    <PlayGroundFeture numbers={numbers} />
   )
 }

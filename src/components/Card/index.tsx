@@ -19,8 +19,8 @@ export const MediaCard = ({ id, src, prompt, source, className }: MediaCard) => 
       <div className="aspect-video rounded-t-xl  object-cover group-hover:opacity-75">
         <VideoPlayer src={src} />
       </div>
-      <figcaption className="mt-6 text-sm leading-6 text-gray-300 px-8 ">
-      Prompt: {prompt} <CopyIconClient text={prompt} />
+      <figcaption className="mt-6 text-sm leading-6 text-gray-300 px-8  w-full line-clamp-6 ">
+        <CopyIconClient text={prompt} />Prompt: {prompt}
       </figcaption>
       <figcaption className="mt-6 text-sm leading-6 text-gray-300 px-8 inline-flex justify-between w-full items-center">
         <span>🤖 {source}</span>

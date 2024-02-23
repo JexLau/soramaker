@@ -5,9 +5,9 @@ import Link from 'next/link';
 import Masonry from 'react-masonry-css';
 
 const defaultBreakPoint = {
-  default: 4, // Default to 4 columns
-  '1536': 4, // Tailwind's '2xl' breakpoint at 1536px
-  '1280': 4, // Tailwind's 'xl' breakpoint
+  default: 3, // Default to 3 columns
+  '1536': 3, // Tailwind's '2xl' breakpoint at 1536px
+  '1280': 3, // Tailwind's 'xl' breakpoint
   '1024': 3, // Tailwind's 'lg' breakpoint
   '768': 3,  // Tailwind's 'md' breakpoint
   '640': 1,  // Tailwind's 'sm' breakpoint

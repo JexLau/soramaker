@@ -9,14 +9,14 @@ import { PrimaryButton } from "../Button";
 import { VideoPlayer } from "../VideoPlayer";
 import { CopyIconClient } from "../Card/CopyIcon";
 
-export const PlayGroundFeture = () => {
+export const PlayGroundFeture = ({ numbers}: { numbers?: number}) => {
   const [textStr, setTextStr] = useState('Example: Tour of an art gallery with many beautiful works of art in different styles.');
   const [tips, setTips] = useState('');
   const [isLoading, setLoading] = useState(false);
   const [video, setVideo] = useState({ revised_prompt: '', url: '' });
 
   const getRandomeVideo = () => {
-    const videos = randomVideo().map((item) => {
+    const videos = randomVideo(numbers).map((item) => {
       return item ? {
         id: item.id,
         src: item.videoUrl,
@@ -142,8 +142,8 @@ export const PlayGroundFeture = () => {
             <VideoMasonry videos={videoList} breakpointObj={{
               default: 4,
               '1536': 3,
-              '1280': 2,
-              1100: 1,
+              '1280': 3,
+              1100: 2,
             }} />
           </div>
         </div>

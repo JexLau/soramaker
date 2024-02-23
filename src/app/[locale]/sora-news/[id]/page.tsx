@@ -1,12 +1,11 @@
 import { MainContent } from "@/components/Main";
 import { Meta } from "@/components/Meta";
-import { allVideoList } from "@/constants/videos";
-import { getNewsDataDetail } from "../getNewsData";
+import { getNewsDataDetail, getNewsIds } from "../getNewsData";
 import { CommentItem } from "@/components/Comment";
 
 // https://next-intl-docs.vercel.app/docs/getting-started/app-router#static-rendering
 export function generateStaticParams() {
-  return allVideoList.map((item) => ({ id: item.id }));
+  return getNewsIds().map((item) => ({ id: `${item}` }));
 }
 
 export default function DefaultPage({ params }: { params: Record<string, string> }) {

@@ -48,3 +48,5 @@ pnpm run dev
 - [Supabase](https://supabase.com) - Supabase文档. 
 - [Next Intl](https://next-intl-docs.vercel.app/) - Next.js的国际化支持，支持多语言
 - [SSG Example]()
+
+![首页截图](https://soramaker.ai/share.jpg)

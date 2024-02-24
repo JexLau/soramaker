@@ -47,3 +47,5 @@ Finally, open [http://localhost:3000](http://localhost:3000) in your browser to 
 - [Supabase](https://supabase.com) - Start project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, Storage, and Vector embeddings. 
 - [Next Intl](https://next-intl-docs.vercel.app/) - Internationalization for Next.js, Support multiple languages
 - [SSG Example]()
+
+![Screen Shot](https://soramaker.ai/share.jpg)

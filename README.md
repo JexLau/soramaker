@@ -4,6 +4,8 @@ Transform Your Ideas into Videos with Sora.
 
 Here is online website👉 [SoraMakerAI](https://soramaker.ai)
 
+> Notice: The Generate API is Fake !!!
+
 <div align="left">
 
 English | [简体中文](https://github.com/JexLau/soramaker/blob/main/README.zh-CN.md)

@@ -4,6 +4,9 @@
 
 这里是在线网站👉 [SoraMakerAI](https://soramaker.ai)
 
+> Notice: 生成视频接口是 Mock 的!!!
+
+
 <div align="left">
 
 [English](https://github.com/JexLau/soramaker/blob/main/README.md) | 简体中文

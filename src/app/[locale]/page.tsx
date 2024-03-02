@@ -19,7 +19,7 @@ export default function Home({ params }: { params: Record<string, string> }) {
 
   return (
     <>
-      <Meta title={'Sora by OpenAI: Revolutionizing Content Creation with AI Text-to-Video Technology - Sora Maker AI'} description={"Experience the future of content creation with Sora, OpenAI's pioneering AI text-to-video tool. Transform your stories into captivating videos effortlessly. Ideal for creators, marketers, and educators."} keywords='Sora OpenAI, AI Text-to-Video, Content Creation, AI Video Generation, Creative AI Tools, Multimedia Content' locale={locale} />
+      <Meta title={'By OpenAI: Free Use AI Video Generator Online - Sora Maker'} description={"Creativity OpenAI Sora's playground: a free-use ai video generator where prompts and tools turn ideas into videos"} keywords='Sora OpenAI, Text-to-Video, AI Video Generator, Creative AI Tools, Online Video Maker, Free Easy Video Maker' locale={locale} />
       <MainContent>
         <Marquee />
         <ContentSection />
@@ -31,7 +31,7 @@ export default function Home({ params }: { params: Record<string, string> }) {
           <p className="my-8 text-main-text text-center">
             Discover daily updates on the latest Sora AI News & Insights at Soramaker.ai. Dive into the world of AI innovation with fresh, engaging content every day. Stay ahead in the AI landscape with our expert analysis and in-depth articles.
           </p>
-        <NewsList list={posts} />
+          <NewsList list={posts} />
         </div>
         <DescSection />
       </MainContent>

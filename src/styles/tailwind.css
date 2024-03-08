@@ -86,7 +86,7 @@
   z-index: -1;
   opacity: .05;
   pointer-events: none;
-  background-image: url(../images/noise.png);
+  background-image: url(../images/noise.webp);
   background-repeat: repeat;
   background-position: 0 0;
   background-size: 200px auto;

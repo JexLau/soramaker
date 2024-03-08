@@ -36,11 +36,11 @@ export const VideoPlayer = ({ src, alt, cover, autoPlay }: VideoPlayerProps) => 
             alt={alt || fileName || 'video cover'}
             width={325}
             height={183}
-            className='cursor-pointer w-full h-auto rounded-t-xl'
+            className='h-auto w-full cursor-pointer rounded-t-xl'
             onClick={handleCoverClick} // 点击封面时触发播放
           />
           <PlayCircleIcon
-            className='h-16 w-16 absolute top-[50%] left-[50%] transform translate-x-[-50%] translate-y-[-50%] text-white cursor-pointer'
+            className='absolute left-[50%] top-[50%] h-16 w-16 translate-x-[-50%] translate-y-[-50%] transform cursor-pointer text-white'
             onClick={handleCoverClick}
           />
         </div>

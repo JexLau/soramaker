@@ -24,11 +24,11 @@ export default function Home({ params }: { params: Record<string, string> }) {
         <Marquee />
         <ContentSection />
         <Playground numbers={3} />
-        <div className="mx-auto max-w-4xl text-center my-4">
-          <h2 className="text-main-text text-xl lg:text-4xl flex justify-center items-center my-6 text-center">
+        <div className="mx-auto my-4 max-w-4xl text-center">
+          <h2 className="my-6 flex items-center justify-center text-center text-xl text-main-text lg:text-4xl">
             Latest Sora AI News & Insights
           </h2>
-          <p className="my-8 text-main-text text-center">
+          <p className="my-8 text-center text-main-text">
             Discover daily updates on the latest Sora AI News & Insights at Soramaker.ai. Dive into the world of AI innovation with fresh, engaging content every day. Stay ahead in the AI landscape with our expert analysis and in-depth articles.
           </p>
           <NewsList list={posts} />

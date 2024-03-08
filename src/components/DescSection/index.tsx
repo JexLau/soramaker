@@ -3,10 +3,10 @@ import { useTranslations } from "next-intl"
 export function DescSection() {
   const t = useTranslations('DescSection')
   return (
-    <div className="px-6 lg:px-8 relative pb-12 mt-10">
+    <div className="relative mt-10 px-6 pb-12 lg:px-8">
       <div className="mx-auto max-w-4xl text-base leading-7 text-main-text">
         <h2 className="text-4xl font-bold tracking-tight text-main-text">{'Introducing'}</h2>
-        <h3 className="mt-6 font-semibold text-main-text text-2xl">
+        <h3 className="mt-6 text-2xl font-semibold text-main-text">
           Harms or Risks
         </h3>
         <p className="mt-3">
@@ -15,19 +15,19 @@ export function DescSection() {
         <p className="mt-3">
           We’re sharing our research progress early to start working with and getting feedback from people outside of OpenAI and to give the public a sense of what AI capabilities are on the horizon.
         </p>
-        <h3 className="mt-6 font-semibold text-main-text text-2xl">
+        <h3 className="mt-6 text-2xl font-semibold text-main-text">
           Complex Scenes With Multiple Characters
         </h3>
         <p className="mt-3">
           Sora is able to generate complex scenes with multiple characters, specific types of motion, and accurate details of the subject and background. The model understands not only what the user has asked for in the prompt, but also how those things exist in the physical world.
         </p>
-        <h3 className="mt-6 font-semibold text-main-text text-2xl">
+        <h3 className="mt-6 text-2xl font-semibold text-main-text">
           Create Multiple Shots Within a Single Generated Video
         </h3>
         <p className="mt-3">
           The model has a deep understanding of language, enabling it to accurately interpret prompts and generate compelling characters that express vibrant emotions. Sora can also create multiple shots within a single generated video that accurately persist characters and visual style.
         </p>
-        <h3 className="mt-6 font-semibold text-main-text text-2xl">
+        <h3 className="mt-6 text-2xl font-semibold text-main-text">
           Weaknesses
         </h3>
         <p className="mt-3">
@@ -44,7 +44,7 @@ export function DescSection() {
           <p className="mt-6">
             {`OpenAI’s Sora Turns AI Prompts Into Photorealistic Videos. OpenAI's entry into generative AI video is an impressive first step. The model can generate videos up to a minute long while maintaining visual quality and adherence to the user’s prompt.`}
           </p>
-          <ul role="list" className="mt-8 my-8 space-y-8 text-main-text">
+          <ul role="list" className="my-8 mt-8 space-y-8 text-main-text">
             <li className="flex gap-x-3">
               <span>
                 {`OpenAI didn’t let me enter my own prompts, but it shared four instances of Sora’s power. (None approached the purported one-minute limit; the longest was 17 seconds.) The first came from a detailed prompt that sounded like an obsessive screenwriter’s setup: “Beautiful, snowy Tokyo city is bustling. The camera moves through the bustling city street, following several people enjoying the beautiful snowy weather and shopping at nearby stalls. Gorgeous sakura petals are flying through the wind along with snowflakes.”`}
@@ -73,7 +73,7 @@ export function DescSection() {
               </span>
             </li>
           </ul>
-          <video controls className="aspect-video rounded-xl w-full bg-gray-50 object-cover">
+          <video controls className="aspect-video w-full rounded-xl bg-gray-50 object-cover">
             <source src="https://media.wired.com/clips/65cd6097640589f91cb00713/720p/pass/monster.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
